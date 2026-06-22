@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <div class="container">
+      <div class="post-category">{{ page.categories | first | upcase }}</div>
+      <h1 class="post-title" itemprop="headline">{{ page.title }}</h1>
+      <p class="post-meta">
+        By <span itemprop="author">{{ page.author | default: site.author }}</span> ·
+        <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%B %d, %Y" }}
+        </time>
+        {% if page.read_time %} · {{ page.read_time }} min read{% endif %}
+      </p>
+    </div>
+  </header>
+
+  <div class="container post-layout">
+
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+    <!-- Sidebar -->
+    <aside class="post-sidebar">
+      <div class="sidebar-box">
+        <h3>Free Resource</h3>
+        <p>Get the <strong>LeadsLeap Blueprint</strong> — build a real leads system from scratch.</p>
+        <a href="https://llpgpro.com/6jjpsb3w/" class="btn-sidebar" target="_blank" rel="noopener">Download Free →</a>
+      </div>
+      <div class="sidebar-box">
+        <h3>Digital Tools Shop</h3>
+        <p>Templates, planners & affiliate kits for online marketers.</p>
+        <a href="{{ site.etsy_store }}" class="btn-sidebar" target="_blank" rel="noopener">Visit the Store →</a>
+      </div>
+    </aside>
+
+  </div>
+
+  <!-- Post CTA -->
+  <div class="post-cta">
+    <div class="container">
+      <h3>Ready to Build Real Residual Income?</h3>
+      <p>Join the ProRevenuePlus 7-Step Funnel — 100% free, fully rebrandable.</p>
+      <a href="{{ site.funnel }}" class="btn-cta" target="_blank" rel="noopener">Get Instant Access →</a>
+    </div>
+  </div>
+
+</article>
