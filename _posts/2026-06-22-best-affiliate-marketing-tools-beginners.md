@@ -36,7 +36,7 @@ Pictory converts your written content into professional videos automatically. Wr
 
 You need websites — for landing pages, for client projects, for your own offers. [Hostinger Horizons](https://www.hostinger.com?REFERRALCODE=1PNGEDMONGAS) lets you build professional sites in minutes using AI, without needing a developer.
 
-It's the fastest way to go from idea to live site.
+It's the fastest way to go from idea to live site. Get Pictory.ai with a 20% coupon code on annual subscription: Promo code: PRpc20 [Pictory.AI save with code](https://pictory.ai/?fpr=george62)
 
 ## 5. An Etsy Store for Digital Products
 
