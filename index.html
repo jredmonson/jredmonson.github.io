@@ -1,0 +1,67 @@
+---
+layout: default
+title: "Affiliate Marketing Tips, Tools & Residual Income Strategies"
+description: "Actionable affiliate marketing strategies, digital product tools, and proven residual income systems for online entrepreneurs."
+---
+
+<!-- Hero -->
+<section class="hero">
+  <div class="container">
+    <h1>Build Real Residual Income<br>with Affiliate Marketing</h1>
+    <p>Proven strategies, digital tools, and step-by-step systems — built for online entrepreneurs who want income that works while they sleep.</p>
+    <a href="https://llpgpro.com/bk8hwzhf/" class="btn-hero" target="_blank" rel="noopener">Get the Free 7-Step Funnel →</a>
+  </div>
+</section>
+
+<!-- Blog Posts -->
+<section class="blog-section">
+  <div class="container">
+    <h2>Latest Articles</h2>
+    <div class="post-grid">
+      {% for post in paginator.posts %}
+      <article class="post-card">
+        <div class="post-card-category">{{ post.categories | first }}</div>
+        <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+        <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 120 }}</p>
+        <div class="post-card-footer">
+          <time>{{ post.date | date: "%b %d, %Y" }}</time>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="read-more">Read More →</a>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+
+    <!-- Pagination -->
+    {% if paginator.total_pages > 1 %}
+    <nav class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="btn-page">← Newer</a>
+      {% endif %}
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="btn-page">Older →</a>
+      {% endif %}
+    </nav>
+    {% endif %}
+  </div>
+</section>
+
+<!-- Resource Bar -->
+<section class="resource-bar">
+  <div class="container resource-grid">
+    <div class="resource-item">
+      <h3>Free LeadsLeap Blueprint</h3>
+      <p>Build your leads system from scratch.</p>
+      <a href="https://llpgpro.com/6jjpsb3w/" target="_blank" rel="noopener">Download Free →</a>
+    </div>
+    <div class="resource-item">
+      <h3>Affiliate Network Approval Guide</h3>
+      <p>Get approved to the top affiliate networks fast.</p>
+      <a href="https://llpgpro.com/f6jhrm7v/" target="_blank" rel="noopener">Get the Guide →</a>
+    </div>
+    <div class="resource-item">
+      <h3>ProAffiliateVault Shop</h3>
+      <p>Done-for-you templates and digital kits.</p>
+      <a href="https://proaffiliatevault.etsy.com" target="_blank" rel="noopener">Shop Now →</a>
+    </div>
+  </div>
+</section>
