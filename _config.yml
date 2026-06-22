@@ -1,0 +1,35 @@
+title: "ProAffiliateVault - Affiliate Marketing & Digital Income"
+description: "Proven affiliate marketing strategies, digital tools, and residual income systems for online entrepreneurs."
+baseurl: ""
+url: "https://jredmonson.github.io"
+author: "JR Edmonson"
+email: george@prorevenueplus.com
+
+# SEO & Social
+twitter:
+  username: jredmonson
+logo: /assets/img/logo.png
+
+# Affiliate store
+etsy_store: "https://proaffiliatevault.etsy.com"
+leadsleap: "https://leadsleap.com/?r=jredmonson"
+funnel: "https://llpgpro.com/bk8hwzhf/"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title/
+paginate: 10
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "JR Edmonson"
