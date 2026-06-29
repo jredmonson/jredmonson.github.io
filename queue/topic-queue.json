@@ -1,0 +1,437 @@
+{
+  "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
+  "rotation": "3:1",
+  "offer_streak": 3,
+  "last_published_date": "2026-06-29",
+  "topics": [
+    {
+      "id": "best-affiliate-marketing-tools-beginners",
+      "status": "published",
+      "category": "educational",
+      "date": "2026-06-22"
+    },
+    {
+      "id": "ai-content-engine-2026",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "done-for-you-local-business-seo-service",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "google-business-profile-optimization-service",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "professional-youtube-banner-design-service",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "how-to-make-money-with-digital-products",
+      "status": "published",
+      "category": "educational",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "leadsleap-review-2026",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-24"
+    },
+    {
+      "id": "ghl-agency-local-business",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "how-to-start-gohighlevel-agency-local-business",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "how-to-turn-text-into-video-pictory-ai",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "pictory-ai-review-2026",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "pictory-ai-review-affiliate-marketing-videos",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-25"
+    },
+    {
+      "id": "affiliate-network-approval-guide",
+      "status": "published",
+      "category": "educational",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "mr-x-premium-traffic-review-affiliate-marketers",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "world-profit-review",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-26"
+    },
+    {
+      "id": "hostinger-horizons-review",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-27"
+    },
+    {
+      "id": "prorevenuplus-funnel-review",
+      "status": "published",
+      "category": "offer",
+      "date": "2026-06-27"
+    },
+    {
+      "id": "leadsleap-free-traffic-system",
+      "status": "published",
+      "category": "offer",
+      "title": "LeadsLeap Free Traffic System: How to Get Real Clicks Without Paying",
+      "keyphrase": "leadsleap free traffic",
+      "affiliate_link": "https://leadsleap.com/?r=jredmonson",
+      "offer": "LeadsLeap",
+      "pov": "Most free traffic is junk ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ LeadsLeap's credit-based system filters for real affiliate marketers actively looking for offers, which is the only free traffic worth having.",
+      "target_question": "How do you get free targeted traffic with LeadsLeap?",
+      "category_tag": "traffic-generation",
+      "date": "2026-06-28"
+    },
+    {
+      "id": "leadsleap-email-marketing-free-list-building",
+      "status": "published",
+      "category": "offer",
+      "title": "LeadsLeap Email Marketing: Build Your List for Free (No Aweber Needed)",
+      "keyphrase": "leadsleap email marketing",
+      "affiliate_link": "https://leadsleap.com/?r=jredmonson",
+      "offer": "LeadsLeap",
+      "pov": "Paying $30/month for an autoresponder when you have zero subscribers is backwards. LeadsLeap lets you build to 1,000 subscribers free ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ prove the list converts first, then upgrade.",
+      "target_question": "Can you build an email list for free with LeadsLeap?",
+      "category_tag": "tools-resources",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "leadsleap-vs-getresponse-affiliate-marketers",
+      "status": "published",
+      "category": "offer",
+      "title": "LeadsLeap vs GetResponse for Affiliate Marketers: Honest Comparison 2026",
+      "keyphrase": "leadsleap vs getresponse",
+      "affiliate_link": "https://leadsleap.com/?r=jredmonson",
+      "offer": "LeadsLeap",
+      "pov": "GetResponse wins on polish; LeadsLeap wins on value-per-dollar for affiliate marketers under 5,000 subscribers. The built-in traffic system tips the balance.",
+      "target_question": "Which is better for affiliate marketers: LeadsLeap or GetResponse?",
+      "category_tag": "tools-resources",
+      "date": "2026-06-29"
+    },
+    {
+      "id": "solo-ads-vs-mrx-premium-traffic",
+      "status": "pending",
+      "category": "offer",
+      "title": "Solo Ads vs MR X Premium Traffic: Which Converts Better for Affiliate Offers?",
+      "keyphrase": "solo ads vs premium traffic affiliate marketing",
+      "affiliate_link": "https://mrxpremiumtraffic.com/amember/aff/go/jredmonson",
+      "offer": "MR X Premium Traffic",
+      "pov": "Solo ads burn money while you learn the list owner's audience. MR X traffic is pre-filtered for buyer intent ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ scale what converts, don't pay to experiment.",
+      "target_question": "Is MR X Premium Traffic better than solo ads for affiliate marketing?",
+      "category_tag": "traffic-generation"
+    },
+    {
+      "id": "how-to-scale-affiliate-offers-paid-traffic-2026",
+      "status": "pending",
+      "category": "offer",
+      "title": "How to Scale Affiliate Offers with Paid Traffic in 2026 (Without Wasting Your Budget)",
+      "keyphrase": "scale affiliate offers paid traffic 2026",
+      "affiliate_link": "https://mrxpremiumtraffic.com/amember/aff/go/jredmonson",
+      "offer": "MR X Premium Traffic",
+      "pov": "Most affiliates test with paid traffic and lose money because they test wrong. Prove the funnel with free traffic first, then pour paid traffic on a proven converter.",
+      "target_question": "How do you scale affiliate offers with paid traffic without losing money?",
+      "category_tag": "traffic-generation"
+    },
+    {
+      "id": "pictory-ai-pricing-annual-plan-worth-it",
+      "status": "pending",
+      "category": "offer",
+      "title": "Pictory AI Pricing 2026: Is the Annual Plan Worth It? (Use Code PRpc20 for 20% Off)",
+      "keyphrase": "pictory ai pricing",
+      "affiliate_link": "https://pictory.ai/?fpr=george62",
+      "offer": "Pictory AI",
+      "pov": "The monthly plan is fine to test. If you're publishing more than 4 videos a month, the annual plan pays for itself ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ especially with the 20% discount code.",
+      "target_question": "Is Pictory AI annual plan worth the price?",
+      "category_tag": "tools-resources"
+    },
+    {
+      "id": "make-youtube-videos-pictory-ai-30-minutes",
+      "status": "pending",
+      "category": "offer",
+      "title": "How to Make YouTube Videos with Pictory AI in Under 30 Minutes (No Camera Needed)",
+      "keyphrase": "make youtube videos with pictory ai",
+      "affiliate_link": "https://pictory.ai/?fpr=george62",
+      "offer": "Pictory AI",
+      "pov": "Every affiliate marketer should have a YouTube presence, but most won't show their face or learn video editing. Pictory removes both barriers ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ script to published video in under 30 minutes.",
+      "target_question": "How long does it take to make a YouTube video with Pictory AI?",
+      "category_tag": "tools-resources"
+    },
+    {
+      "id": "pictory-ai-for-affiliate-blog-to-video",
+      "status": "pending",
+      "category": "offer",
+      "title": "Turn Your Blog Posts into Videos with Pictory AI: Affiliate Marketing Content Multiplier",
+      "keyphrase": "blog to video pictory ai",
+      "affiliate_link": "https://pictory.ai/?fpr=george62",
+      "offer": "Pictory AI",
+      "pov": "You already wrote the article. Pictory converts it to video in minutes ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ that's the same content getting indexed on YouTube, Pinterest, and Google simultaneously.",
+      "target_question": "Can Pictory AI turn blog posts into videos automatically?",
+      "category_tag": "tools-resources"
+    },
+    {
+      "id": "world-profit-silver-vs-gold-membership",
+      "status": "pending",
+      "category": "offer",
+      "title": "World Profit Silver vs Gold Membership: Which Level is Right for Beginners?",
+      "keyphrase": "world profit silver vs gold membership",
+      "affiliate_link": "https://homebizsuccess5000.com//?id=90906",
+      "offer": "World Profit",
+      "pov": "Start Silver. The traffic volume from Silver is more than enough to learn what converts before spending more. Upgrade only when your commissions justify it.",
+      "target_question": "Should beginners choose World Profit Silver or Gold membership?",
+      "category_tag": "tools-resources"
+    },
+    {
+      "id": "world-profit-traffic-system-safelists-2026",
+      "status": "pending",
+      "category": "offer",
+      "title": "World Profit Traffic System 2026: How Safelists Still Work for Affiliate Marketers",
+      "keyphrase": "world profit traffic safelists 2026",
+      "affiliate_link": "https://homebizsuccess5000.com//?id=90906",
+      "offer": "World Profit",
+      "pov": "Safelists are dismissed by marketers who never used them correctly. The audience is 100% affiliate marketers actively looking for opportunities ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ you just need the right offer.",
+      "target_question": "Do World Profit safelists still work for affiliate marketing in 2026?",
+      "category_tag": "traffic-generation"
+    },
+    {
+      "id": "sign-first-ghl-agency-client-no-cold-calling",
+      "status": "pending",
+      "category": "offer",
+      "title": "How to Sign Your First HighLevel Agency Client Without Cold Calling",
+      "keyphrase": "sign first highlevel agency client",
+      "affiliate_link": "https://flashframestudio.com/pages2/page_6a0e887318fe8.html",
+      "offer": "HighLevel Agency",
+      "pov": "Cold calling works but kills momentum for solo operators. Content-driven inbound ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ one good case study article + a Google Business Profile ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ pulls better leads than 100 cold calls.",
+      "target_question": "How do you get your first HighLevel agency client without cold calling?",
+      "category_tag": "local-business"
+    },
+    {
+      "id": "highlevel-starter-plan-what-you-get",
+      "status": "pending",
+      "category": "offer",
+      "title": "HighLevel Starter Plan Review 2026: What You Get and Is It Enough to Start an Agency?",
+      "keyphrase": "highlevel starter plan review",
+      "affiliate_link": "https://flashframestudio.com/pages2/page_6a0e887318fe8.html",
+      "offer": "HighLevel Agency",
+      "pov": "The Starter plan gives you everything you need to serve your first 3 clients. The Unlimited plan becomes necessary only when you're managing 5+ accounts ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ don't overspend on day one.",
+      "target_question": "Is the HighLevel Starter plan enough to run an agency?",
+      "category_tag": "local-business"
+    },
+    {
+      "id": "ghl-reputation-management-local-business",
+      "status": "pending",
+      "category": "offer",
+      "title": "GHL Reputation Management for Local Business: How to Automate Google Reviews",
+      "keyphrase": "ghl reputation management local business",
+      "affiliate_link": "https://flashframestudio.com/pages2/page_6a0e887318fe8.html",
+      "offer": "HighLevel Agency",
+      "pov": "Google reviews are the #1 local SEO signal. A single automated post-service text requesting a review outperforms every manual follow-up a business owner ever does.",
+      "target_question": "How does GHL automate Google reviews for local businesses?",
+      "category_tag": "local-business"
+    },
+    {
+      "id": "how-to-rebrand-free-funnel-affiliate-marketing",
+      "status": "pending",
+      "category": "offer",
+      "title": "How to Rebrand a Free Funnel and Make It Your Own Affiliate Asset",
+      "keyphrase": "rebrand free funnel affiliate marketing",
+      "affiliate_link": "https://llpgpro.com/bk8hwzhf/",
+      "offer": "ProRevenuePlus 7-Step Funnel",
+      "pov": "A rebranded free funnel beats a generic one every time ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ adding your name and one personal insight makes it your content, not a copy.",
+      "target_question": "How do you rebrand a free funnel to make it convert better?",
+      "category_tag": "affiliate-marketing"
+    },
+    {
+      "id": "prorevenuplus-residual-income-step-by-step",
+      "status": "pending",
+      "category": "offer",
+      "title": "ProRevenuePlus 7-Step Residual Income System: A Step-by-Step Walkthrough",
+      "keyphrase": "prorevenuplus residual income system",
+      "affiliate_link": "https://llpgpro.com/bk8hwzhf/",
+      "offer": "ProRevenuePlus 7-Step Funnel",
+      "pov": "The system works because it layers affiliate offers at each step instead of asking for the sale immediately ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ prospects warm up through free value before seeing anything paid.",
+      "target_question": "How does the ProRevenuePlus 7-step system generate residual income?",
+      "category_tag": "affiliate-marketing"
+    },
+    {
+      "id": "hostinger-horizons-vs-wix-affiliate-sites",
+      "status": "pending",
+      "category": "offer",
+      "title": "Hostinger Horizons vs Wix: Best AI Website Builder for Affiliate Marketing Sites",
+      "keyphrase": "hostinger horizons vs wix affiliate site",
+      "affiliate_link": "https://www.hostinger.com?REFERRALCODE=1PNGEDMONGAS",
+      "offer": "Hostinger Horizons",
+      "pov": "Wix is prettier out of the box. Hostinger Horizons is faster to deploy and costs less per year ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ for affiliate sites where speed and cost matter more than design control, Horizons wins.",
+      "target_question": "Which is better for affiliate sites: Hostinger Horizons or Wix?",
+      "category_tag": "tools-resources"
+    },
+    {
+      "id": "build-affiliate-site-hostinger-one-day",
+      "status": "pending",
+      "category": "offer",
+      "title": "How to Build an Affiliate Marketing Website with Hostinger in One Day",
+      "keyphrase": "build affiliate website hostinger",
+      "affiliate_link": "https://www.hostinger.com?REFERRALCODE=1PNGEDMONGAS",
+      "offer": "Hostinger Horizons",
+      "pov": "A week-long website build is a planning problem, not a technical one. With AI-assisted builders, the only variable is how fast you make decisions on layout and content.",
+      "target_question": "How long does it take to build an affiliate marketing website with Hostinger?",
+      "category_tag": "tools-resources"
+    },
+    {
+      "id": "start-etsy-digital-downloads-store-beginner",
+      "status": "pending",
+      "category": "offer",
+      "title": "How to Start an Etsy Digital Downloads Store: Complete Beginner Guide 2026",
+      "keyphrase": "start etsy digital downloads store",
+      "affiliate_link": "https://proaffiliatevault.etsy.com",
+      "offer": "Etsy / ProAffiliateVault",
+      "pov": "Most beginners overthink the product. Start with one well-researched template, get your first sale, then build from there ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ a full catalog with no sales solves nothing.",
+      "target_question": "How do you start selling digital downloads on Etsy?",
+      "category_tag": "affiliate-marketing"
+    },
+    {
+      "id": "best-digital-products-etsy-passive-income-2026",
+      "status": "pending",
+      "category": "offer",
+      "title": "Best Digital Products to Sell on Etsy for Passive Income in 2026",
+      "keyphrase": "best digital products etsy passive income 2026",
+      "affiliate_link": "https://proaffiliatevault.etsy.com",
+      "offer": "Etsy / ProAffiliateVault",
+      "pov": "Templates and planners sell because buyers want to skip the work, not buy content. The products that convert are the ones that save someone 2+ hours of their own time.",
+      "target_question": "What digital products sell best on Etsy for passive income?",
+      "category_tag": "affiliate-marketing"
+    },
+    {
+      "id": "price-digital-products-etsy-what-sells",
+      "status": "pending",
+      "category": "offer",
+      "title": "How to Price Digital Products on Etsy: What Actually Sells vs What Sits",
+      "keyphrase": "how to price digital products etsy",
+      "affiliate_link": "https://proaffiliatevault.etsy.com",
+      "offer": "Etsy / ProAffiliateVault",
+      "pov": "Under-pricing signals low value. The $7ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ15 range for templates is the sweet spot ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ low enough for impulse buys, high enough to be taken seriously.",
+      "target_question": "How much should you charge for digital products on Etsy?",
+      "category_tag": "affiliate-marketing"
+    },
+    {
+      "id": "build-traffic-system-runs-without-you",
+      "status": "pending",
+      "category": "educational",
+      "title": "How to Build a Traffic System That Runs Without You (Automation + AI Stack)",
+      "keyphrase": "automated traffic system affiliate marketing",
+      "affiliate_link": "https://leadsleap.com/?r=jredmonson",
+      "offer": null,
+      "pov": "Traffic automation isn't about one tool ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ it's about a repeating loop: content published ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ indexed ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ drives clicks ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ grows the list. Break any link in that loop and it stops.",
+      "target_question": "How do you build a traffic system that runs on autopilot?",
+      "category_tag": "traffic-generation"
+    },
+    {
+      "id": "affiliate-marketing-beginners-first-100",
+      "status": "pending",
+      "category": "educational",
+      "title": "Affiliate Marketing for Beginners: How to Make Your First $100 Online",
+      "keyphrase": "affiliate marketing beginners first $100",
+      "affiliate_link": "https://llpgpro.com/bk8hwzhf/",
+      "offer": null,
+      "pov": "The first $100 is harder than the next $1,000 ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ not because of the system but because of belief. The system is simple: one proven offer, one traffic source, one landing page. Complexity kills beginners.",
+      "target_question": "How do beginners make their first $100 with affiliate marketing?",
+      "category_tag": "affiliate-marketing"
+    },
+    {
+      "id": "lead-magnet-gets-optins",
+      "status": "pending",
+      "category": "educational",
+      "title": "How to Create a Lead Magnet That Actually Gets Opt-ins (Not a Generic eBook)",
+      "keyphrase": "create lead magnet that converts",
+      "affiliate_link": "https://leadsleap.com/?r=jredmonson",
+      "offer": null,
+      "pov": "Nobody opts in for another PDF. They opt in for a specific result in a specific timeframe. The title is the product ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ if the title doesn't make someone say 'I need that right now,' nothing else matters.",
+      "target_question": "What makes a lead magnet that people actually download?",
+      "category_tag": "affiliate-marketing"
+    },
+    {
+      "id": "email-list-building-affiliate-marketers-first-sale",
+      "status": "pending",
+      "category": "educational",
+      "title": "Email List Building for Affiliate Marketers: From Zero to First Sale",
+      "keyphrase": "email list building affiliate marketing",
+      "affiliate_link": "https://leadsleap.com/?r=jredmonson",
+      "offer": null,
+      "pov": "Your first 100 subscribers are worth more than your next 1,000 if you write to them like real people. Most affiliates automate too early and kill the relationship before it starts.",
+      "target_question": "How do affiliate marketers build an email list that makes sales?",
+      "category_tag": "affiliate-marketing"
+    },
+    {
+      "id": "pinterest-affiliate-marketing-traffic-2026",
+      "status": "pending",
+      "category": "educational",
+      "title": "Pinterest Affiliate Marketing Traffic in 2026: What Still Works and What Doesn't",
+      "keyphrase": "pinterest affiliate marketing traffic 2026",
+      "affiliate_link": "https://leadsleap.com/?r=jredmonson",
+      "offer": null,
+      "pov": "Pinterest rewards consistency over volume. 5 high-quality pins per week outperform 50 mediocre ones ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ the algorithm favors saves and outbound clicks, not impressions.",
+      "target_question": "Does Pinterest still work for affiliate marketing traffic in 2026?",
+      "category_tag": "traffic-generation"
+    },
+    {
+      "id": "youtube-channel-affiliate-marketing-no-camera",
+      "status": "pending",
+      "category": "educational",
+      "title": "How to Start a YouTube Channel for Affiliate Marketing Without Showing Your Face",
+      "keyphrase": "youtube channel affiliate marketing no camera",
+      "affiliate_link": "https://pictory.ai/?fpr=george62",
+      "offer": null,
+      "pov": "Faceless YouTube channels are growing faster than personal channels in affiliate niches because viewers trust information over personalities when researching tools and offers.",
+      "target_question": "Can you start a YouTube channel for affiliate marketing without being on camera?",
+      "category_tag": "traffic-generation"
+    },
+    {
+      "id": "affiliate-marketing-funnel-traffic-to-commission",
+      "status": "pending",
+      "category": "educational",
+      "title": "The Affiliate Marketing Funnel Explained: From Traffic to Commission Step by Step",
+      "keyphrase": "affiliate marketing funnel explained",
+      "affiliate_link": "https://llpgpro.com/bk8hwzhf/",
+      "offer": null,
+      "pov": "Most affiliate funnels fail at the bridge ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ the gap between ad/article click and offer page. The bridge page (your content, your story) is where trust is built or lost.",
+      "target_question": "How does an affiliate marketing funnel work step by step?",
+      "category_tag": "affiliate-marketing"
+    }
+  ]
+}
