@@ -174,7 +174,6 @@ At 1,000 subscribers with a 3% click rate and modest conversions, $27/month is a
 
 ---
 
-```html
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -215,7 +214,6 @@ At 1,000 subscribers with a 3% click rate and modest conversions, $27/month is a
   ]
 }
 </script>
-```
 
 <div style="background:#f0f7ff;border-left:4px solid #0066cc;padding:1.2em 1.5em;margin:2em 0;border-radius:4px;">
 <strong>Ready to build your list for free?</strong><br>
