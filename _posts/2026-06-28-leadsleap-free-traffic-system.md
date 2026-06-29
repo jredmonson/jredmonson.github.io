@@ -158,9 +158,7 @@ The key is having a lead magnet worth opting in for. A generic "subscribe for up
 
 ---
 
-## JSON-LD Schema (Paste in Page Head)
-
-```json
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -199,7 +197,7 @@ The key is having a lead magnet worth opting in for. A generic "subscribe for up
     }
   ]
 }
-```
+</script>
 
 ---
 
