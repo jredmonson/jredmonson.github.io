@@ -164,11 +164,7 @@ LeadsLeap gives you email marketing, a link tracker, lead pages, and a traffic c
 **Q:** Can I migrate my list from GetResponse to LeadsLeap?
 **A:** Yes. You can export your subscriber list from GetResponse as a CSV and import it into LeadsLeap. You'll want to send a re-engagement email to warm your list on the new platform before resuming regular broadcasts.
 
----
 
-## JSON-LD Schema (paste in your page `<head>`)
-
-```html
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -209,7 +205,6 @@ LeadsLeap gives you email marketing, a link tracker, lead pages, and a traffic c
   ]
 }
 </script>
-```
 
 ---
 
