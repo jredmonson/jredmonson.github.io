@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 1,
-  "last_published_date": "2026-06-28",
+  "offer_streak": 2,
+  "last_published_date": "2026-06-29",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -121,7 +121,7 @@
     },
     {
       "id": "leadsleap-email-marketing-free-list-building",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "LeadsLeap Email Marketing: Build Your List for Free (No Aweber Needed)",
       "keyphrase": "leadsleap email marketing",
@@ -129,7 +129,8 @@
       "offer": "LeadsLeap",
       "pov": "Paying $30/month for an autoresponder when you have zero subscribers is backwards. LeadsLeap lets you build to 1,000 subscribers free â prove the list converts first, then upgrade.",
       "target_question": "Can you build an email list for free with LeadsLeap?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-06-29"
     },
     {
       "id": "leadsleap-vs-getresponse-affiliate-marketers",
