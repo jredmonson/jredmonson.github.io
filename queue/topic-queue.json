@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 0,
+  "offer_streak": 1,
   "last_published_date": "2026-06-30",
   "topics": [
     {
@@ -147,7 +147,7 @@
     },
     {
       "id": "solo-ads-vs-mrx-premium-traffic",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Solo Ads vs MR X Premium Traffic: Which Converts Better for Affiliate Offers?",
       "keyphrase": "solo ads vs premium traffic affiliate marketing",
@@ -155,7 +155,8 @@
       "offer": "MR X Premium Traffic",
       "pov": "Solo ads burn money while you learn the list owner's audience. MR X traffic is pre-filtered for buyer intent ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ scale what converts, don't pay to experiment.",
       "target_question": "Is MR X Premium Traffic better than solo ads for affiliate marketing?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-06-30"
     },
     {
       "id": "how-to-scale-affiliate-offers-paid-traffic-2026",
