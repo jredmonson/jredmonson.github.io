@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 1,
+  "offer_streak": 2,
   "last_published_date": "2026-06-30",
   "topics": [
     {
@@ -160,7 +160,7 @@
     },
     {
       "id": "how-to-scale-affiliate-offers-paid-traffic-2026",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "How to Scale Affiliate Offers with Paid Traffic in 2026 (Without Wasting Your Budget)",
       "keyphrase": "scale affiliate offers paid traffic 2026",
@@ -168,7 +168,8 @@
       "offer": "MR X Premium Traffic",
       "pov": "Most affiliates test with paid traffic and lose money because they test wrong. Prove the funnel with free traffic first, then pour paid traffic on a proven converter.",
       "target_question": "How do you scale affiliate offers with paid traffic without losing money?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-06-30"
     },
     {
       "id": "pictory-ai-pricing-annual-plan-worth-it",
