@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 2,
-  "last_published_date": "2026-06-30",
+  "offer_streak": 3,
+  "last_published_date": "2026-07-01",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -173,7 +173,7 @@
     },
     {
       "id": "pictory-ai-pricing-annual-plan-worth-it",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Pictory AI Pricing 2026: Is the Annual Plan Worth It? (Use Code PRpc20 for 20% Off)",
       "keyphrase": "pictory ai pricing",
@@ -181,7 +181,8 @@
       "offer": "Pictory AI",
       "pov": "The monthly plan is fine to test. If you're publishing more than 4 videos a month, the annual plan pays for itself ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ especially with the 20% discount code.",
       "target_question": "Is Pictory AI annual plan worth the price?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-01"
     },
     {
       "id": "make-youtube-videos-pictory-ai-30-minutes",
