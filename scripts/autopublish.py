@@ -108,7 +108,10 @@ def generate_article(topic):
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": user_prompt}],
     )
-    text = resp.content[0].text.strip()
+    # Some models return a ThinkingBlock before the TextBlock - only text
+    # blocks have a .text attribute, so filter for those specifically.
+    text_parts = [block.text for block in resp.content if block.type == "text"]
+    text = "".join(text_parts).strip()
     text = re.sub(r"^```(json)?", "", text.strip())
     text = re.sub(r"```$", "", text.strip())
     return json.loads(text)
