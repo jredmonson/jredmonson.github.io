@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 3,
-  "last_published_date": "2026-07-01",
+  "offer_streak": 0,
+  "last_published_date": "2026-07-02",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -367,7 +367,7 @@
     },
     {
       "id": "affiliate-marketing-beginners-first-100",
-      "status": "pending",
+      "status": "published",
       "category": "educational",
       "title": "Affiliate Marketing for Beginners: How to Make Your First $100 Online",
       "keyphrase": "affiliate marketing beginners first $100",
@@ -375,7 +375,8 @@
       "offer": null,
       "pov": "The first $100 is harder than the next $1,000 ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ not because of the system but because of belief. The system is simple: one proven offer, one traffic source, one landing page. Complexity kills beginners.",
       "target_question": "How do beginners make their first $100 with affiliate marketing?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-02"
     },
     {
       "id": "lead-magnet-gets-optins",
