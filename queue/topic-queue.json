@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 0,
+  "offer_streak": 1,
   "last_published_date": "2026-07-02",
   "topics": [
     {
@@ -186,7 +186,7 @@
     },
     {
       "id": "make-youtube-videos-pictory-ai-30-minutes",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "How to Make YouTube Videos with Pictory AI in Under 30 Minutes (No Camera Needed)",
       "keyphrase": "make youtube videos with pictory ai",
@@ -194,7 +194,8 @@
       "offer": "Pictory AI",
       "pov": "Every affiliate marketer should have a YouTube presence, but most won't show their face or learn video editing. Pictory removes both barriers ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ script to published video in under 30 minutes.",
       "target_question": "How long does it take to make a YouTube video with Pictory AI?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-02"
     },
     {
       "id": "pictory-ai-for-affiliate-blog-to-video",
