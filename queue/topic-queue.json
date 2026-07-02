@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 1,
+  "offer_streak": 2,
   "last_published_date": "2026-07-02",
   "topics": [
     {
@@ -199,7 +199,7 @@
     },
     {
       "id": "pictory-ai-for-affiliate-blog-to-video",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Turn Your Blog Posts into Videos with Pictory AI: Affiliate Marketing Content Multiplier",
       "keyphrase": "blog to video pictory ai",
@@ -207,7 +207,8 @@
       "offer": "Pictory AI",
       "pov": "You already wrote the article. Pictory converts it to video in minutes ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ that's the same content getting indexed on YouTube, Pinterest, and Google simultaneously.",
       "target_question": "Can Pictory AI turn blog posts into videos automatically?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-02"
     },
     {
       "id": "world-profit-silver-vs-gold-membership",
