@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 2,
-  "last_published_date": "2026-07-02",
+  "offer_streak": 3,
+  "last_published_date": "2026-07-03",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -212,7 +212,7 @@
     },
     {
       "id": "world-profit-silver-vs-gold-membership",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "World Profit Silver vs Gold Membership: Which Level is Right for Beginners?",
       "keyphrase": "world profit silver vs gold membership",
@@ -220,7 +220,8 @@
       "offer": "World Profit",
       "pov": "Start Silver. The traffic volume from Silver is more than enough to learn what converts before spending more. Upgrade only when your commissions justify it.",
       "target_question": "Should beginners choose World Profit Silver or Gold membership?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-03"
     },
     {
       "id": "world-profit-traffic-system-safelists-2026",
