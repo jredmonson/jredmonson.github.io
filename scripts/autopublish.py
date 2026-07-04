@@ -114,7 +114,7 @@ def generate_article(topic):
     text = "".join(text_parts).strip()
     text = re.sub(r"^```(json)?", "", text.strip())
     text = re.sub(r"```$", "", text.strip())
-    return json.loads(text)
+    return json.loads(text, strict=False)
 
 
 def slot_time():
