@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 1,
+  "offer_streak": 2,
   "last_published_date": "2026-07-04",
   "topics": [
     {
@@ -238,7 +238,7 @@
     },
     {
       "id": "sign-first-ghl-agency-client-no-cold-calling",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "How to Sign Your First HighLevel Agency Client Without Cold Calling",
       "keyphrase": "sign first highlevel agency client",
@@ -246,7 +246,8 @@
       "offer": "HighLevel Agency",
       "pov": "Cold calling works but kills momentum for solo operators. Content-driven inbound ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ one good case study article + a Google Business Profile ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ pulls better leads than 100 cold calls.",
       "target_question": "How do you get your first HighLevel agency client without cold calling?",
-      "category_tag": "local-business"
+      "category_tag": "local-business",
+      "date": "2026-07-04"
     },
     {
       "id": "highlevel-starter-plan-what-you-get",
