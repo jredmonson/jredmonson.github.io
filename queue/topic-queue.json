@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 0,
+  "offer_streak": 1,
   "last_published_date": "2026-07-04",
   "topics": [
     {
@@ -225,7 +225,7 @@
     },
     {
       "id": "world-profit-traffic-system-safelists-2026",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "World Profit Traffic System 2026: How Safelists Still Work for Affiliate Marketers",
       "keyphrase": "world profit traffic safelists 2026",
@@ -233,7 +233,8 @@
       "offer": "World Profit",
       "pov": "Safelists are dismissed by marketers who never used them correctly. The audience is 100% affiliate marketers actively looking for opportunities ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ you just need the right offer.",
       "target_question": "Do World Profit safelists still work for affiliate marketing in 2026?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-07-04"
     },
     {
       "id": "sign-first-ghl-agency-client-no-cold-calling",
