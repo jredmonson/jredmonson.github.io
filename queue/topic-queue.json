@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 3,
-  "last_published_date": "2026-07-03",
+  "offer_streak": 0,
+  "last_published_date": "2026-07-04",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -383,7 +383,7 @@
     },
     {
       "id": "lead-magnet-gets-optins",
-      "status": "pending",
+      "status": "published",
       "category": "educational",
       "title": "How to Create a Lead Magnet That Actually Gets Opt-ins (Not a Generic eBook)",
       "keyphrase": "create lead magnet that converts",
@@ -391,7 +391,8 @@
       "offer": null,
       "pov": "Nobody opts in for another PDF. They opt in for a specific result in a specific timeframe. The title is the product ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ if the title doesn't make someone say 'I need that right now,' nothing else matters.",
       "target_question": "What makes a lead magnet that people actually download?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-04"
     },
     {
       "id": "email-list-building-affiliate-marketers-first-sale",
@@ -777,17 +778,17 @@
       "target_question": "What is a campaign roadmap matrix and how does it help plan affiliate campaigns?",
       "category_tag": "affiliate-marketing"
     },
-        {
-                "id": "affiliate-disclosure-templates-2026-ftc-compliant",
-                "status": "pending",
-                "category": "offer",
-                "title": "Affiliate Disclosure Templates 2026: FTC-Compliant Wording You Can Copy Today",
-                "keyphrase": "affiliate disclosure templates 2026",
-                "affiliate_link": "https://www.etsy.com/listing/4521098285/affiliate-disclosure-templates-2026-ftc",
-                "offer": "Etsy / ProAffiliateVault",
-                "pov": "Most affiliates copy a disclosure line from a random blog and hope it is compliant. FTC rules are specific about placement and wording, and a template built to the actual guidelines removes the guesswork instead of hoping a generic sentence covers you.",
-                "target_question": "What does an FTC-compliant affiliate disclosure actually need to say?",
-                "category_tag": "affiliate-marketing"
-        }
+    {
+      "id": "affiliate-disclosure-templates-2026-ftc-compliant",
+      "status": "pending",
+      "category": "offer",
+      "title": "Affiliate Disclosure Templates 2026: FTC-Compliant Wording You Can Copy Today",
+      "keyphrase": "affiliate disclosure templates 2026",
+      "affiliate_link": "https://www.etsy.com/listing/4521098285/affiliate-disclosure-templates-2026-ftc",
+      "offer": "Etsy / ProAffiliateVault",
+      "pov": "Most affiliates copy a disclosure line from a random blog and hope it is compliant. FTC rules are specific about placement and wording, and a template built to the actual guidelines removes the guesswork instead of hoping a generic sentence covers you.",
+      "target_question": "What does an FTC-compliant affiliate disclosure actually need to say?",
+      "category_tag": "affiliate-marketing"
+    }
   ]
 }
