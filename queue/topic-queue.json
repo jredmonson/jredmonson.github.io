@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 2,
-  "last_published_date": "2026-07-04",
+  "offer_streak": 3,
+  "last_published_date": "2026-07-05",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -251,7 +251,7 @@
     },
     {
       "id": "highlevel-starter-plan-what-you-get",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "HighLevel Starter Plan Review 2026: What You Get and Is It Enough to Start an Agency?",
       "keyphrase": "highlevel starter plan review",
@@ -259,7 +259,8 @@
       "offer": "HighLevel Agency",
       "pov": "The Starter plan gives you everything you need to serve your first 3 clients. The Unlimited plan becomes necessary only when you're managing 5+ accounts ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ don't overspend on day one.",
       "target_question": "Is the HighLevel Starter plan enough to run an agency?",
-      "category_tag": "local-business"
+      "category_tag": "local-business",
+      "date": "2026-07-05"
     },
     {
       "id": "ghl-reputation-management-local-business",
