@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 3,
+  "offer_streak": 0,
   "last_published_date": "2026-07-05",
   "topics": [
     {
@@ -399,7 +399,7 @@
     },
     {
       "id": "email-list-building-affiliate-marketers-first-sale",
-      "status": "pending",
+      "status": "published",
       "category": "educational",
       "title": "Email List Building for Affiliate Marketers: From Zero to First Sale",
       "keyphrase": "email list building affiliate marketing",
@@ -407,7 +407,8 @@
       "offer": null,
       "pov": "Your first 100 subscribers are worth more than your next 1,000 if you write to them like real people. Most affiliates automate too early and kill the relationship before it starts.",
       "target_question": "How do affiliate marketers build an email list that makes sales?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-05"
     },
     {
       "id": "pinterest-affiliate-marketing-traffic-2026",
