@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 0,
+  "offer_streak": 1,
   "last_published_date": "2026-07-05",
   "topics": [
     {
@@ -264,7 +264,7 @@
     },
     {
       "id": "ghl-reputation-management-local-business",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "GHL Reputation Management for Local Business: How to Automate Google Reviews",
       "keyphrase": "ghl reputation management local business",
@@ -272,7 +272,8 @@
       "offer": "HighLevel Agency",
       "pov": "Google reviews are the #1 local SEO signal. A single automated post-service text requesting a review outperforms every manual follow-up a business owner ever does.",
       "target_question": "How does GHL automate Google reviews for local businesses?",
-      "category_tag": "local-business"
+      "category_tag": "local-business",
+      "date": "2026-07-05"
     },
     {
       "id": "how-to-rebrand-free-funnel-affiliate-marketing",
