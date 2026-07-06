@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 2,
+  "offer_streak": 3,
   "last_published_date": "2026-07-06",
   "topics": [
     {
@@ -290,7 +290,7 @@
     },
     {
       "id": "prorevenuplus-residual-income-step-by-step",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "ProRevenuePlus 7-Step Residual Income System: A Step-by-Step Walkthrough",
       "keyphrase": "prorevenuplus residual income system",
@@ -298,7 +298,8 @@
       "offer": "ProRevenuePlus 7-Step Funnel",
       "pov": "The system works because it layers affiliate offers at each step instead of asking for the sale immediately ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ prospects warm up through free value before seeing anything paid.",
       "target_question": "How does the ProRevenuePlus 7-step system generate residual income?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-06"
     },
     {
       "id": "hostinger-horizons-vs-wix-affiliate-sites",
