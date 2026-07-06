@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 3,
+  "offer_streak": 0,
   "last_published_date": "2026-07-06",
   "topics": [
     {
@@ -415,7 +415,7 @@
     },
     {
       "id": "pinterest-affiliate-marketing-traffic-2026",
-      "status": "pending",
+      "status": "published",
       "category": "educational",
       "title": "Pinterest Affiliate Marketing Traffic in 2026: What Still Works and What Doesn't",
       "keyphrase": "pinterest affiliate marketing traffic 2026",
@@ -423,7 +423,8 @@
       "offer": null,
       "pov": "Pinterest rewards consistency over volume. 5 high-quality pins per week outperform 50 mediocre ones ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ the algorithm favors saves and outbound clicks, not impressions.",
       "target_question": "Does Pinterest still work for affiliate marketing traffic in 2026?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-07-06"
     },
     {
       "id": "youtube-channel-affiliate-marketing-no-camera",
