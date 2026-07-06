@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 1,
-  "last_published_date": "2026-07-05",
+  "offer_streak": 2,
+  "last_published_date": "2026-07-06",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -277,7 +277,7 @@
     },
     {
       "id": "how-to-rebrand-free-funnel-affiliate-marketing",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "How to Rebrand a Free Funnel and Make It Your Own Affiliate Asset",
       "keyphrase": "rebrand free funnel affiliate marketing",
@@ -285,7 +285,8 @@
       "offer": "ProRevenuePlus 7-Step Funnel",
       "pov": "A rebranded free funnel beats a generic one every time ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ adding your name and one personal insight makes it your content, not a copy.",
       "target_question": "How do you rebrand a free funnel to make it convert better?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-06"
     },
     {
       "id": "prorevenuplus-residual-income-step-by-step",
