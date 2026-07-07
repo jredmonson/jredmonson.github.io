@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 0,
-  "last_published_date": "2026-07-06",
+  "offer_streak": 1,
+  "last_published_date": "2026-07-07",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -303,7 +303,7 @@
     },
     {
       "id": "hostinger-horizons-vs-wix-affiliate-sites",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Hostinger Horizons vs Wix: Best AI Website Builder for Affiliate Marketing Sites",
       "keyphrase": "hostinger horizons vs wix affiliate site",
@@ -311,7 +311,8 @@
       "offer": "Hostinger Horizons",
       "pov": "Wix is prettier out of the box. Hostinger Horizons is faster to deploy and costs less per year ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ for affiliate sites where speed and cost matter more than design control, Horizons wins.",
       "target_question": "Which is better for affiliate sites: Hostinger Horizons or Wix?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-07"
     },
     {
       "id": "build-affiliate-site-hostinger-one-day",
