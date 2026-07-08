@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 3,
+  "offer_streak": 0,
   "last_published_date": "2026-07-08",
   "topics": [
     {
@@ -430,7 +430,7 @@
     },
     {
       "id": "youtube-channel-affiliate-marketing-no-camera",
-      "status": "pending",
+      "status": "published",
       "category": "educational",
       "title": "How to Start a YouTube Channel for Affiliate Marketing Without Showing Your Face",
       "keyphrase": "youtube channel affiliate marketing no camera",
@@ -438,7 +438,8 @@
       "offer": null,
       "pov": "Faceless YouTube channels are growing faster than personal channels in affiliate niches because viewers trust information over personalities when researching tools and offers.",
       "target_question": "Can you start a YouTube channel for affiliate marketing without being on camera?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-07-08"
     },
     {
       "id": "affiliate-marketing-funnel-traffic-to-commission",
