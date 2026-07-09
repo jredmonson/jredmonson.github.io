@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 2,
+  "offer_streak": 3,
   "last_published_date": "2026-07-09",
   "topics": [
     {
@@ -494,7 +494,7 @@
     },
     {
       "id": "mrx-premium-traffic-members-club-signup",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "MR X Premium Traffic Members Club: What You Get and How Signup Works",
       "keyphrase": "mrx premium traffic members club",
@@ -502,7 +502,8 @@
       "offer": "MR X Premium Traffic",
       "pov": "Members club pricing beats one-off traffic purchases the moment you're running more than one offer a month, since the club rate spreads instantly across everything you promote.",
       "target_question": "What do you get with the MR X Premium Traffic members club?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-07-09"
     },
     {
       "id": "30-day-affiliate-marketing-action-planner-pdf",
