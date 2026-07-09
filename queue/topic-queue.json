@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 1,
+  "offer_streak": 2,
   "last_published_date": "2026-07-09",
   "topics": [
     {
@@ -481,7 +481,7 @@
     },
     {
       "id": "is-leadsleap-pro-worth-it-2026",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Is LeadsLeap Pro Worth It in 2026? An Honest Breakdown",
       "keyphrase": "is leadsleap pro worth it",
@@ -489,7 +489,8 @@
       "offer": "LeadsLeap",
       "pov": "The free tier proves the traffic system works. Pro is worth it the moment you're building a list you intend to monetize, not before.",
       "target_question": "Is upgrading to LeadsLeap Pro worth the cost?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-09"
     },
     {
       "id": "mrx-premium-traffic-members-club-signup",
