@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 0,
-  "last_published_date": "2026-07-08",
+  "offer_streak": 1,
+  "last_published_date": "2026-07-09",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -468,7 +468,7 @@
     },
     {
       "id": "hire-freelancer-uk-local-citations",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Should You Hire a Freelancer for UK Local Citations, or Use a Done-For-You Service?",
       "keyphrase": "hire freelancer uk local citations",
@@ -476,7 +476,8 @@
       "offer": "Local Business Citation Service",
       "pov": "A freelancer on a gig site will list your business on a handful of directories and call it done. A structured citation service builds the full UK directory set with consistent NAP data, which is what actually moves local rankings.",
       "target_question": "Is it better to hire a freelancer or a service for UK local citations?",
-      "category_tag": "local-business"
+      "category_tag": "local-business",
+      "date": "2026-07-09"
     },
     {
       "id": "is-leadsleap-pro-worth-it-2026",
