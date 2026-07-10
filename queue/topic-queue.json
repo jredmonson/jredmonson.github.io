@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 3,
-  "last_published_date": "2026-07-09",
+  "offer_streak": 0,
+  "last_published_date": "2026-07-10",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -443,7 +443,7 @@
     },
     {
       "id": "affiliate-marketing-funnel-traffic-to-commission",
-      "status": "pending",
+      "status": "published",
       "category": "educational",
       "title": "The Affiliate Marketing Funnel Explained: From Traffic to Commission Step by Step",
       "keyphrase": "affiliate marketing funnel explained",
@@ -451,7 +451,8 @@
       "offer": null,
       "pov": "Most affiliate funnels fail at the bridge ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ the gap between ad/article click and offer page. The bridge page (your content, your story) is where trust is built or lost.",
       "target_question": "How does an affiliate marketing funnel work step by step?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-10"
     },
     {
       "id": "pictory-ai-cost-per-year-2026",
