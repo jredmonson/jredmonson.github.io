@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 0,
-  "last_published_date": "2026-07-10",
+  "offer_streak": 1,
+  "last_published_date": "2026-07-11",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -508,7 +508,7 @@
     },
     {
       "id": "30-day-affiliate-marketing-action-planner-pdf",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "The 30-Day Affiliate Marketing Action Planner: A Printable System for Beginners",
       "keyphrase": "30 day affiliate marketing action planner pdf",
@@ -516,7 +516,8 @@
       "offer": "Etsy / ProAffiliateVault",
       "pov": "Most beginners fail from lack of structure, not lack of effort. A day-by-day planner removes the 'what do I do today' question that stalls people in week one.",
       "target_question": "What is a 30-day affiliate marketing action planner and how does it work?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-11"
     },
     {
       "id": "daily-ads-coupon-code-credit-packages",
