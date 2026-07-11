@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 2,
+  "offer_streak": 3,
   "last_published_date": "2026-07-11",
   "topics": [
     {
@@ -534,7 +534,7 @@
     },
     {
       "id": "local-business-citations-canada-service",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Local Business Citations for Canadian Companies: What a Directory Service Actually Builds",
       "keyphrase": "canada local business directory citation service",
@@ -542,7 +542,8 @@
       "offer": "Local Business Citation Service",
       "pov": "Canadian directories aren't a subset of the US list — missing the Canada-specific ones is why some businesses never rank locally even after 'doing citations.'",
       "target_question": "What does a local business citation service build for Canadian companies?",
-      "category_tag": "local-business"
+      "category_tag": "local-business",
+      "date": "2026-07-11"
     },
     {
       "id": "ai-content-engine-bundle-purchase-guide",
