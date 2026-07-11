@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 1,
+  "offer_streak": 2,
   "last_published_date": "2026-07-11",
   "topics": [
     {
@@ -521,7 +521,7 @@
     },
     {
       "id": "daily-ads-coupon-code-credit-packages",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Daily Ads Coupon Codes 2026: How to Get More Credits for Less",
       "keyphrase": "daily ads coupon code",
@@ -529,7 +529,8 @@
       "offer": "Daily Ads",
       "pov": "Credit packages scale in value the bigger you buy — the coupon math only makes sense once you know your real per-click cost target, not just the sticker discount.",
       "target_question": "Are there coupon codes for Daily Ads credit packages?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-07-11"
     },
     {
       "id": "local-business-citations-canada-service",
