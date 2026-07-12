@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 4,
+  "offer_streak": 5,
   "last_published_date": "2026-07-12",
   "topics": [
     {
@@ -560,7 +560,7 @@
     },
     {
       "id": "mrx-premium-traffic-discount-code",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "MR X Premium Traffic Discount Codes: How to Get Member Pricing",
       "keyphrase": "mrx premium traffic discount code",
@@ -568,7 +568,8 @@
       "offer": "MR X Premium Traffic",
       "pov": "Discount codes on traffic services are only a good deal if the traffic converts at list price first — test small before chasing the biggest discount tier.",
       "target_question": "Is there a discount code for MR X Premium Traffic?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-07-12"
     },
     {
       "id": "pictory-ai-starter-plan-annual-discount",
