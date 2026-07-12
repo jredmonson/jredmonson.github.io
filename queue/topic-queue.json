@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 5,
+  "offer_streak": 6,
   "last_published_date": "2026-07-12",
   "topics": [
     {
@@ -573,7 +573,7 @@
     },
     {
       "id": "pictory-ai-starter-plan-annual-discount",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Pictory AI Starter Plan Annual Discount: Is It the Right Tier to Start On?",
       "keyphrase": "pictory ai starter plan annual discount",
@@ -581,7 +581,8 @@
       "offer": "Pictory AI",
       "pov": "Starter covers everything a solo affiliate marketer needs for the first several months of video content — upgrading before you've published consistently is spending ahead of the need.",
       "target_question": "Is the Pictory AI Starter annual plan enough to begin with?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-12"
     },
     {
       "id": "hire-scriptwriter-voiceover-video-agency",
