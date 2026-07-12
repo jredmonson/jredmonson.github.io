@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 3,
-  "last_published_date": "2026-07-11",
+  "offer_streak": 4,
+  "last_published_date": "2026-07-12",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -547,7 +547,7 @@
     },
     {
       "id": "ai-content-engine-bundle-purchase-guide",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "AI Content Engine 2026 Bundle: What's Inside and How to Buy It",
       "keyphrase": "ai content engine bundle purchase",
@@ -555,7 +555,8 @@
       "offer": "AI Content Engine (ProAffiliateVault)",
       "pov": "A single-keyphrase SEO workflow beats a vague 'content calendar' template because it forces every post back to one measurable ranking target instead of scattering effort.",
       "target_question": "What's included in the AI Content Engine 2026 bundle and how do you buy it?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-12"
     },
     {
       "id": "mrx-premium-traffic-discount-code",
