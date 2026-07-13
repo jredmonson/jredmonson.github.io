@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 7,
+  "offer_streak": 8,
   "last_published_date": "2026-07-13",
   "topics": [
     {
@@ -599,7 +599,7 @@
     },
     {
       "id": "local-business-citations-australia-service",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Local Business Citations in Australia: What a Directory Submission Service Covers",
       "keyphrase": "australia local business citations service",
@@ -607,7 +607,8 @@
       "offer": "Local Business Citation Service",
       "pov": "Australian directory ecosystems (True Local, Yellow Pages AU, Hotfrog) are different enough from the US set that a generic citation order often misses them entirely.",
       "target_question": "What directories does a local citation service cover for Australian businesses?",
-      "category_tag": "local-business"
+      "category_tag": "local-business",
+      "date": "2026-07-13"
     },
     {
       "id": "cheapest-solo-ads-traffic-2026",
