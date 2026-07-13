@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 6,
-  "last_published_date": "2026-07-12",
+  "offer_streak": 7,
+  "last_published_date": "2026-07-13",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -586,7 +586,7 @@
     },
     {
       "id": "hire-scriptwriter-voiceover-video-agency",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Should You Hire a Scriptwriter and Voiceover Agency, or Do It Yourself?",
       "keyphrase": "hire scriptwriter voiceover video agency",
@@ -594,7 +594,8 @@
       "offer": "Pro Video Promotion Service",
       "pov": "DIY scripts and AI voices are fine for testing an offer. Once a video is converting, handing the script and voiceover to a pro agency is what makes it look like it belongs on a brand's channel, not a hobbyist's.",
       "target_question": "When should you hire a scriptwriter and voiceover agency instead of doing it yourself?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-13"
     },
     {
       "id": "local-business-citations-australia-service",
