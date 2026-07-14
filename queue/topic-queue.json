@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 9,
+  "offer_streak": 10,
   "last_published_date": "2026-07-14",
   "topics": [
     {
@@ -625,7 +625,7 @@
     },
     {
       "id": "white-label-local-citations-report",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "White Label Local Citations Reports: How Agencies Resell This to Clients",
       "keyphrase": "white label local citations report",
@@ -633,7 +633,8 @@
       "offer": "Local Business Citation Service",
       "pov": "A white label report turns a wholesale citation order into a client-facing deliverable — the markup is the entire margin on a local SEO service package.",
       "target_question": "Can you get a white label report for local citation building?",
-      "category_tag": "local-business"
+      "category_tag": "local-business",
+      "date": "2026-07-14"
     },
     {
       "id": "ai-content-engine-coupon-code",
