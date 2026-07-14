@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 10,
+  "offer_streak": 11,
   "last_published_date": "2026-07-14",
   "topics": [
     {
@@ -638,7 +638,7 @@
     },
     {
       "id": "ai-content-engine-coupon-code",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "AI Content Engine 2026 Coupon Code: How to Get It at the Best Price",
       "keyphrase": "ai content engine coupon code",
@@ -646,7 +646,8 @@
       "offer": "AI Content Engine (ProAffiliateVault)",
       "pov": "Etsy digital products rarely need a coupon to be worth it at listing price — the real ROI question is whether you'll actually run the workflow, not whether you saved a few dollars on it.",
       "target_question": "Is there a coupon code for the AI Content Engine 2026 bundle?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-14"
     },
     {
       "id": "interactive-affiliate-marketing-tracker-etsy",
