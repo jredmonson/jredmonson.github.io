@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 11,
-  "last_published_date": "2026-07-14",
+  "offer_streak": 12,
+  "last_published_date": "2026-07-15",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -651,7 +651,7 @@
     },
     {
       "id": "interactive-affiliate-marketing-tracker-etsy",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Interactive Affiliate Marketing Tracker: A Beginner's Spreadsheet System That Works",
       "keyphrase": "best interactive affiliate marketing tracker for beginners",
@@ -659,7 +659,8 @@
       "offer": "Etsy / ProAffiliateVault",
       "pov": "Most affiliates lose track of which offer, which link, and which post actually produced a sale. A tracker only earns its keep if it's simpler to update than your memory — that's the bar it has to clear.",
       "target_question": "What makes an affiliate marketing tracker actually useful for beginners?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-15"
     },
     {
       "id": "pictory-ai-team-plan-coupon-code",
