@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 12,
+  "offer_streak": 13,
   "last_published_date": "2026-07-15",
   "topics": [
     {
@@ -664,7 +664,7 @@
     },
     {
       "id": "pictory-ai-team-plan-coupon-code",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Pictory AI Team Plan Coupon Code: Is Team Worth It for a Solo Marketer?",
       "keyphrase": "pictory ai team plan coupon code",
@@ -672,7 +672,8 @@
       "offer": "Pictory AI",
       "pov": "Team plan pricing only pays off once you've got a VA or second creator publishing alongside you — solo marketers almost always overpay by skipping Starter or Professional.",
       "target_question": "Is there a coupon code for the Pictory AI Team plan, and is Team worth it solo?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-15"
     },
     {
       "id": "buy-local-business-citations-us",
