@@ -20,6 +20,8 @@ QUEUE_PATH = "queue/topic-queue.json"
 POSTS_DIR = "_posts"
 PIN_QUEUE_WEBHOOK = "https://hook.us2.make.com/7t8ye1hj1etbnjgihmr9w5a0yu5akfvy"
 MODEL = "claude-sonnet-5"
+INDEXNOW_KEY = "99fd7e5092a742d4bbcdcd761699f345"
+INDEXNOW_HOST = "jredmonson.github.io"
 
 SYSTEM_PROMPT = """You are an automated content writer for JR Edmonson's affiliate \
 marketing blog, ProAffiliateVault (https://jredmonson.github.io/). Voice: direct \
@@ -158,6 +160,26 @@ def notify_pin_queue(today, title, url):
         print(f"Pin queue webhook failed (continuing anyway): {e}")
 
 
+def ping_indexnow(urls):
+    """Notify IndexNow-participating search engines (Bing, Yandex, etc.)
+    that these URLs are new or updated, so they crawl without delay."""
+    payload = json.dumps({
+        "host": INDEXNOW_HOST,
+        "key": INDEXNOW_KEY,
+        "keyLocation": f"https://{INDEXNOW_HOST}/{INDEXNOW_KEY}.txt",
+        "urlList": urls,
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        "https://api.indexnow.org/indexnow", data=payload,
+        headers={"Content-Type": "application/json; charset=utf-8"}, method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            print(f"IndexNow ping status: {resp.status}")
+    except Exception as e:
+        print(f"IndexNow ping failed (continuing anyway): {e}")
+
+
 def main():
     queue = load_queue()
     topic = pick_topic(queue)
@@ -182,6 +204,7 @@ def main():
 
     url = f"https://jredmonson.github.io/{topic['category_tag']}/{topic['id']}/"
     notify_pin_queue(today, topic["title"], url)
+    ping_indexnow([url, f"https://{INDEXNOW_HOST}/sitemap.xml"])
 
     print(f"Published: {topic['id']} - {topic['title']} ({today})")
 
