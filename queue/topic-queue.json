@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 14,
+  "offer_streak": 15,
   "last_published_date": "2026-07-16",
   "topics": [
     {
@@ -690,7 +690,7 @@
     },
     {
       "id": "is-mrx-premium-traffic-worth-it-2026",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Is MR X Premium Traffic Worth It in 2026? What the Numbers Actually Show",
       "keyphrase": "is mrx premium traffic worth the money",
@@ -698,7 +698,8 @@
       "offer": "MR X Premium Traffic",
       "pov": "Worth it isn't a fixed answer — it's worth it the moment your offer's conversion rate covers the cost per click, and not a day before you've tested that.",
       "target_question": "Is MR X Premium Traffic worth the money for affiliate marketers?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-07-16"
     },
     {
       "id": "live-action-product-showcase-video-service",
