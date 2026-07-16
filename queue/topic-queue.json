@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 13,
-  "last_published_date": "2026-07-15",
+  "offer_streak": 14,
+  "last_published_date": "2026-07-16",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -677,7 +677,7 @@
     },
     {
       "id": "buy-local-business-citations-us",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Where to Buy Local Business Citations for US Companies (And What to Check First)",
       "keyphrase": "buy local business citations us",
@@ -685,7 +685,8 @@
       "offer": "Local Business Citation Service",
       "pov": "Buying citations from the wrong source creates NAP inconsistencies that hurt more than no citations at all — vetted, manually-built listings are worth paying more for than a bulk automated blast.",
       "target_question": "Where should you buy local business citations for a US company?",
-      "category_tag": "local-business"
+      "category_tag": "local-business",
+      "date": "2026-07-16"
     },
     {
       "id": "is-mrx-premium-traffic-worth-it-2026",
