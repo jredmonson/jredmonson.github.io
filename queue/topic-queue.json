@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 15,
-  "last_published_date": "2026-07-16",
+  "offer_streak": 16,
+  "last_published_date": "2026-07-17",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -703,7 +703,7 @@
     },
     {
       "id": "live-action-product-showcase-video-service",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Live Action Product Showcase Videos: When to Skip AI Avatars and Hire It Out",
       "keyphrase": "best live action product showcase video service",
@@ -711,7 +711,8 @@
       "offer": "Pro Video Promotion Service",
       "pov": "AI avatars are fine for explainer content. Physical products and local service businesses convert better with real footage — that's the line for when to hire a live-action crew instead.",
       "target_question": "When should a business use a live-action video service instead of AI-generated video?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-17"
     },
     {
       "id": "cheapest-text-link-ads-traffic",
