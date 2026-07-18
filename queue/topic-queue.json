@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 16,
-  "last_published_date": "2026-07-17",
+  "offer_streak": 17,
+  "last_published_date": "2026-07-18",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -716,7 +716,7 @@
     },
     {
       "id": "cheapest-text-link-ads-traffic",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Cheapest Text Link Ads Traffic: What Actually Converts vs What's Just Cheap",
       "keyphrase": "cheapest way to buy text link ads traffic",
@@ -724,7 +724,8 @@
       "offer": "Daily Ads",
       "pov": "Text link ads are the cheapest traffic format for a reason — they work when the surrounding page's audience actually matches your offer, not because the format itself performs.",
       "target_question": "What's the cheapest way to buy text link ads traffic that still converts?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-07-18"
     },
     {
       "id": "best-automated-ai-content-engine-blog-scaling",
