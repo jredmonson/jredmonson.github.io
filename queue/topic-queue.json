@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 17,
-  "last_published_date": "2026-07-18",
+  "offer_streak": 18,
+  "last_published_date": "2026-07-19",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -729,7 +729,7 @@
     },
     {
       "id": "best-automated-ai-content-engine-blog-scaling",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Best Automated AI Content Engine for Scaling a Blog Without Burning Out",
       "keyphrase": "best automated content engine for blog scaling",
@@ -737,7 +737,8 @@
       "offer": "AI Content Engine (ProAffiliateVault)",
       "pov": "Scaling a blog isn't about publishing more — it's about publishing more without the keyphrase research collapsing into guesswork, which is the actual bottleneck a content engine solves.",
       "target_question": "What's the best way to automate content for scaling a blog?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-19"
     },
     {
       "id": "printable-daily-affiliate-planning-workbook",
