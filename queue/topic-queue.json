@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 18,
+  "offer_streak": 19,
   "last_published_date": "2026-07-19",
   "topics": [
     {
@@ -742,7 +742,7 @@
     },
     {
       "id": "printable-daily-affiliate-planning-workbook",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Printable Daily Affiliate Planning Workbook: Build the Habit That Makes Money",
       "keyphrase": "order printable daily affiliate planning workbook",
@@ -750,7 +750,8 @@
       "offer": "Etsy / ProAffiliateVault",
       "pov": "A daily workbook works because it's physical friction against skipping a day — digital-only planners are too easy to close and forget.",
       "target_question": "What does a printable daily affiliate planning workbook include?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-19"
     },
     {
       "id": "pictory-ai-professional-monthly-subscription",
