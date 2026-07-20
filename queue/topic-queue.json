@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 20,
+  "offer_streak": 21,
   "last_published_date": "2026-07-20",
   "topics": [
     {
@@ -768,7 +768,7 @@
     },
     {
       "id": "is-daily-ads-premium-worth-it-2026",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Is Daily Ads Premium Worth the Upgrade in 2026?",
       "keyphrase": "is daily ads premium upgrade worth the money",
@@ -776,7 +776,8 @@
       "offer": "Daily Ads",
       "pov": "Premium membership pays for itself in credit value alone once you're buying traffic weekly — the upgrade math is simple, the discipline to actually run campaigns weekly is the harder part.",
       "target_question": "Is upgrading to Daily Ads Premium worth the cost?",
-      "category_tag": "traffic-generation"
+      "category_tag": "traffic-generation",
+      "date": "2026-07-20"
     },
     {
       "id": "leadsleap-discount-code-upgrade",
