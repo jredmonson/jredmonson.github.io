@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 21,
+  "offer_streak": 22,
   "last_published_date": "2026-07-20",
   "topics": [
     {
@@ -781,7 +781,7 @@
     },
     {
       "id": "leadsleap-discount-code-upgrade",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "LeadsLeap Discount Codes: Is There a Cheaper Way to Upgrade to Pro?",
       "keyphrase": "leadsleap discount code for upgrade subscription",
@@ -789,7 +789,8 @@
       "offer": "LeadsLeap",
       "pov": "LeadsLeap's Pro pricing is already low relative to comparable autoresponder-plus-traffic tools — chasing a discount code matters less than just upgrading once the free tier's limits start costing you leads.",
       "target_question": "Is there a discount code to upgrade to LeadsLeap Pro?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-20"
     },
     {
       "id": "best-ai-script-to-video-generator-2026",
