@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 22,
-  "last_published_date": "2026-07-20",
+  "offer_streak": 23,
+  "last_published_date": "2026-07-21",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -794,7 +794,7 @@
     },
     {
       "id": "best-ai-script-to-video-generator-2026",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Best AI Script-to-Video Generator in 2026 for Affiliate Content",
       "keyphrase": "best ai script to video generator for blog posts",
@@ -802,7 +802,8 @@
       "offer": "Pictory AI",
       "pov": "The best script-to-video tool is the one that turns a blog post you already wrote into a video without a re-write — that's the actual time savings, not the visual template library.",
       "target_question": "What's the best AI tool to turn a script or blog post into video?",
-      "category_tag": "tools-resources"
+      "category_tag": "tools-resources",
+      "date": "2026-07-21"
     },
     {
       "id": "proaffiliatevault-campaign-roadmap-matrix",
