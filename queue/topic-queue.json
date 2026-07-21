@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 23,
+  "offer_streak": 24,
   "last_published_date": "2026-07-21",
   "topics": [
     {
@@ -807,7 +807,7 @@
     },
     {
       "id": "proaffiliatevault-campaign-roadmap-matrix",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "ProAffiliateVault Campaign Roadmap Matrix: A Visual System for Planning Affiliate Campaigns",
       "keyphrase": "proaffiliatevault campaign roadmap matrix download",
@@ -815,7 +815,8 @@
       "offer": "Etsy / ProAffiliateVault",
       "pov": "A roadmap matrix works because it forces every campaign onto one page — offer, traffic source, and timeline in view together, instead of scattered across notes and tabs.",
       "target_question": "What is a campaign roadmap matrix and how does it help plan affiliate campaigns?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-21"
     },
     {
       "id": "affiliate-disclosure-templates-2026-ftc-compliant",
