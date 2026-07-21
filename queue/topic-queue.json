@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published.",
   "rotation": "3:1",
-  "offer_streak": 24,
+  "offer_streak": 25,
   "last_published_date": "2026-07-21",
   "topics": [
     {
@@ -820,7 +820,7 @@
     },
     {
       "id": "affiliate-disclosure-templates-2026-ftc-compliant",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Affiliate Disclosure Templates 2026: FTC-Compliant Wording You Can Copy Today",
       "keyphrase": "affiliate disclosure templates 2026",
@@ -828,7 +828,8 @@
       "offer": "Etsy / ProAffiliateVault",
       "pov": "Most affiliates copy a disclosure line from a random blog and hope it is compliant. FTC rules are specific about placement and wording, and a template built to the actual guidelines removes the guesswork instead of hoping a generic sentence covers you.",
       "target_question": "What does an FTC-compliant affiliate disclosure actually need to say?",
-      "category_tag": "affiliate-marketing"
+      "category_tag": "affiliate-marketing",
+      "date": "2026-07-21"
     }
   ]
 }
