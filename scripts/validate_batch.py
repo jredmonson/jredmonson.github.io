@@ -37,7 +37,9 @@ REQUIRED_FIELDS = [
 
 KNOWN_ROUTES = [
     "https://agency.jredmonson.com/local-business-services",
+    "https://agency.jredmonson.com/services",
     "https://agency.jredmonson.com/",
+    "https://www.gedmonson.com/",
     "https://proaffiliatevault.etsy.com",
     "https://leadsleap.com/?r=jredmonson",
     "https://llpgpro.com/bk8hwzhf/",
