@@ -2,9 +2,7 @@ name: Autopublish Blog Post
 
 on:
   schedule:
-    - cron: '0 11 * * *'   # ~7am ET (EDT, UTC-4)
-    - cron: '0 16 * * *'   # ~12pm ET
-    - cron: '0 21 * * *'   # ~5pm ET
+    - cron: '0 12 * * 1'   # Weekly, Monday ~7am ET (EDT, UTC-5/4)
   workflow_dispatch: {}
 
 permissions:

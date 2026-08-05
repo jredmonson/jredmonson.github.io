@@ -2,8 +2,8 @@
 """
 Autopublish script for jredmonson.github.io
 Runs inside GitHub Actions: reads topic-queue.json, generates one article
-via the Anthropic API, writes the Jekyll post, updates the queue, and
-notifies the Pinterest Pin Queue webhook. No GitHub PAT is used anywhere -
+via the Anthropic API, writes the Jekyll post, and updates the queue.
+No GitHub PAT is used anywhere -
 git push relies on the Actions-provided GITHUB_TOKEN via actions/checkout's
 built-in credential helper.
 """
@@ -18,7 +18,6 @@ import anthropic
 
 QUEUE_PATH = "queue/topic-queue.json"
 POSTS_DIR = "_posts"
-PIN_QUEUE_WEBHOOK = "https://hook.us2.make.com/7t8ye1hj1etbnjgihmr9w5a0yu5akfvy"
 MODEL = "claude-sonnet-5"
 INDEXNOW_KEY = "99fd7e5092a742d4bbcdcd761699f345"
 INDEXNOW_HOST = "jredmonson.github.io"
@@ -142,24 +141,6 @@ def build_post(topic, article, today):
     return front_matter + article["body_markdown"].strip() + "\n"
 
 
-def notify_pin_queue(today, title, url):
-    payload = json.dumps({
-        "source": "GitHub",
-        "publish_date": today,
-        "post_title": title,
-        "destination_url": url,
-    }).encode("utf-8")
-    req = urllib.request.Request(
-        PIN_QUEUE_WEBHOOK, data=payload,
-        headers={"Content-Type": "application/json"}, method="POST",
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=15) as resp:
-            print(f"Pin queue webhook status: {resp.status}")
-    except Exception as e:
-        print(f"Pin queue webhook failed (continuing anyway): {e}")
-
-
 def ping_indexnow(urls):
     """Notify IndexNow-participating search engines (Bing, Yandex, etc.)
     that these URLs are new or updated, so they crawl without delay."""
@@ -203,7 +184,6 @@ def main():
     save_queue(queue)
 
     url = f"https://jredmonson.github.io/{topic['category_tag']}/{topic['id']}/"
-    notify_pin_queue(today, topic["title"], url)
     ping_indexnow([url, f"https://{INDEXNOW_HOST}/sitemap.xml"])
 
     print(f"Published: {topic['id']} - {topic['title']} ({today})")
