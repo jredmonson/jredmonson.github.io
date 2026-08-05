@@ -21,7 +21,62 @@ layout: default
   <div class="container post-layout">
 
     <div class="post-content" itemprop="articleBody">
+
+      {% if page.quick_answer %}
+      <div class="quick-answer-box" style="background:#f0f7ff;border-left:4px solid #0066cc;padding:1em 1.4em;margin:0 0 2em;border-radius:4px;">
+        <strong>Quick Answer:</strong> {{ page.quick_answer }}
+      </div>
+      {% endif %}
+
       {{ content }}
+
+      {% if page.money_page_links %}
+      <div class="money-page-box" style="background:#f8f9fa;border-left:4px solid #2E75B6;padding:1em 1.4em;margin:2em 0;border-radius:4px;">
+        <strong>Related:</strong>
+        <ul>
+        {% for m in page.money_page_links %}
+          <li><a href="{{ m.url }}">{{ m.label }}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% if page.cluster %}
+      {% assign cluster_posts = site.posts | where: "cluster", page.cluster %}
+
+      {% if page.type == "pillar" %}
+        {% assign siblings = cluster_posts | where: "type", "cluster" %}
+        {% if siblings.size > 0 %}
+        <div class="cluster-block go-deeper" style="margin-top:2.5em;padding-top:1.5em;border-top:1px solid #e0e7ef;">
+          <h3>Go Deeper</h3>
+          <ul>
+          {% for p in siblings %}
+            {% if p.url != page.url %}<li><a href="{{ p.url }}">{{ p.title }}</a></li>{% endif %}
+          {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+      {% elsif page.type == "cluster" %}
+        {% assign pillar_post = cluster_posts | where: "type", "pillar" | first %}
+        {% if pillar_post %}
+        <div class="cluster-block pillar-uplink" style="margin-top:2em;padding:1em 1.4em;background:#f8f9fa;border-radius:4px;">
+          This is part of our <a href="{{ pillar_post.url }}"><strong>{{ pillar_post.title }}</strong></a> guide.
+        </div>
+        {% endif %}
+        {% assign siblings = cluster_posts | where: "type", "cluster" %}
+        {% if siblings.size > 1 %}
+        <div class="cluster-block related" style="margin-top:1.5em;">
+          <h3>Related in this cluster</h3>
+          <ul>
+          {% for p in siblings %}
+            {% if p.url != page.url %}<li><a href="{{ p.url }}">{{ p.title }}</a></li>{% endif %}
+          {% endfor %}
+          </ul>
+        </div>
+        {% endif %}
+      {% endif %}
+      {% endif %}
+
     </div>
 
     <!-- Sidebar -->
