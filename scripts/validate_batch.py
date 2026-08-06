@@ -18,7 +18,11 @@ publish time, not authored up front):
     topic with the same `cluster` key exists in this batch or is already
     published in the existing queue (never publish a cluster before its
     pillar is live)
-  - every money_page_links[].url resolves to a KNOWN_ROUTES entry
+  - every `type: cluster` topic has an `anchor` (short link text the pillar
+    uses when linking down to it - required for the Service Funnel Stack /
+    dense interlinking pattern to render correctly)
+  - every money_page_links[].url and next_step_link.url resolves to a
+    KNOWN_ROUTES entry
   - batch size is capped (default 500, matching JRBP's own guidance to
     launch no more than 100-500 URLs at a time)
 
@@ -46,6 +50,16 @@ KNOWN_ROUTES = [
     "https://llpgpro.com/6jjpsb3w/",
     "https://llpgpro.com/f6jhrm7v/",
     "https://pictory.ai?fpr=george62",
+    "https://jredmonson.github.io/local-business/social-media-management/",
+    "https://jredmonson.github.io/local-business/custom-logo-design/",
+    "https://jredmonson.github.io/local-business/seo-geo-optimization/",
+    "https://jredmonson.github.io/local-business/wordpress-elementor-websites/",
+    "https://jredmonson.github.io/local-business/video-editing-youtube-tiktok/",
+    "https://jredmonson.github.io/local-business/google-business-profile-optimization/",
+    "https://jredmonson.github.io/local-business/seo-content-copywriting/",
+    "https://jredmonson.github.io/local-business/ugc-video-production/",
+    "https://jredmonson.github.io/local-business/local-seo-citations/",
+    "https://jredmonson.github.io/local-business/wordpress-development-agency/",
 ]
 
 
@@ -101,10 +115,16 @@ def main():
                 errors.append(f"{label}: type=cluster but no `cluster` grouping key set")
             elif cluster not in published_pillars and cluster not in batch_pillars:
                 errors.append(f"{label}: cluster '{cluster}' has no pillar published yet and no pillar in this batch - publish/queue the pillar first")
+            if not t.get("anchor"):
+                errors.append(f"{label}: type=cluster but no `anchor` set - the pillar's Go Deeper block needs this to render correct link text")
 
         for m in t.get("money_page_links", []):
             if m.get("url") not in KNOWN_ROUTES:
                 errors.append(f"{label}: money_page_links target '{m.get('url')}' not in KNOWN_ROUTES (edit this script's KNOWN_ROUTES if it's a real destination)")
+
+        nsl = t.get("next_step_link")
+        if nsl and nsl.get("url") not in KNOWN_ROUTES:
+            errors.append(f"{label}: next_step_link target '{nsl.get('url')}' not in KNOWN_ROUTES")
 
     if errors:
         print(f"VALIDATION FAILED - {len(errors)} problem(s):")

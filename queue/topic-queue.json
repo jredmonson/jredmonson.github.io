@@ -1,5 +1,5 @@
 {
-  "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically.",
+  "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
   "offer_streak": 25,
   "last_published_date": "2026-07-21",
@@ -794,6 +794,692 @@
       "target_question": "What does an FTC-compliant affiliate disclosure actually need to say?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-21"
+    },
+    {
+      "id": "social-media-management",
+      "status": "pending",
+      "category": "offer",
+      "title": "Hire Professional Social Media Management Services",
+      "keyphrase": "professional social media management services",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Most local brands don't have a content problem, they have a consistency and conversion problem - posting sporadically with no plan to turn followers into paying customers.",
+      "target_question": "What does a professional social media management service actually do for a local business?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "social-media-management",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/video-editing-youtube-tiktok/",
+        "label": "feed your socials with professionally edited videos"
+      }
+    },
+    {
+      "id": "automated-posting-schedules",
+      "status": "pending",
+      "category": "offer",
+      "title": "Affordable Automated Social Media Posting Schedules for Busy Business Owners",
+      "keyphrase": "automated social media posting schedules",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Consistency beats creativity when you're starting out - a boring schedule that never misses beats viral swings that burn you out after two weeks.",
+      "target_question": "How do automated social media posting schedules work for busy business owners?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "social-media-management",
+      "anchor": "automated posting schedules"
+    },
+    {
+      "id": "convert-followers-into-customers",
+      "status": "pending",
+      "category": "offer",
+      "title": "Turning Social Media Followers Into Paying Local Customers",
+      "keyphrase": "convert social media followers into customers",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Follower count is a vanity metric until you build the specific bridge - offer, CTA, and funnel - that turns a scroll-stopper into a phone call.",
+      "target_question": "How do you turn social media followers into paying local customers?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "social-media-management",
+      "anchor": "convert followers into customers"
+    },
+    {
+      "id": "unified-social-brand-identity",
+      "status": "pending",
+      "category": "offer",
+      "title": "Unified Brand Identity Social Media Strategy for Multi-Platform Presence",
+      "keyphrase": "unified social media brand identity",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A business that looks different on Facebook than on Instagram reads as either new or unstable - identity consistency is what makes strangers trust a brand fast.",
+      "target_question": "Why does a unified brand identity matter across social media platforms?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "social-media-management",
+      "anchor": "unified social brand identity"
+    },
+    {
+      "id": "custom-logo-design",
+      "status": "pending",
+      "category": "offer",
+      "title": "Best Custom Logo Design Specialists",
+      "keyphrase": "custom logo design specialists",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A generic template logo signals a generic business - the businesses that win the first impression are the ones that look like they've already made it.",
+      "target_question": "What should you expect from a custom logo design specialist for a local business?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "custom-logo-design",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/wordpress-elementor-websites/",
+        "label": "once your brand identity is set, build your custom website here"
+      }
+    },
+    {
+      "id": "scalable-vector-logo-files",
+      "status": "pending",
+      "category": "offer",
+      "title": "Custom Vector Logo Designs With Full Scalable Assets for All Platforms",
+      "keyphrase": "scalable vector logo files",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A logo that looks perfect on a business card and pixelates on a billboard isn't finished - vector files are what make a logo actually usable everywhere.",
+      "target_question": "Why do you need scalable vector logo files instead of just a PNG?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "custom-logo-design",
+      "anchor": "scalable vector logo files"
+    },
+    {
+      "id": "original-target-market-logo-concepts",
+      "status": "pending",
+      "category": "offer",
+      "title": "Original Target-Market Logo Concepts vs Generic Templates",
+      "keyphrase": "original logo concepts vs templates",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A $20 template logo and a $20 competitor's template logo are, statistically, the same logo - originality is the only thing template sites can't sell you.",
+      "target_question": "What's the real difference between an original logo concept and a generic template?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "custom-logo-design",
+      "anchor": "original target-market logo concepts"
+    },
+    {
+      "id": "high-resolution-logo-source-files",
+      "status": "pending",
+      "category": "offer",
+      "title": "Full High-Resolution Logo Source Files and Brand Guidelines Handover",
+      "keyphrase": "logo source files and brand guidelines",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Owning your logo means owning the editable source files and the rules for using them - not just a JPEG you're not allowed to touch.",
+      "target_question": "What source files and brand guidelines should you receive after a logo design project?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "custom-logo-design",
+      "anchor": "high-resolution logo source files"
+    },
+    {
+      "id": "seo-geo-optimization",
+      "status": "pending",
+      "category": "offer",
+      "title": "Search Engine and GEO Optimization Experts",
+      "keyphrase": "search engine and GEO optimization experts",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Ranking in Google isn't enough anymore - if your site isn't structured for AI answer engines, you're invisible to the growing share of buyers who ask ChatGPT instead of searching.",
+      "target_question": "What does a search engine and GEO optimization expert actually do differently in 2026?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "seo-geo-optimization",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/google-business-profile-optimization/",
+        "label": "dominate local maps to drive calls from your SEO traffic"
+      }
+    },
+    {
+      "id": "ai-engine-optimization-strategies",
+      "status": "pending",
+      "category": "offer",
+      "title": "Optimize Your Website for AI Engine Answers and ChatGPT Results",
+      "keyphrase": "AI engine optimization strategies",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "AI Overviews and chat answer engines lift content that answers a question in the first sentence - burying your point in paragraph four means you don't get cited.",
+      "target_question": "How do you optimize a website to get cited in AI engine answers?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "seo-geo-optimization",
+      "anchor": "AI engine optimization strategies"
+    },
+    {
+      "id": "profitable-buyer-intent-keywords",
+      "status": "pending",
+      "category": "offer",
+      "title": "Targeting Profitable Buyer-Intent Keywords for Local Service Sales",
+      "keyphrase": "profitable buyer-intent keywords",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Ranking #1 for a keyword nobody buys with is worthless - buyer-intent keywords are lower volume and dramatically higher value.",
+      "target_question": "What makes a keyword 'buyer-intent' instead of just high-volume?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "seo-geo-optimization",
+      "anchor": "profitable buyer-intent keywords"
+    },
+    {
+      "id": "technical-schema-markup-implementation",
+      "status": "pending",
+      "category": "offer",
+      "title": "Implementing Precise Technical Schema Markup for Rich Search Results",
+      "keyphrase": "technical schema markup implementation",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Schema markup is the difference between Google guessing what your page is about and Google knowing - and that gap shows up directly in click-through rate.",
+      "target_question": "What is technical schema markup and why does it matter for local SEO?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "seo-geo-optimization",
+      "anchor": "technical schema markup implementation"
+    },
+    {
+      "id": "wordpress-elementor-websites",
+      "status": "pending",
+      "category": "offer",
+      "title": "Custom WordPress Website Development Using Elementor",
+      "keyphrase": "custom WordPress website development using Elementor",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Most small business websites fail before a visitor reads a word - they load slow, look the same as every competitor, and have no clear next step.",
+      "target_question": "What does custom WordPress website development with Elementor actually deliver over a template site?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "wordpress-elementor-websites",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/seo-content-copywriting/",
+        "label": "populate your new site with high-converting SEO copy"
+      }
+    },
+    {
+      "id": "fast-mobile-responsive-elementor-designs",
+      "status": "pending",
+      "category": "offer",
+      "title": "Blazing Fast Mobile-Responsive Elementor Designs That Actually Load Instantly",
+      "keyphrase": "fast mobile-responsive Elementor designs",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A beautiful site that takes 6 seconds to load on mobile is a beautiful site nobody sees - speed is a design requirement, not an afterthought.",
+      "target_question": "What makes an Elementor website actually load fast on mobile?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "wordpress-elementor-websites",
+      "anchor": "fast mobile-responsive Elementor designs"
+    },
+    {
+      "id": "lead-generation-funnel-integration",
+      "status": "pending",
+      "category": "offer",
+      "title": "Smooth Lead Generation Funnel Integration Into WordPress Sites",
+      "keyphrase": "lead generation funnel integration WordPress",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A website without a funnel is a digital brochure - integration means every page has one clear job: move a visitor toward becoming a lead.",
+      "target_question": "How do you integrate a lead generation funnel directly into a WordPress site?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "wordpress-elementor-websites",
+      "anchor": "lead generation funnel integration"
+    },
+    {
+      "id": "easily-editable-elementor-layouts",
+      "status": "pending",
+      "category": "offer",
+      "title": "Easily Editable Custom WordPress Layouts With Elementor Pro",
+      "keyphrase": "easily editable Elementor layouts",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A site you have to call a developer to update is a site that goes stale - Elementor Pro layouts are built so an owner can make basic edits themselves.",
+      "target_question": "Can you edit an Elementor Pro website yourself without hiring a developer?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "wordpress-elementor-websites",
+      "anchor": "easily editable Elementor layouts"
+    },
+    {
+      "id": "video-editing-youtube-tiktok",
+      "status": "pending",
+      "category": "offer",
+      "title": "Professional Video Editing for YouTube and TikTok",
+      "keyphrase": "professional video editing services for YouTube and TikTok",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Raw footage isn't content - the edit is where retention, watch time, and the algorithm's willingness to push your video are actually decided.",
+      "target_question": "What does professional video editing add that raw footage or basic cuts can't?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "video-editing-youtube-tiktok",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/ugc-video-production/",
+        "label": "scale your video strategy with authentic user-generated content"
+      }
+    },
+    {
+      "id": "short-form-video-retention-pacing",
+      "status": "pending",
+      "category": "offer",
+      "title": "Engaging Short-Form Video Retention Pacing for TikTok Algorithms",
+      "keyphrase": "short-form video retention pacing",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "TikTok's algorithm rewards watch-through, not views - pacing that loses attention in the first three seconds never gets a second chance.",
+      "target_question": "What is retention pacing and why does it matter for short-form video?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "video-editing-youtube-tiktok",
+      "anchor": "short-form video retention pacing"
+    },
+    {
+      "id": "animated-dynamic-video-captions",
+      "status": "pending",
+      "category": "offer",
+      "title": "Highly Readable Animated Dynamic Captions for Silent Viewers",
+      "keyphrase": "animated dynamic video captions",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Most social video is watched on mute - captions aren't accessibility polish anymore, they're the primary way most viewers consume the message.",
+      "target_question": "Why do dynamic animated captions matter more than static subtitles?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "video-editing-youtube-tiktok",
+      "anchor": "animated dynamic video captions"
+    },
+    {
+      "id": "cross-platform-video-sizing",
+      "status": "pending",
+      "category": "offer",
+      "title": "Perfect Cross-Platform Video Sizing and Formatting for All Social Channels",
+      "keyphrase": "cross-platform video sizing",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A single export dumped across every platform looks amateur - each channel has its own safe zones, aspect ratio, and crop that content has to respect.",
+      "target_question": "How should video sizing differ across YouTube, TikTok, and Instagram?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "video-editing-youtube-tiktok",
+      "anchor": "cross-platform video sizing"
+    },
+    {
+      "id": "google-business-profile-optimization",
+      "status": "pending",
+      "category": "offer",
+      "title": "Google Business Profile Optimization Expert",
+      "keyphrase": "Google Business Profile optimization expert",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Most local businesses treat their Google Business Profile as a set-it-and-forget-it listing - the ones that dominate the map pack treat it as a living, optimized asset.",
+      "target_question": "What does a Google Business Profile optimization expert actually do to improve map pack rankings?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "google-business-profile-optimization",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/local-seo-citations/",
+        "label": "solidify your map presence with consistent local citations"
+      }
+    },
+    {
+      "id": "fix-suspended-google-business-profile",
+      "status": "pending",
+      "category": "offer",
+      "title": "Fix Suspended or Disabled Google Business Profile Issues Fast",
+      "keyphrase": "fix suspended Google Business Profile",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A suspended profile is lost revenue every single day it's down - the reinstatement process rewards precision, not panic.",
+      "target_question": "How do you fix a suspended or disabled Google Business Profile?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "google-business-profile-optimization",
+      "anchor": "fix suspended Google Business Profile"
+    },
+    {
+      "id": "drive-calls-with-gbp-optimization",
+      "status": "pending",
+      "category": "offer",
+      "title": "Drive Maximum Customer Phone Calls Through GBP Optimization",
+      "keyphrase": "drive calls with GBP optimization",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Map pack visibility only matters if it converts to a call - the profile fields, photos, and posts that drive clicks aren't guesswork, they're testable.",
+      "target_question": "What Google Business Profile changes actually increase phone calls?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "google-business-profile-optimization",
+      "anchor": "drive calls with GBP optimization"
+    },
+    {
+      "id": "competitive-gbp-ranking-weaknesses",
+      "status": "pending",
+      "category": "offer",
+      "title": "Pinpoint and Exploit Competitive Search Ranking Weaknesses in Local Maps",
+      "keyphrase": "competitive GBP ranking weaknesses",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Every competitor sitting above you in the map pack has a specific, findable weakness - fewer reviews, thinner categories, weaker citations - that's your opening.",
+      "target_question": "How do you find and exploit a competitor's Google Business Profile weaknesses?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "google-business-profile-optimization",
+      "anchor": "competitive GBP ranking weaknesses"
+    },
+    {
+      "id": "seo-content-copywriting",
+      "status": "pending",
+      "category": "offer",
+      "title": "High Authority SEO Website Content Copywriting",
+      "keyphrase": "high authority SEO website content copywriting",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Content written for search engines alone reads like it, and readers bounce - the copy that actually ranks and converts is written for a specific person with a specific problem.",
+      "target_question": "What makes SEO website copywriting 'high authority' instead of just keyword-stuffed?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "seo-content-copywriting",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/seo-geo-optimization/",
+        "label": "optimize your content to rank in AI and organic search"
+      }
+    },
+    {
+      "id": "high-converting-sales-copywriting",
+      "status": "pending",
+      "category": "offer",
+      "title": "High-Converting Sales Copywriting That Turns Visitors Into Inquiries",
+      "keyphrase": "high-converting sales copywriting",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Traffic without conversion copy is just an expensive way to watch people leave - the words on the page do the selling before a human ever picks up the phone.",
+      "target_question": "What makes sales copywriting actually convert visitors into inquiries?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "seo-content-copywriting",
+      "anchor": "high-converting sales copywriting"
+    },
+    {
+      "id": "search-friendly-page-outlines",
+      "status": "pending",
+      "category": "offer",
+      "title": "Rankable Search-Friendly Page Outlines and Content Hierarchies",
+      "keyphrase": "search-friendly page outlines",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Google reads structure before it reads sentences - a page outline built around clear headings and hierarchy ranks faster than the same words dumped in one block.",
+      "target_question": "What makes a page outline 'search-friendly' for SEO purposes?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "seo-content-copywriting",
+      "anchor": "search-friendly page outlines"
+    },
+    {
+      "id": "optimized-meta-titles-descriptions",
+      "status": "pending",
+      "category": "offer",
+      "title": "Optimized Meta Titles and Descriptions That Capture Local Clicks",
+      "keyphrase": "optimized meta titles and descriptions",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A page can rank #3 and still lose to the #5 result if its meta title and description don't earn the click - the snippet is a second headline, not an afterthought.",
+      "target_question": "How do you write meta titles and descriptions that actually increase click-through rate?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "seo-content-copywriting",
+      "anchor": "optimized meta titles descriptions"
+    },
+    {
+      "id": "ugc-video-production",
+      "status": "pending",
+      "category": "offer",
+      "title": "High Converting UGC Video Production Services",
+      "keyphrase": "high-converting UGC video production services",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Polished ad-style video is starting to read as an ad and get scrolled past - UGC-style content reads as a recommendation, and recommendations convert.",
+      "target_question": "What makes UGC-style video production convert better than traditional polished ads?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "ugc-video-production",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/social-media-management/",
+        "label": "amplify your UGC through expert social media management"
+      }
+    },
+    {
+      "id": "dynamic-hooks-for-ugc-videos",
+      "status": "pending",
+      "category": "offer",
+      "title": "Stop-Scrolling Dynamic Hooks for User-Generated Content Videos",
+      "keyphrase": "dynamic hooks for UGC videos",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "The first two seconds decide whether a UGC video gets watched or scrolled - the hook has to earn attention before the pitch even starts.",
+      "target_question": "What makes a hook effective in the first two seconds of a UGC video?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "ugc-video-production",
+      "anchor": "dynamic hooks for UGC videos"
+    },
+    {
+      "id": "authentic-peer-review-ugc-videos",
+      "status": "pending",
+      "category": "offer",
+      "title": "Organic Authentic Peer Review Videos That Build Instant Brand Trust",
+      "keyphrase": "authentic peer review UGC videos",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "People trust a stranger's honest opinion faster than a brand's polished claim - authentic peer-review-style video borrows that trust legitimately.",
+      "target_question": "Why do peer-review-style UGC videos build more trust than branded ads?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "ugc-video-production",
+      "anchor": "authentic peer review UGC videos"
+    },
+    {
+      "id": "scale-paid-ads-with-ugc",
+      "status": "pending",
+      "category": "offer",
+      "title": "Scale Paid Social Media Ads With High-Performing UGC Creatives",
+      "keyphrase": "scale paid ads with UGC",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Ad fatigue kills paid campaigns fast when the creative pool is thin - a library of UGC-style variations is what keeps cost-per-click from creeping up.",
+      "target_question": "How does UGC content help paid social ads scale without rising costs?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "ugc-video-production",
+      "anchor": "scale paid ads with UGC"
+    },
+    {
+      "id": "local-seo-citations",
+      "status": "pending",
+      "category": "offer",
+      "title": "Affordable Local SEO Business Citations Service",
+      "keyphrase": "affordable local SEO business citations service",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Inconsistent business listings across the web quietly tell Google your business is unreliable - citation cleanup is unglamorous work with an outsized ranking impact.",
+      "target_question": "What does a local SEO business citations service actually do for map pack rankings?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "local-seo-citations",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/custom-logo-design/",
+        "label": "complete your local domination stack with a professional logo"
+      }
+    },
+    {
+      "id": "manual-citation-cleanup-services",
+      "status": "pending",
+      "category": "offer",
+      "title": "Manual Directory Citation Cleanups for Complete NAP Consistency",
+      "keyphrase": "manual citation cleanup services",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Automated citation tools miss the directories that actually move rankings - manual cleanup catches the inconsistencies that quietly cap your visibility.",
+      "target_question": "What is NAP consistency and why does manual citation cleanup matter?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-seo-citations",
+      "anchor": "manual citation cleanup services"
+    },
+    {
+      "id": "high-authority-local-business-backlinks",
+      "status": "pending",
+      "category": "offer",
+      "title": "High-Authority Local Business Backlinks Through Hand-Built Citations",
+      "keyphrase": "high-authority local business backlinks",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Not all citations pass the same authority - hand-built submissions to relevant, high-authority directories carry real ranking weight that spam directories don't.",
+      "target_question": "How do hand-built citations function as backlinks for local SEO?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-seo-citations",
+      "anchor": "high-authority local business backlinks"
+    },
+    {
+      "id": "hand-built-citation-registry-submissions",
+      "status": "pending",
+      "category": "offer",
+      "title": "Hand-Built Citation Registry Submissions to Top Local Directories",
+      "keyphrase": "hand-built citation registry submissions",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Bulk citation-blasting services submit to the same low-value directory list for every client - hand-built submissions target the directories that actually matter for your specific industry.",
+      "target_question": "Why does hand-built citation submission outperform bulk citation services?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-seo-citations",
+      "anchor": "hand-built citation registry submissions"
+    },
+    {
+      "id": "wordpress-development-agency",
+      "status": "pending",
+      "category": "offer",
+      "title": "Full Service WordPress Website Development Agency",
+      "keyphrase": "full-service WordPress website development agency",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A corporate platform has different failure modes than a small business site - security, uptime, and scalability matter as much as design once real traffic and data are on the line.",
+      "target_question": "What should a full-service WordPress development agency deliver for a corporate-scale platform?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "wordpress-development-agency",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/local-business-services",
+          "label": "Local Business Services"
+        }
+      ]
+    },
+    {
+      "id": "custom-corporate-wordpress-architectures",
+      "status": "pending",
+      "category": "offer",
+      "title": "Secure Dynamic Custom Corporate WordPress Architectures",
+      "keyphrase": "custom corporate WordPress architectures",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "A corporate site built on a generic theme hits a ceiling fast - custom architecture is what lets the platform grow with the business instead of against it.",
+      "target_question": "What does a custom corporate WordPress architecture actually include?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "wordpress-development-agency",
+      "anchor": "custom corporate WordPress architectures"
+    },
+    {
+      "id": "speed-optimized-wordpress-development",
+      "status": "pending",
+      "category": "offer",
+      "title": "Clean Speed-Optimized Instant-Load WordPress Development",
+      "keyphrase": "speed-optimized WordPress development",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "Page speed is a ranking factor and a conversion factor at once - every extra second of load time compounds against both.",
+      "target_question": "What development practices make a WordPress site load instantly?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "wordpress-development-agency",
+      "anchor": "speed-optimized WordPress development"
+    },
+    {
+      "id": "wordpress-site-security-configuration",
+      "status": "pending",
+      "category": "offer",
+      "title": "Rigid Site Security Configuration and Malware Prevention Deployment",
+      "keyphrase": "WordPress site security configuration",
+      "affiliate_link": "https://agency.jredmonson.com/local-business-services",
+      "offer": "Local Business Services",
+      "pov": "WordPress powers over a third of the web, which makes it a constant target - security configuration isn't optional hardening, it's baseline due diligence.",
+      "target_question": "What security configuration should every corporate WordPress site have?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "wordpress-development-agency",
+      "anchor": "WordPress site security configuration"
     }
   ]
 }
