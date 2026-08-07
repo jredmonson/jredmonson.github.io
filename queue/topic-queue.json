@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 44,
+  "offer_streak": 61,
   "last_published_date": "2026-08-07",
   "topics": [
     {
@@ -870,7 +870,7 @@
     },
     {
       "id": "custom-logo-design",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Best Custom Logo Design Specialists",
       "keyphrase": "custom logo design specialists",
@@ -890,11 +890,12 @@
       "next_step_link": {
         "url": "https://jredmonson.github.io/local-business/wordpress-elementor-websites/",
         "label": "once your brand identity is set, build your custom website here"
-      }
+      },
+      "date": "2026-08-07"
     },
     {
       "id": "scalable-vector-logo-files",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Custom Vector Logo Designs With Full Scalable Assets for All Platforms",
       "keyphrase": "scalable vector logo files",
@@ -905,11 +906,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "custom-logo-design",
-      "anchor": "scalable vector logo files"
+      "anchor": "scalable vector logo files",
+      "date": "2026-08-07"
     },
     {
       "id": "original-target-market-logo-concepts",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Original Target-Market Logo Concepts vs Generic Templates",
       "keyphrase": "original logo concepts vs templates",
@@ -920,11 +922,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "custom-logo-design",
-      "anchor": "original target-market logo concepts"
+      "anchor": "original target-market logo concepts",
+      "date": "2026-08-07"
     },
     {
       "id": "high-resolution-logo-source-files",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Full High-Resolution Logo Source Files and Brand Guidelines Handover",
       "keyphrase": "logo source files and brand guidelines",
@@ -935,7 +938,8 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "custom-logo-design",
-      "anchor": "high-resolution logo source files"
+      "anchor": "high-resolution logo source files",
+      "date": "2026-08-07"
     },
     {
       "id": "seo-geo-optimization",
@@ -1037,7 +1041,7 @@
     },
     {
       "id": "fast-mobile-responsive-elementor-designs",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Blazing Fast Mobile-Responsive Elementor Designs That Actually Load Instantly",
       "keyphrase": "fast mobile-responsive Elementor designs",
@@ -1048,11 +1052,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "wordpress-elementor-websites",
-      "anchor": "fast mobile-responsive Elementor designs"
+      "anchor": "fast mobile-responsive Elementor designs",
+      "date": "2026-08-07"
     },
     {
       "id": "lead-generation-funnel-integration",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Smooth Lead Generation Funnel Integration Into WordPress Sites",
       "keyphrase": "lead generation funnel integration WordPress",
@@ -1083,7 +1088,7 @@
     },
     {
       "id": "video-editing-youtube-tiktok",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Professional Video Editing for YouTube and TikTok",
       "keyphrase": "professional video editing services for YouTube and TikTok",
@@ -1103,11 +1108,12 @@
       "next_step_link": {
         "url": "https://jredmonson.github.io/local-business/ugc-video-production/",
         "label": "scale your video strategy with authentic user-generated content"
-      }
+      },
+      "date": "2026-08-07"
     },
     {
       "id": "short-form-video-retention-pacing",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Engaging Short-Form Video Retention Pacing for TikTok Algorithms",
       "keyphrase": "short-form video retention pacing",
@@ -1118,11 +1124,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "video-editing-youtube-tiktok",
-      "anchor": "short-form video retention pacing"
+      "anchor": "short-form video retention pacing",
+      "date": "2026-08-07"
     },
     {
       "id": "animated-dynamic-video-captions",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Highly Readable Animated Dynamic Captions for Silent Viewers",
       "keyphrase": "animated dynamic video captions",
@@ -1133,11 +1140,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "video-editing-youtube-tiktok",
-      "anchor": "animated dynamic video captions"
+      "anchor": "animated dynamic video captions",
+      "date": "2026-08-07"
     },
     {
       "id": "cross-platform-video-sizing",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Perfect Cross-Platform Video Sizing and Formatting for All Social Channels",
       "keyphrase": "cross-platform video sizing",
@@ -1152,7 +1160,7 @@
     },
     {
       "id": "google-business-profile-optimization",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Google Business Profile Optimization Expert",
       "keyphrase": "Google Business Profile optimization expert",
@@ -1172,11 +1180,12 @@
       "next_step_link": {
         "url": "https://jredmonson.github.io/local-business/local-seo-citations/",
         "label": "solidify your map presence with consistent local citations"
-      }
+      },
+      "date": "2026-08-07"
     },
     {
       "id": "fix-suspended-google-business-profile",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Fix Suspended or Disabled Google Business Profile Issues Fast",
       "keyphrase": "fix suspended Google Business Profile",
@@ -1187,11 +1196,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "google-business-profile-optimization",
-      "anchor": "fix suspended Google Business Profile"
+      "anchor": "fix suspended Google Business Profile",
+      "date": "2026-08-07"
     },
     {
       "id": "drive-calls-with-gbp-optimization",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Drive Maximum Customer Phone Calls Through GBP Optimization",
       "keyphrase": "drive calls with GBP optimization",
@@ -1202,11 +1212,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "google-business-profile-optimization",
-      "anchor": "drive calls with GBP optimization"
+      "anchor": "drive calls with GBP optimization",
+      "date": "2026-08-07"
     },
     {
       "id": "competitive-gbp-ranking-weaknesses",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Pinpoint and Exploit Competitive Search Ranking Weaknesses in Local Maps",
       "keyphrase": "competitive GBP ranking weaknesses",
@@ -1319,7 +1330,7 @@
     },
     {
       "id": "dynamic-hooks-for-ugc-videos",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Stop-Scrolling Dynamic Hooks for User-Generated Content Videos",
       "keyphrase": "dynamic hooks for UGC videos",
@@ -1330,11 +1341,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "ugc-video-production",
-      "anchor": "dynamic hooks for UGC videos"
+      "anchor": "dynamic hooks for UGC videos",
+      "date": "2026-08-07"
     },
     {
       "id": "authentic-peer-review-ugc-videos",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Organic Authentic Peer Review Videos That Build Instant Brand Trust",
       "keyphrase": "authentic peer review UGC videos",
@@ -1345,7 +1357,8 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "ugc-video-production",
-      "anchor": "authentic peer review UGC videos"
+      "anchor": "authentic peer review UGC videos",
+      "date": "2026-08-07"
     },
     {
       "id": "scale-paid-ads-with-ugc",
@@ -1365,7 +1378,7 @@
     },
     {
       "id": "local-seo-citations",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Affordable Local SEO Business Citations Service",
       "keyphrase": "affordable local SEO business citations service",
@@ -1385,11 +1398,12 @@
       "next_step_link": {
         "url": "https://jredmonson.github.io/local-business/custom-logo-design/",
         "label": "complete your local domination stack with a professional logo"
-      }
+      },
+      "date": "2026-08-07"
     },
     {
       "id": "manual-citation-cleanup-services",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Manual Directory Citation Cleanups for Complete NAP Consistency",
       "keyphrase": "manual citation cleanup services",
@@ -1400,11 +1414,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "local-seo-citations",
-      "anchor": "manual citation cleanup services"
+      "anchor": "manual citation cleanup services",
+      "date": "2026-08-07"
     },
     {
       "id": "high-authority-local-business-backlinks",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "High-Authority Local Business Backlinks Through Hand-Built Citations",
       "keyphrase": "high-authority local business backlinks",
@@ -1419,7 +1434,7 @@
     },
     {
       "id": "hand-built-citation-registry-submissions",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Hand-Built Citation Registry Submissions to Top Local Directories",
       "keyphrase": "hand-built citation registry submissions",
@@ -1430,7 +1445,8 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "local-seo-citations",
-      "anchor": "hand-built citation registry submissions"
+      "anchor": "hand-built citation registry submissions",
+      "date": "2026-08-07"
     },
     {
       "id": "wordpress-development-agency",
@@ -1471,7 +1487,7 @@
     },
     {
       "id": "speed-optimized-wordpress-development",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Clean Speed-Optimized Instant-Load WordPress Development",
       "keyphrase": "speed-optimized WordPress development",
@@ -1482,7 +1498,8 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "wordpress-development-agency",
-      "anchor": "speed-optimized WordPress development"
+      "anchor": "speed-optimized WordPress development",
+      "date": "2026-08-07"
     },
     {
       "id": "wordpress-site-security-configuration",
