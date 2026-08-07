@@ -1,7 +1,7 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 61,
+  "offer_streak": 62,
   "last_published_date": "2026-08-07",
   "topics": [
     {
@@ -1057,7 +1057,7 @@
     },
     {
       "id": "lead-generation-funnel-integration",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Smooth Lead Generation Funnel Integration Into WordPress Sites",
       "keyphrase": "lead generation funnel integration WordPress",
@@ -1145,7 +1145,7 @@
     },
     {
       "id": "cross-platform-video-sizing",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Perfect Cross-Platform Video Sizing and Formatting for All Social Channels",
       "keyphrase": "cross-platform video sizing",
@@ -1156,7 +1156,8 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "video-editing-youtube-tiktok",
-      "anchor": "cross-platform video sizing"
+      "anchor": "cross-platform video sizing",
+      "date": "2026-08-07"
     },
     {
       "id": "google-business-profile-optimization",
@@ -1217,7 +1218,7 @@
     },
     {
       "id": "competitive-gbp-ranking-weaknesses",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Pinpoint and Exploit Competitive Search Ranking Weaknesses in Local Maps",
       "keyphrase": "competitive GBP ranking weaknesses",
@@ -1419,7 +1420,7 @@
     },
     {
       "id": "high-authority-local-business-backlinks",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "High-Authority Local Business Backlinks Through Hand-Built Citations",
       "keyphrase": "high-authority local business backlinks",
