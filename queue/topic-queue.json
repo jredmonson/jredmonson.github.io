@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 25,
-  "last_published_date": "2026-07-21",
+  "offer_streak": 44,
+  "last_published_date": "2026-08-07",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -797,7 +797,7 @@
     },
     {
       "id": "social-media-management",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Hire Professional Social Media Management Services",
       "keyphrase": "professional social media management services",
@@ -817,11 +817,12 @@
       "next_step_link": {
         "url": "https://jredmonson.github.io/local-business/video-editing-youtube-tiktok/",
         "label": "feed your socials with professionally edited videos"
-      }
+      },
+      "date": "2026-08-07"
     },
     {
       "id": "automated-posting-schedules",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Affordable Automated Social Media Posting Schedules for Busy Business Owners",
       "keyphrase": "automated social media posting schedules",
@@ -832,11 +833,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "social-media-management",
-      "anchor": "automated posting schedules"
+      "anchor": "automated posting schedules",
+      "date": "2026-08-07"
     },
     {
       "id": "convert-followers-into-customers",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Turning Social Media Followers Into Paying Local Customers",
       "keyphrase": "convert social media followers into customers",
@@ -847,11 +849,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "social-media-management",
-      "anchor": "convert followers into customers"
+      "anchor": "convert followers into customers",
+      "date": "2026-08-07"
     },
     {
       "id": "unified-social-brand-identity",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Unified Brand Identity Social Media Strategy for Multi-Platform Presence",
       "keyphrase": "unified social media brand identity",
@@ -862,11 +865,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "social-media-management",
-      "anchor": "unified social brand identity"
+      "anchor": "unified social brand identity",
+      "date": "2026-08-07"
     },
     {
       "id": "custom-logo-design",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Best Custom Logo Design Specialists",
       "keyphrase": "custom logo design specialists",
@@ -935,7 +939,7 @@
     },
     {
       "id": "seo-geo-optimization",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Search Engine and GEO Optimization Experts",
       "keyphrase": "search engine and GEO optimization experts",
@@ -955,11 +959,12 @@
       "next_step_link": {
         "url": "https://jredmonson.github.io/local-business/google-business-profile-optimization/",
         "label": "dominate local maps to drive calls from your SEO traffic"
-      }
+      },
+      "date": "2026-08-07"
     },
     {
       "id": "ai-engine-optimization-strategies",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Optimize Your Website for AI Engine Answers and ChatGPT Results",
       "keyphrase": "AI engine optimization strategies",
@@ -970,11 +975,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "seo-geo-optimization",
-      "anchor": "AI engine optimization strategies"
+      "anchor": "AI engine optimization strategies",
+      "date": "2026-08-07"
     },
     {
       "id": "profitable-buyer-intent-keywords",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Targeting Profitable Buyer-Intent Keywords for Local Service Sales",
       "keyphrase": "profitable buyer-intent keywords",
@@ -985,11 +991,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "seo-geo-optimization",
-      "anchor": "profitable buyer-intent keywords"
+      "anchor": "profitable buyer-intent keywords",
+      "date": "2026-08-07"
     },
     {
       "id": "technical-schema-markup-implementation",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Implementing Precise Technical Schema Markup for Rich Search Results",
       "keyphrase": "technical schema markup implementation",
@@ -1000,11 +1007,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "seo-geo-optimization",
-      "anchor": "technical schema markup implementation"
+      "anchor": "technical schema markup implementation",
+      "date": "2026-08-07"
     },
     {
       "id": "wordpress-elementor-websites",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Custom WordPress Website Development Using Elementor",
       "keyphrase": "custom WordPress website development using Elementor",
@@ -1024,11 +1032,12 @@
       "next_step_link": {
         "url": "https://jredmonson.github.io/local-business/seo-content-copywriting/",
         "label": "populate your new site with high-converting SEO copy"
-      }
+      },
+      "date": "2026-08-07"
     },
     {
       "id": "fast-mobile-responsive-elementor-designs",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Blazing Fast Mobile-Responsive Elementor Designs That Actually Load Instantly",
       "keyphrase": "fast mobile-responsive Elementor designs",
@@ -1043,7 +1052,7 @@
     },
     {
       "id": "lead-generation-funnel-integration",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Smooth Lead Generation Funnel Integration Into WordPress Sites",
       "keyphrase": "lead generation funnel integration WordPress",
@@ -1058,7 +1067,7 @@
     },
     {
       "id": "easily-editable-elementor-layouts",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Easily Editable Custom WordPress Layouts With Elementor Pro",
       "keyphrase": "easily editable Elementor layouts",
@@ -1069,11 +1078,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "wordpress-elementor-websites",
-      "anchor": "easily editable Elementor layouts"
+      "anchor": "easily editable Elementor layouts",
+      "date": "2026-08-07"
     },
     {
       "id": "video-editing-youtube-tiktok",
-      "status": "pending",
+      "status": "skipped_validation_failed",
       "category": "offer",
       "title": "Professional Video Editing for YouTube and TikTok",
       "keyphrase": "professional video editing services for YouTube and TikTok",
@@ -1142,7 +1152,7 @@
     },
     {
       "id": "google-business-profile-optimization",
-      "status": "pending",
+      "status": "skipped_validation_failed",
       "category": "offer",
       "title": "Google Business Profile Optimization Expert",
       "keyphrase": "Google Business Profile optimization expert",
@@ -1211,7 +1221,7 @@
     },
     {
       "id": "seo-content-copywriting",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "High Authority SEO Website Content Copywriting",
       "keyphrase": "high authority SEO website content copywriting",
@@ -1231,11 +1241,12 @@
       "next_step_link": {
         "url": "https://jredmonson.github.io/local-business/seo-geo-optimization/",
         "label": "optimize your content to rank in AI and organic search"
-      }
+      },
+      "date": "2026-08-07"
     },
     {
       "id": "high-converting-sales-copywriting",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "High-Converting Sales Copywriting That Turns Visitors Into Inquiries",
       "keyphrase": "high-converting sales copywriting",
@@ -1246,11 +1257,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "seo-content-copywriting",
-      "anchor": "high-converting sales copywriting"
+      "anchor": "high-converting sales copywriting",
+      "date": "2026-08-07"
     },
     {
       "id": "search-friendly-page-outlines",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Rankable Search-Friendly Page Outlines and Content Hierarchies",
       "keyphrase": "search-friendly page outlines",
@@ -1261,11 +1273,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "seo-content-copywriting",
-      "anchor": "search-friendly page outlines"
+      "anchor": "search-friendly page outlines",
+      "date": "2026-08-07"
     },
     {
       "id": "optimized-meta-titles-descriptions",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Optimized Meta Titles and Descriptions That Capture Local Clicks",
       "keyphrase": "optimized meta titles and descriptions",
@@ -1276,11 +1289,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "seo-content-copywriting",
-      "anchor": "optimized meta titles descriptions"
+      "anchor": "optimized meta titles descriptions",
+      "date": "2026-08-07"
     },
     {
       "id": "ugc-video-production",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "High Converting UGC Video Production Services",
       "keyphrase": "high-converting UGC video production services",
@@ -1300,11 +1314,12 @@
       "next_step_link": {
         "url": "https://jredmonson.github.io/local-business/social-media-management/",
         "label": "amplify your UGC through expert social media management"
-      }
+      },
+      "date": "2026-08-07"
     },
     {
       "id": "dynamic-hooks-for-ugc-videos",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Stop-Scrolling Dynamic Hooks for User-Generated Content Videos",
       "keyphrase": "dynamic hooks for UGC videos",
@@ -1319,7 +1334,7 @@
     },
     {
       "id": "authentic-peer-review-ugc-videos",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Organic Authentic Peer Review Videos That Build Instant Brand Trust",
       "keyphrase": "authentic peer review UGC videos",
@@ -1334,7 +1349,7 @@
     },
     {
       "id": "scale-paid-ads-with-ugc",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Scale Paid Social Media Ads With High-Performing UGC Creatives",
       "keyphrase": "scale paid ads with UGC",
@@ -1345,11 +1360,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "ugc-video-production",
-      "anchor": "scale paid ads with UGC"
+      "anchor": "scale paid ads with UGC",
+      "date": "2026-08-07"
     },
     {
       "id": "local-seo-citations",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Affordable Local SEO Business Citations Service",
       "keyphrase": "affordable local SEO business citations service",
@@ -1418,7 +1434,7 @@
     },
     {
       "id": "wordpress-development-agency",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Full Service WordPress Website Development Agency",
       "keyphrase": "full-service WordPress website development agency",
@@ -1434,11 +1450,12 @@
           "url": "https://agency.jredmonson.com/local-business-services",
           "label": "Local Business Services"
         }
-      ]
+      ],
+      "date": "2026-08-07"
     },
     {
       "id": "custom-corporate-wordpress-architectures",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Secure Dynamic Custom Corporate WordPress Architectures",
       "keyphrase": "custom corporate WordPress architectures",
@@ -1449,11 +1466,12 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "wordpress-development-agency",
-      "anchor": "custom corporate WordPress architectures"
+      "anchor": "custom corporate WordPress architectures",
+      "date": "2026-08-07"
     },
     {
       "id": "speed-optimized-wordpress-development",
-      "status": "pending",
+      "status": "skipped_generation_failed",
       "category": "offer",
       "title": "Clean Speed-Optimized Instant-Load WordPress Development",
       "keyphrase": "speed-optimized WordPress development",
@@ -1468,7 +1486,7 @@
     },
     {
       "id": "wordpress-site-security-configuration",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Rigid Site Security Configuration and Malware Prevention Deployment",
       "keyphrase": "WordPress site security configuration",
@@ -1479,7 +1497,8 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "wordpress-development-agency",
-      "anchor": "WordPress site security configuration"
+      "anchor": "WordPress site security configuration",
+      "date": "2026-08-07"
     }
   ]
 }
