@@ -1,8 +1,6 @@
 name: Autopublish Blog Post
 
 on:
-  schedule:
-    - cron: '0 12 * * 1'   # Weekly, Monday ~7am ET (EDT, UTC-5/4)
   workflow_dispatch:
     inputs:
       count:
