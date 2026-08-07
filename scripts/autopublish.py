@@ -173,6 +173,29 @@ def pick_topic(queue):
     return candidates[0]
 
 
+def repair_json(text):
+    """Best-effort recovery for common ways Claude's JSON output gets mangled
+    inside a long body_markdown field: extra text around the object, trailing
+    commas, smart quotes. Raises the original error if nothing works, with
+    the raw text attached so the caller can save it for inspection."""
+    try:
+        return json.loads(text, strict=False)
+    except json.JSONDecodeError as original_error:
+        candidate = text
+        start, end = candidate.find("{"), candidate.rfind("}")
+        if start != -1 and end != -1 and end > start:
+            candidate = candidate[start:end + 1]
+        candidate = (candidate
+                     .replace("\u201c", '"').replace("\u201d", '"')
+                     .replace("\u2018", "'").replace("\u2019", "'"))
+        candidate = re.sub(r",\s*([}\]])", r"\1", candidate)
+        try:
+            return json.loads(candidate, strict=False)
+        except json.JSONDecodeError:
+            original_error.raw_text = text
+            raise original_error
+
+
 def generate_article(queue, topic):
     client = anthropic.Anthropic()
 
@@ -210,7 +233,7 @@ def generate_article(queue, topic):
     text = "".join(text_parts).strip()
     text = re.sub(r"^```(json)?", "", text.strip())
     text = re.sub(r"```$", "", text.strip())
-    return json.loads(text, strict=False)
+    return repair_json(text)
 
 
 def slot_time(offset_minutes=0):
@@ -316,7 +339,22 @@ def publish_one(queue, today, offset_minutes):
     if topic is None:
         return None, False
 
-    article = generate_article(queue, topic)
+    try:
+        article = generate_article(queue, topic)
+    except Exception as e:
+        # A single malformed/failed generation should never take down the
+        # rest of a multi-article batch run - skip this topic, checkpoint
+        # the queue, and let the caller move on to the next one.
+        raw = getattr(e, "raw_text", None)
+        print(f"Generation failed for '{topic.get('id')}': {e}")
+        if raw:
+            print("--- raw model output (for diagnosing the prompt/parsing issue) ---")
+            print(raw[:4000])
+            print("--- end raw model output ---")
+        topic["status"] = "skipped_generation_failed"
+        save_queue(queue)
+        return topic, False
+
     if not validate_generated(topic, article):
         # Don't publish this one, but don't crash the whole batch either -
         # mark it skipped so a bad generation doesn't block the queue forever.
