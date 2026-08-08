@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 62,
-  "last_published_date": "2026-08-07",
+  "offer_streak": 65,
+  "last_published_date": "2026-08-08",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -114,7 +114,7 @@
       "keyphrase": "leadsleap free traffic",
       "affiliate_link": "https://leadsleap.com/?r=jredmonson",
       "offer": "LeadsLeap",
-      "pov": "Most free traffic is junk \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 LeadsLeap's credit-based system filters for real affiliate marketers actively looking for offers, which is the only free traffic worth having.",
+      "pov": "Most free traffic is junk ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ LeadsLeap's credit-based system filters for real affiliate marketers actively looking for offers, which is the only free traffic worth having.",
       "target_question": "How do you get free targeted traffic with LeadsLeap?",
       "category_tag": "traffic-generation",
       "date": "2026-06-28"
@@ -127,7 +127,7 @@
       "keyphrase": "leadsleap email marketing",
       "affiliate_link": "https://leadsleap.com/?r=jredmonson",
       "offer": "LeadsLeap",
-      "pov": "Paying $30/month for an autoresponder when you have zero subscribers is backwards. LeadsLeap lets you build to 1,000 subscribers free \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 prove the list converts first, then upgrade.",
+      "pov": "Paying $30/month for an autoresponder when you have zero subscribers is backwards. LeadsLeap lets you build to 1,000 subscribers free ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ prove the list converts first, then upgrade.",
       "target_question": "Can you build an email list for free with LeadsLeap?",
       "category_tag": "tools-resources",
       "date": "2026-06-29"
@@ -153,7 +153,7 @@
       "keyphrase": "solo ads vs premium traffic affiliate marketing",
       "affiliate_link": "https://mrxpremiumtraffic.com/amember/aff/go/jredmonson",
       "offer": "MR X Premium Traffic",
-      "pov": "Solo ads burn money while you learn the list owner's audience. MR X traffic is pre-filtered for buyer intent \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 scale what converts, don't pay to experiment.",
+      "pov": "Solo ads burn money while you learn the list owner's audience. MR X traffic is pre-filtered for buyer intent ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ scale what converts, don't pay to experiment.",
       "target_question": "Is MR X Premium Traffic better than solo ads for affiliate marketing?",
       "category_tag": "traffic-generation",
       "date": "2026-06-30"
@@ -179,7 +179,7 @@
       "keyphrase": "pictory ai pricing",
       "affiliate_link": "https://pictory.ai/?fpr=george62",
       "offer": "Pictory AI",
-      "pov": "The monthly plan is fine to test. If you're publishing more than 4 videos a month, the annual plan pays for itself \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 especially with the 20% discount code.",
+      "pov": "The monthly plan is fine to test. If you're publishing more than 4 videos a month, the annual plan pays for itself ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ especially with the 20% discount code.",
       "target_question": "Is Pictory AI annual plan worth the price?",
       "category_tag": "tools-resources",
       "date": "2026-07-01"
@@ -192,7 +192,7 @@
       "keyphrase": "make youtube videos with pictory ai",
       "affiliate_link": "https://pictory.ai/?fpr=george62",
       "offer": "Pictory AI",
-      "pov": "Every affiliate marketer should have a YouTube presence, but most won't show their face or learn video editing. Pictory removes both barriers \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 script to published video in under 30 minutes.",
+      "pov": "Every affiliate marketer should have a YouTube presence, but most won't show their face or learn video editing. Pictory removes both barriers ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ script to published video in under 30 minutes.",
       "target_question": "How long does it take to make a YouTube video with Pictory AI?",
       "category_tag": "tools-resources",
       "date": "2026-07-02"
@@ -205,7 +205,7 @@
       "keyphrase": "blog to video pictory ai",
       "affiliate_link": "https://pictory.ai/?fpr=george62",
       "offer": "Pictory AI",
-      "pov": "You already wrote the article. Pictory converts it to video in minutes \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 that's the same content getting indexed on YouTube, Pinterest, and Google simultaneously.",
+      "pov": "You already wrote the article. Pictory converts it to video in minutes ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ that's the same content getting indexed on YouTube, Pinterest, and Google simultaneously.",
       "target_question": "Can Pictory AI turn blog posts into videos automatically?",
       "category_tag": "tools-resources",
       "date": "2026-07-02"
@@ -231,7 +231,7 @@
       "keyphrase": "world profit traffic safelists 2026",
       "affiliate_link": "https://homebizsuccess5000.com//?id=90906",
       "offer": "World Profit",
-      "pov": "Safelists are dismissed by marketers who never used them correctly. The audience is 100% affiliate marketers actively looking for opportunities \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 you just need the right offer.",
+      "pov": "Safelists are dismissed by marketers who never used them correctly. The audience is 100% affiliate marketers actively looking for opportunities ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ you just need the right offer.",
       "target_question": "Do World Profit safelists still work for affiliate marketing in 2026?",
       "category_tag": "traffic-generation",
       "date": "2026-07-04"
@@ -244,7 +244,7 @@
       "keyphrase": "sign first highlevel agency client",
       "affiliate_link": "https://flashframestudio.com/pages2/page_6a0e887318fe8.html",
       "offer": "HighLevel Agency",
-      "pov": "Cold calling works but kills momentum for solo operators. Content-driven inbound \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 one good case study article + a Google Business Profile \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 pulls better leads than 100 cold calls.",
+      "pov": "Cold calling works but kills momentum for solo operators. Content-driven inbound ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ one good case study article + a Google Business Profile ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ pulls better leads than 100 cold calls.",
       "target_question": "How do you get your first HighLevel agency client without cold calling?",
       "category_tag": "local-business",
       "date": "2026-07-04"
@@ -257,7 +257,7 @@
       "keyphrase": "highlevel starter plan review",
       "affiliate_link": "https://flashframestudio.com/pages2/page_6a0e887318fe8.html",
       "offer": "HighLevel Agency",
-      "pov": "The Starter plan gives you everything you need to serve your first 3 clients. The Unlimited plan becomes necessary only when you're managing 5+ accounts \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 don't overspend on day one.",
+      "pov": "The Starter plan gives you everything you need to serve your first 3 clients. The Unlimited plan becomes necessary only when you're managing 5+ accounts ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ don't overspend on day one.",
       "target_question": "Is the HighLevel Starter plan enough to run an agency?",
       "category_tag": "local-business",
       "date": "2026-07-05"
@@ -283,7 +283,7 @@
       "keyphrase": "rebrand free funnel affiliate marketing",
       "affiliate_link": "https://llpgpro.com/bk8hwzhf/",
       "offer": "ProRevenuePlus 7-Step Funnel",
-      "pov": "A rebranded free funnel beats a generic one every time \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 adding your name and one personal insight makes it your content, not a copy.",
+      "pov": "A rebranded free funnel beats a generic one every time ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ adding your name and one personal insight makes it your content, not a copy.",
       "target_question": "How do you rebrand a free funnel to make it convert better?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-06"
@@ -296,7 +296,7 @@
       "keyphrase": "prorevenuplus residual income system",
       "affiliate_link": "https://llpgpro.com/bk8hwzhf/",
       "offer": "ProRevenuePlus 7-Step Funnel",
-      "pov": "The system works because it layers affiliate offers at each step instead of asking for the sale immediately \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 prospects warm up through free value before seeing anything paid.",
+      "pov": "The system works because it layers affiliate offers at each step instead of asking for the sale immediately ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ prospects warm up through free value before seeing anything paid.",
       "target_question": "How does the ProRevenuePlus 7-step system generate residual income?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-06"
@@ -309,7 +309,7 @@
       "keyphrase": "hostinger horizons vs wix affiliate site",
       "affiliate_link": "https://www.hostinger.com?REFERRALCODE=1PNGEDMONGAS",
       "offer": "Hostinger Horizons",
-      "pov": "Wix is prettier out of the box. Hostinger Horizons is faster to deploy and costs less per year \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 for affiliate sites where speed and cost matter more than design control, Horizons wins.",
+      "pov": "Wix is prettier out of the box. Hostinger Horizons is faster to deploy and costs less per year ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ for affiliate sites where speed and cost matter more than design control, Horizons wins.",
       "target_question": "Which is better for affiliate sites: Hostinger Horizons or Wix?",
       "category_tag": "tools-resources",
       "date": "2026-07-07"
@@ -335,7 +335,7 @@
       "keyphrase": "automated traffic system affiliate marketing",
       "affiliate_link": "https://leadsleap.com/?r=jredmonson",
       "offer": null,
-      "pov": "Traffic automation isn't about one tool \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 it's about a repeating loop: content published \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0086\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0092 indexed \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0086\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0092 drives clicks \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0086\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0092 grows the list. Break any link in that loop and it stops.",
+      "pov": "Traffic automation isn't about one tool ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ it's about a repeating loop: content published ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ indexed ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ drives clicks ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ grows the list. Break any link in that loop and it stops.",
       "target_question": "How do you build a traffic system that runs on autopilot?",
       "category_tag": "traffic-generation",
       "date": "2026-06-30"
@@ -348,7 +348,7 @@
       "keyphrase": "affiliate marketing beginners first $100",
       "affiliate_link": "https://llpgpro.com/bk8hwzhf/",
       "offer": null,
-      "pov": "The first $100 is harder than the next $1,000 \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 not because of the system but because of belief. The system is simple: one proven offer, one traffic source, one landing page. Complexity kills beginners.",
+      "pov": "The first $100 is harder than the next $1,000 ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ not because of the system but because of belief. The system is simple: one proven offer, one traffic source, one landing page. Complexity kills beginners.",
       "target_question": "How do beginners make their first $100 with affiliate marketing?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-02"
@@ -361,7 +361,7 @@
       "keyphrase": "create lead magnet that converts",
       "affiliate_link": "https://leadsleap.com/?r=jredmonson",
       "offer": null,
-      "pov": "Nobody opts in for another PDF. They opt in for a specific result in a specific timeframe. The title is the product \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 if the title doesn't make someone say 'I need that right now,' nothing else matters.",
+      "pov": "Nobody opts in for another PDF. They opt in for a specific result in a specific timeframe. The title is the product ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ if the title doesn't make someone say 'I need that right now,' nothing else matters.",
       "target_question": "What makes a lead magnet that people actually download?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-04"
@@ -387,7 +387,7 @@
       "keyphrase": "pinterest affiliate marketing traffic 2026",
       "affiliate_link": "https://leadsleap.com/?r=jredmonson",
       "offer": null,
-      "pov": "Pinterest rewards consistency over volume. 5 high-quality pins per week outperform 50 mediocre ones \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 the algorithm favors saves and outbound clicks, not impressions.",
+      "pov": "Pinterest rewards consistency over volume. 5 high-quality pins per week outperform 50 mediocre ones ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ the algorithm favors saves and outbound clicks, not impressions.",
       "target_question": "Does Pinterest still work for affiliate marketing traffic in 2026?",
       "category_tag": "traffic-generation",
       "date": "2026-07-06"
@@ -413,7 +413,7 @@
       "keyphrase": "affiliate marketing funnel explained",
       "affiliate_link": "https://llpgpro.com/bk8hwzhf/",
       "offer": null,
-      "pov": "Most affiliate funnels fail at the bridge \u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0083\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u00a2\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0080\u00c3\u0083\u00c2\u0083\u00c3\u0082\u00c2\u0082\u00c3\u0083\u00c2\u0082\u00c3\u0082\u00c2\u0094 the gap between ad/article click and offer page. The bridge page (your content, your story) is where trust is built or lost.",
+      "pov": "Most affiliate funnels fail at the bridge ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ the gap between ad/article click and offer page. The bridge page (your content, your story) is where trust is built or lost.",
       "target_question": "How does an affiliate marketing funnel work step by step?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-10"
@@ -491,7 +491,7 @@
       "keyphrase": "daily ads coupon code",
       "affiliate_link": "https://daily-ads.com/@gedmonsonjr",
       "offer": "Daily Ads",
-      "pov": "Credit packages scale in value the bigger you buy \u2014 the coupon math only makes sense once you know your real per-click cost target, not just the sticker discount.",
+      "pov": "Credit packages scale in value the bigger you buy — the coupon math only makes sense once you know your real per-click cost target, not just the sticker discount.",
       "target_question": "Are there coupon codes for Daily Ads credit packages?",
       "category_tag": "traffic-generation",
       "date": "2026-07-11"
@@ -504,7 +504,7 @@
       "keyphrase": "canada local business directory citation service",
       "affiliate_link": "https://pro.revenuesplus.com/?rd=xn4DcXnP",
       "offer": "Local Business Citation Service",
-      "pov": "Canadian directories aren't a subset of the US list \u2014 missing the Canada-specific ones is why some businesses never rank locally even after 'doing citations.'",
+      "pov": "Canadian directories aren't a subset of the US list — missing the Canada-specific ones is why some businesses never rank locally even after 'doing citations.'",
       "target_question": "What does a local business citation service build for Canadian companies?",
       "category_tag": "local-business",
       "date": "2026-07-11"
@@ -530,7 +530,7 @@
       "keyphrase": "mrx premium traffic discount code",
       "affiliate_link": "https://mrxpremiumtraffic.com/amember/aff/go/jredmonson",
       "offer": "MR X Premium Traffic",
-      "pov": "Discount codes on traffic services are only a good deal if the traffic converts at list price first \u2014 test small before chasing the biggest discount tier.",
+      "pov": "Discount codes on traffic services are only a good deal if the traffic converts at list price first — test small before chasing the biggest discount tier.",
       "target_question": "Is there a discount code for MR X Premium Traffic?",
       "category_tag": "traffic-generation",
       "date": "2026-07-12"
@@ -543,7 +543,7 @@
       "keyphrase": "pictory ai starter plan annual discount",
       "affiliate_link": "https://pictory.ai/?fpr=george62",
       "offer": "Pictory AI",
-      "pov": "Starter covers everything a solo affiliate marketer needs for the first several months of video content \u2014 upgrading before you've published consistently is spending ahead of the need.",
+      "pov": "Starter covers everything a solo affiliate marketer needs for the first several months of video content — upgrading before you've published consistently is spending ahead of the need.",
       "target_question": "Is the Pictory AI Starter annual plan enough to begin with?",
       "category_tag": "tools-resources",
       "date": "2026-07-12"
@@ -582,7 +582,7 @@
       "keyphrase": "cheapest way to buy real solo ads traffic",
       "affiliate_link": "https://mrxpremiumtraffic.com/amember/aff/go/jredmonson",
       "offer": "MR X Premium Traffic",
-      "pov": "The cheapest solo ad per-click is usually the most expensive traffic you'll ever buy once you factor in bot clicks and dead lists \u2014 pre-filtered traffic at a slightly higher price converts better per dollar.",
+      "pov": "The cheapest solo ad per-click is usually the most expensive traffic you'll ever buy once you factor in bot clicks and dead lists — pre-filtered traffic at a slightly higher price converts better per dollar.",
       "target_question": "What's the cheapest way to buy real solo ads traffic without getting scammed?",
       "category_tag": "traffic-generation",
       "date": "2026-07-14"
@@ -595,7 +595,7 @@
       "keyphrase": "white label local citations report",
       "affiliate_link": "https://pro.revenuesplus.com/?rd=xn4DcXnP",
       "offer": "Local Business Citation Service",
-      "pov": "A white label report turns a wholesale citation order into a client-facing deliverable \u2014 the markup is the entire margin on a local SEO service package.",
+      "pov": "A white label report turns a wholesale citation order into a client-facing deliverable — the markup is the entire margin on a local SEO service package.",
       "target_question": "Can you get a white label report for local citation building?",
       "category_tag": "local-business",
       "date": "2026-07-14"
@@ -608,7 +608,7 @@
       "keyphrase": "ai content engine coupon code",
       "affiliate_link": "https://www.etsy.com/listing/4524912620/ai-content-engine-2026-1-keyphrase-seo",
       "offer": "AI Content Engine (ProAffiliateVault)",
-      "pov": "Etsy digital products rarely need a coupon to be worth it at listing price \u2014 the real ROI question is whether you'll actually run the workflow, not whether you saved a few dollars on it.",
+      "pov": "Etsy digital products rarely need a coupon to be worth it at listing price — the real ROI question is whether you'll actually run the workflow, not whether you saved a few dollars on it.",
       "target_question": "Is there a coupon code for the AI Content Engine 2026 bundle?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-14"
@@ -621,7 +621,7 @@
       "keyphrase": "best interactive affiliate marketing tracker for beginners",
       "affiliate_link": "https://proaffiliatevault.etsy.com",
       "offer": "Etsy / ProAffiliateVault",
-      "pov": "Most affiliates lose track of which offer, which link, and which post actually produced a sale. A tracker only earns its keep if it's simpler to update than your memory \u2014 that's the bar it has to clear.",
+      "pov": "Most affiliates lose track of which offer, which link, and which post actually produced a sale. A tracker only earns its keep if it's simpler to update than your memory — that's the bar it has to clear.",
       "target_question": "What makes an affiliate marketing tracker actually useful for beginners?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-15"
@@ -634,7 +634,7 @@
       "keyphrase": "pictory ai team plan coupon code",
       "affiliate_link": "https://pictory.ai/?fpr=george62",
       "offer": "Pictory AI",
-      "pov": "Team plan pricing only pays off once you've got a VA or second creator publishing alongside you \u2014 solo marketers almost always overpay by skipping Starter or Professional.",
+      "pov": "Team plan pricing only pays off once you've got a VA or second creator publishing alongside you — solo marketers almost always overpay by skipping Starter or Professional.",
       "target_question": "Is there a coupon code for the Pictory AI Team plan, and is Team worth it solo?",
       "category_tag": "tools-resources",
       "date": "2026-07-15"
@@ -647,7 +647,7 @@
       "keyphrase": "buy local business citations us",
       "affiliate_link": "https://pro.revenuesplus.com/?rd=xn4DcXnP",
       "offer": "Local Business Citation Service",
-      "pov": "Buying citations from the wrong source creates NAP inconsistencies that hurt more than no citations at all \u2014 vetted, manually-built listings are worth paying more for than a bulk automated blast.",
+      "pov": "Buying citations from the wrong source creates NAP inconsistencies that hurt more than no citations at all — vetted, manually-built listings are worth paying more for than a bulk automated blast.",
       "target_question": "Where should you buy local business citations for a US company?",
       "category_tag": "local-business",
       "date": "2026-07-16"
@@ -660,7 +660,7 @@
       "keyphrase": "is mrx premium traffic worth the money",
       "affiliate_link": "https://mrxpremiumtraffic.com/amember/aff/go/jredmonson",
       "offer": "MR X Premium Traffic",
-      "pov": "Worth it isn't a fixed answer \u2014 it's worth it the moment your offer's conversion rate covers the cost per click, and not a day before you've tested that.",
+      "pov": "Worth it isn't a fixed answer — it's worth it the moment your offer's conversion rate covers the cost per click, and not a day before you've tested that.",
       "target_question": "Is MR X Premium Traffic worth the money for affiliate marketers?",
       "category_tag": "traffic-generation",
       "date": "2026-07-16"
@@ -673,7 +673,7 @@
       "keyphrase": "best live action product showcase video service",
       "affiliate_link": "https://pro.revenuesplus.com/?rd=om0S4Muz",
       "offer": "Pro Video Promotion Service",
-      "pov": "AI avatars are fine for explainer content. Physical products and local service businesses convert better with real footage \u2014 that's the line for when to hire a live-action crew instead.",
+      "pov": "AI avatars are fine for explainer content. Physical products and local service businesses convert better with real footage — that's the line for when to hire a live-action crew instead.",
       "target_question": "When should a business use a live-action video service instead of AI-generated video?",
       "category_tag": "tools-resources",
       "date": "2026-07-17"
@@ -686,7 +686,7 @@
       "keyphrase": "cheapest way to buy text link ads traffic",
       "affiliate_link": "https://daily-ads.com/@gedmonsonjr",
       "offer": "Daily Ads",
-      "pov": "Text link ads are the cheapest traffic format for a reason \u2014 they work when the surrounding page's audience actually matches your offer, not because the format itself performs.",
+      "pov": "Text link ads are the cheapest traffic format for a reason — they work when the surrounding page's audience actually matches your offer, not because the format itself performs.",
       "target_question": "What's the cheapest way to buy text link ads traffic that still converts?",
       "category_tag": "traffic-generation",
       "date": "2026-07-18"
@@ -699,7 +699,7 @@
       "keyphrase": "best automated content engine for blog scaling",
       "affiliate_link": "https://www.etsy.com/listing/4524912620/ai-content-engine-2026-1-keyphrase-seo",
       "offer": "AI Content Engine (ProAffiliateVault)",
-      "pov": "Scaling a blog isn't about publishing more \u2014 it's about publishing more without the keyphrase research collapsing into guesswork, which is the actual bottleneck a content engine solves.",
+      "pov": "Scaling a blog isn't about publishing more — it's about publishing more without the keyphrase research collapsing into guesswork, which is the actual bottleneck a content engine solves.",
       "target_question": "What's the best way to automate content for scaling a blog?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-19"
@@ -712,7 +712,7 @@
       "keyphrase": "order printable daily affiliate planning workbook",
       "affiliate_link": "https://proaffiliatevault.etsy.com",
       "offer": "Etsy / ProAffiliateVault",
-      "pov": "A daily workbook works because it's physical friction against skipping a day \u2014 digital-only planners are too easy to close and forget.",
+      "pov": "A daily workbook works because it's physical friction against skipping a day — digital-only planners are too easy to close and forget.",
       "target_question": "What does a printable daily affiliate planning workbook include?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-19"
@@ -725,7 +725,7 @@
       "keyphrase": "buy pictory ai professional monthly subscription",
       "affiliate_link": "https://pictory.ai/?fpr=george62",
       "offer": "Pictory AI",
-      "pov": "Professional unlocks the export limits and branding controls that Starter doesn't \u2014 the upgrade makes sense once you're publishing on a schedule, not before.",
+      "pov": "Professional unlocks the export limits and branding controls that Starter doesn't — the upgrade makes sense once you're publishing on a schedule, not before.",
       "target_question": "What do you get with the Pictory AI Professional monthly plan?",
       "category_tag": "tools-resources",
       "date": "2026-07-20"
@@ -738,7 +738,7 @@
       "keyphrase": "is daily ads premium upgrade worth the money",
       "affiliate_link": "https://daily-ads.com/@gedmonsonjr",
       "offer": "Daily Ads",
-      "pov": "Premium membership pays for itself in credit value alone once you're buying traffic weekly \u2014 the upgrade math is simple, the discipline to actually run campaigns weekly is the harder part.",
+      "pov": "Premium membership pays for itself in credit value alone once you're buying traffic weekly — the upgrade math is simple, the discipline to actually run campaigns weekly is the harder part.",
       "target_question": "Is upgrading to Daily Ads Premium worth the cost?",
       "category_tag": "traffic-generation",
       "date": "2026-07-20"
@@ -751,7 +751,7 @@
       "keyphrase": "leadsleap discount code for upgrade subscription",
       "affiliate_link": "https://leadsleap.com/?r=jredmonson",
       "offer": "LeadsLeap",
-      "pov": "LeadsLeap's Pro pricing is already low relative to comparable autoresponder-plus-traffic tools \u2014 chasing a discount code matters less than just upgrading once the free tier's limits start costing you leads.",
+      "pov": "LeadsLeap's Pro pricing is already low relative to comparable autoresponder-plus-traffic tools — chasing a discount code matters less than just upgrading once the free tier's limits start costing you leads.",
       "target_question": "Is there a discount code to upgrade to LeadsLeap Pro?",
       "category_tag": "tools-resources",
       "date": "2026-07-20"
@@ -764,7 +764,7 @@
       "keyphrase": "best ai script to video generator for blog posts",
       "affiliate_link": "https://pictory.ai/?fpr=george62",
       "offer": "Pictory AI",
-      "pov": "The best script-to-video tool is the one that turns a blog post you already wrote into a video without a re-write \u2014 that's the actual time savings, not the visual template library.",
+      "pov": "The best script-to-video tool is the one that turns a blog post you already wrote into a video without a re-write — that's the actual time savings, not the visual template library.",
       "target_question": "What's the best AI tool to turn a script or blog post into video?",
       "category_tag": "tools-resources",
       "date": "2026-07-21"
@@ -777,7 +777,7 @@
       "keyphrase": "proaffiliatevault campaign roadmap matrix download",
       "affiliate_link": "https://proaffiliatevault.etsy.com",
       "offer": "Etsy / ProAffiliateVault",
-      "pov": "A roadmap matrix works because it forces every campaign onto one page \u2014 offer, traffic source, and timeline in view together, instead of scattered across notes and tabs.",
+      "pov": "A roadmap matrix works because it forces every campaign onto one page — offer, traffic source, and timeline in view together, instead of scattered across notes and tabs.",
       "target_question": "What is a campaign roadmap matrix and how does it help plan affiliate campaigns?",
       "category_tag": "affiliate-marketing",
       "date": "2026-07-21"
@@ -1057,7 +1057,7 @@
     },
     {
       "id": "lead-generation-funnel-integration",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Smooth Lead Generation Funnel Integration Into WordPress Sites",
       "keyphrase": "lead generation funnel integration WordPress",
@@ -1068,7 +1068,8 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "wordpress-elementor-websites",
-      "anchor": "lead generation funnel integration"
+      "anchor": "lead generation funnel integration",
+      "date": "2026-08-08"
     },
     {
       "id": "easily-editable-elementor-layouts",
@@ -1218,7 +1219,7 @@
     },
     {
       "id": "competitive-gbp-ranking-weaknesses",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "Pinpoint and Exploit Competitive Search Ranking Weaknesses in Local Maps",
       "keyphrase": "competitive GBP ranking weaknesses",
@@ -1229,7 +1230,8 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "google-business-profile-optimization",
-      "anchor": "competitive GBP ranking weaknesses"
+      "anchor": "competitive GBP ranking weaknesses",
+      "date": "2026-08-08"
     },
     {
       "id": "seo-content-copywriting",
@@ -1420,7 +1422,7 @@
     },
     {
       "id": "high-authority-local-business-backlinks",
-      "status": "pending",
+      "status": "published",
       "category": "offer",
       "title": "High-Authority Local Business Backlinks Through Hand-Built Citations",
       "keyphrase": "high-authority local business backlinks",
@@ -1431,7 +1433,8 @@
       "category_tag": "local-business",
       "type": "cluster",
       "cluster": "local-seo-citations",
-      "anchor": "high-authority local business backlinks"
+      "anchor": "high-authority local business backlinks",
+      "date": "2026-08-08"
     },
     {
       "id": "hand-built-citation-registry-submissions",
