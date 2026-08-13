@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 89,
-  "last_published_date": "2026-08-15",
+  "offer_streak": 97,
+  "last_published_date": "2026-08-16",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -2057,6 +2057,185 @@
         }
       ],
       "date": "2026-08-15"
+    },
+    {
+      "id": "industry-specific-marketing-central-texas",
+      "status": "published",
+      "category": "offer",
+      "title": "Industry-Specific Marketing in Central Texas: Why Roofers, Lawyers, Dentists, and Restaurants Need Different Strategies",
+      "keyphrase": "industry specific marketing central texas",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A generic 'digital marketing' package applied across every industry wastes budget on tactics that don't match how that specific industry's customers actually search and decide - home services need urgency, professional services need trust, medical needs patient acquisition, hospitality needs same-day discovery.",
+      "target_question": "Why does a roofer, a law firm, a dental practice, and a restaurant all need different marketing strategies?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "industry-specific-marketing-central-texas",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/seo-geo-optimization/",
+        "label": "see how geo-targeted SEO gets built once your industry strategy is set"
+      },
+      "date": "2026-08-16"
+    },
+    {
+      "id": "seo-for-roofers-waco",
+      "status": "published",
+      "category": "offer",
+      "title": "SEO for Roofers in Waco, TX",
+      "keyphrase": "seo for roofers waco tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Roofing SEO in Waco should prioritize storm-damage and emergency-intent keywords over slower research terms, since most roofing searches carry real urgency.",
+      "target_question": "What does effective seo for roofers waco actually look like?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "industry-specific-marketing-central-texas",
+      "anchor": "SEO for roofers in Waco",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-16"
+    },
+    {
+      "id": "lead-generation-plumbers-waxahachie",
+      "status": "published",
+      "category": "offer",
+      "title": "Lead Generation for Plumbers in Waxahachie, TX",
+      "keyphrase": "lead generation plumbers waxahachie tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Plumbing lead generation depends heavily on response speed and emergency-intent visibility - a missed-call system is often more valuable than any single content investment.",
+      "target_question": "What does effective lead generation plumbers waxahachie actually look like?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "industry-specific-marketing-central-texas",
+      "anchor": "lead generation for plumbers in Waxahachie",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-16"
+    },
+    {
+      "id": "law-firm-seo-cleburne",
+      "status": "published",
+      "category": "offer",
+      "title": "Law Firm SEO in Cleburne, TX",
+      "keyphrase": "law firm seo cleburne tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Law firm SEO needs trust-building content and citations, not the urgency-focused tactics that work for home services - a fundamentally different customer decision process.",
+      "target_question": "What does effective law firm seo cleburne actually look like?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "industry-specific-marketing-central-texas",
+      "anchor": "law firm SEO in Cleburne",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-16"
+    },
+    {
+      "id": "digital-marketing-real-estate-agents-corsicana",
+      "status": "published",
+      "category": "offer",
+      "title": "Digital Marketing for Real Estate Agents in Corsicana, TX",
+      "keyphrase": "digital marketing real estate agents corsicana tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Real estate marketing depends on personal brand and demonstrated local expertise more than most local service categories - a Corsicana agent needs genuinely local content, not generic real estate templates.",
+      "target_question": "What does effective digital marketing real estate agents corsicana actually look like?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "industry-specific-marketing-central-texas",
+      "anchor": "digital marketing for real estate agents in Corsicana",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-16"
+    },
+    {
+      "id": "dental-practice-marketing-hillsboro",
+      "status": "published",
+      "category": "offer",
+      "title": "Dental Practice Marketing in Hillsboro, TX",
+      "keyphrase": "dental practice marketing hillsboro tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Dental marketing serves both urgent searches and slower new-patient-acquisition decisions - a Hillsboro practice needs to address both patterns well.",
+      "target_question": "What does effective dental practice marketing hillsboro actually look like?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "industry-specific-marketing-central-texas",
+      "anchor": "dental practice marketing in Hillsboro",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-16"
+    },
+    {
+      "id": "marketing-hvac-companies-bosque-county",
+      "status": "published",
+      "category": "offer",
+      "title": "Marketing for HVAC Companies Near Whitney and Meridian, TX",
+      "keyphrase": "marketing hvac companies bosque county tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "HVAC marketing should track Central Texas's seasonal cooling demand deliberately, and Bosque County's light competition means a modest budget can capture strong visibility.",
+      "target_question": "What does effective marketing hvac companies bosque county actually look like?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "industry-specific-marketing-central-texas",
+      "anchor": "marketing for HVAC companies near Whitney and Meridian",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-16"
+    },
+    {
+      "id": "local-seo-restaurants-coffee-shops-mexia",
+      "status": "published",
+      "category": "offer",
+      "title": "Local SEO for Restaurants and Coffee Shops in Mexia, TX",
+      "keyphrase": "local seo restaurants coffee shops mexia tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Restaurant search behavior is same-day and immediate-intent - accurate, current Google Business Profile information consistently outperforms long-form content for this industry.",
+      "target_question": "What does effective local seo restaurants coffee shops mexia actually look like?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "industry-specific-marketing-central-texas",
+      "anchor": "local SEO for restaurants and coffee shops in Mexia",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-16"
     }
   ]
 }
