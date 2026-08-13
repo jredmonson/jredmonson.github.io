@@ -59,6 +59,7 @@ KNOWN_ROUTES = [
     "https://jredmonson.github.io/local-business/ugc-video-production/",
     "https://jredmonson.github.io/local-business/local-seo-citations/",
     "https://jredmonson.github.io/local-business/wordpress-development-agency/",
+    "https://jredmonson.github.io/local-business/affordable-marketing-agency-central-texas/",
 ]
 
 WORD_COUNT_MIN = {"pillar": 2000, "cluster": 800}
