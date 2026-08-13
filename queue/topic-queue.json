@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 97,
-  "last_published_date": "2026-08-16",
+  "offer_streak": 105,
+  "last_published_date": "2026-08-17",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -2236,6 +2236,185 @@
         }
       ],
       "date": "2026-08-16"
+    },
+    {
+      "id": "local-pack-ranking-expert-central-texas",
+      "status": "published",
+      "category": "offer",
+      "title": "Local Pack Ranking Expert in Central Texas: Why Service-Specific Pages Rank Faster Than \"Marketing Agency\"",
+      "keyphrase": "local pack ranking expert central texas",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A generic 'marketing agency' page competes for one of the broadest, most contested keywords possible - isolating individual services (Google Maps optimization, review management, mobile design, CRO) into dedicated pages ranks faster because each targets a narrower, less crowded term.",
+      "target_question": "Why do service-specific pages rank faster than a general marketing agency page?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "local-pack-ranking-expert-central-texas",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/google-business-profile-optimization/",
+        "label": "see how Google Business Profile optimization fits into the local pack ranking picture"
+      },
+      "date": "2026-08-17"
+    },
+    {
+      "id": "google-maps-optimization-waco",
+      "status": "published",
+      "category": "offer",
+      "title": "Google Maps Optimization in Waco, TX",
+      "keyphrase": "google maps optimization waco tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Google Maps optimization directly affects map-pack visibility, one of the highest-leverage local SEO investments available to a Waco business given the market's higher competition.",
+      "target_question": "What does genuine google maps optimization waco actually involve?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-pack-ranking-expert-central-texas",
+      "anchor": "Google Maps optimization in Waco",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-17"
+    },
+    {
+      "id": "local-citation-building-waxahachie",
+      "status": "published",
+      "category": "offer",
+      "title": "Local Citation Building Services in Waxahachie, TX",
+      "keyphrase": "local citation building services waxahachie tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Citation consistency is a foundational but often neglected local SEO service - a handful of accurate citations outperforms dozens with conflicting information.",
+      "target_question": "What does genuine local citation building services waxahachie actually involve?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-pack-ranking-expert-central-texas",
+      "anchor": "local citation building services in Waxahachie",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-17"
+    },
+    {
+      "id": "review-management-local-businesses-cleburne",
+      "status": "published",
+      "category": "offer",
+      "title": "Review Management for Local Businesses in Cleburne, TX",
+      "keyphrase": "review management local businesses cleburne tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Genuine review management means proactive requests, consistent responses, and public complaint handling - not passively waiting for reviews to arrive.",
+      "target_question": "What does genuine review management local businesses cleburne actually involve?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-pack-ranking-expert-central-texas",
+      "anchor": "review management for local businesses in Cleburne",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-17"
+    },
+    {
+      "id": "mobile-friendly-website-design-corsicana",
+      "status": "published",
+      "category": "offer",
+      "title": "Mobile-Friendly Website Design in Corsicana, TX",
+      "keyphrase": "mobile friendly website design corsicana tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Genuine mobile optimization goes beyond a responsive layout - load speed, tap-friendly buttons, and content structure all directly affect whether mobile visitors convert.",
+      "target_question": "What does genuine mobile friendly website design corsicana actually involve?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-pack-ranking-expert-central-texas",
+      "anchor": "mobile-friendly website design in Corsicana",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-17"
+    },
+    {
+      "id": "conversion-rate-optimization-hillsboro",
+      "status": "published",
+      "category": "offer",
+      "title": "Conversion Rate Optimization (CRO) in Hillsboro, TX",
+      "keyphrase": "conversion rate optimization hillsboro tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "CRO improves the percentage of existing visitors who convert - often a more cost-effective investment than driving more traffic to an underperforming site.",
+      "target_question": "What does genuine conversion rate optimization hillsboro actually involve?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-pack-ranking-expert-central-texas",
+      "anchor": "conversion rate optimization in Hillsboro",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-17"
+    },
+    {
+      "id": "landing-page-designer-bosque-county",
+      "status": "published",
+      "category": "offer",
+      "title": "Landing Page Designer Near Whitney and Meridian, TX",
+      "keyphrase": "landing page designer bosque county tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A dedicated landing page, stripped of navigation and focused on one offer, converts significantly better than sending ad traffic to a general website - especially for seasonal lake and park promotions.",
+      "target_question": "What does genuine landing page designer bosque county actually involve?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-pack-ranking-expert-central-texas",
+      "anchor": "landing page designer near Whitney and Meridian",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-17"
+    },
+    {
+      "id": "ecommerce-website-development-mexia",
+      "status": "published",
+      "category": "offer",
+      "title": "E-Commerce Website Development in Mexia, TX",
+      "keyphrase": "ecommerce website development mexia tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Product page clarity and checkout simplicity matter more than overall design polish for a small e-commerce operation - cart abandonment is the biggest conversion opportunity.",
+      "target_question": "What does genuine ecommerce website development mexia actually involve?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "local-pack-ranking-expert-central-texas",
+      "anchor": "e-commerce website development in Mexia",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-17"
     }
   ]
 }

@@ -64,6 +64,7 @@ KNOWN_ROUTES = [
     "https://jredmonson.github.io/local-business/marketing-agency-near-me-central-texas/",
     "https://jredmonson.github.io/local-business/lead-generation-experts-central-texas/",
     "https://jredmonson.github.io/local-business/industry-specific-marketing-central-texas/",
+    "https://jredmonson.github.io/local-business/local-pack-ranking-expert-central-texas/",
 ]
 
 
