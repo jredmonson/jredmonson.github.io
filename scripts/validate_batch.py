@@ -28,7 +28,9 @@ publish time, not authored up front):
 
 Exits non-zero and prints exactly what failed if anything's wrong.
 """
+import glob
 import json
+import re
 import sys
 
 QUEUE_PATH = "queue/topic-queue.json"
@@ -73,6 +75,78 @@ KNOWN_ROUTES = [
 def load_json(path):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
+
+
+CONTROL_BYTE_RE = re.compile(rb"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+UNSUBSTITUTED_PLACEHOLDER_RE = re.compile(r"\{[a-zA-Z_][a-zA-Z0-9_]*\}")
+DATE_LINE_RE = re.compile(r"^date:\s*(.+)$", re.MULTILINE)
+
+
+def find_post_file(topic):
+    """Locate the actual _posts/*.md file a queue topic entry corresponds to.
+    Filename convention across this repo is always _posts/{date}-{id}.md."""
+    tid = topic.get("id")
+    date = topic.get("date")
+    if not tid or not date:
+        return None
+    candidate = f"_posts/{date}-{tid}.md"
+    if __import__("os").path.exists(candidate):
+        return candidate
+    # fall back to a glob in case the date field and filename date drifted
+    matches = glob.glob(f"_posts/*-{re.escape(tid)}.md")
+    return matches[0] if len(matches) == 1 else None
+
+
+def validate_post_file(path):
+    """Deep content checks on the actual built file - this is what actually
+    ships to Jekyll, as opposed to the batch JSON's own metadata. Added Aug
+    2026 after a literal, unsubstituted 'date: {date}' template placeholder
+    (a Python .format() bug) slipped through the JSON-only checks below,
+    parsed as valid-but-wrong YAML by PyYAML, and silently broke three
+    consecutive GitHub Pages builds before anyone noticed - the JSON batch
+    file itself had a perfectly correct date, so the old checks never had a
+    chance to catch it. These checks read the real file bytes instead."""
+    problems = []
+    try:
+        raw = open(path, "rb").read()
+    except OSError as e:
+        return [f"could not read file: {e}"]
+
+    if CONTROL_BYTE_RE.search(raw):
+        problems.append("file contains NULL or other control bytes - almost certainly corruption from a bad find/replace script, not intentional content")
+
+    try:
+        text = raw.decode("utf-8")
+    except UnicodeDecodeError as e:
+        problems.append(f"file is not valid UTF-8: {e}")
+        return problems  # can't do the rest of the checks on undecodable bytes
+
+    parts = text.split("---", 2)
+    if len(parts) < 3:
+        problems.append("frontmatter delimiters ('---') missing or malformed")
+        return problems
+
+    frontmatter_block = parts[1]
+
+    placeholder_hits = UNSUBSTITUTED_PLACEHOLDER_RE.findall(frontmatter_block)
+    if placeholder_hits:
+        problems.append(f"frontmatter contains what looks like an unsubstituted template placeholder: {placeholder_hits} - a Python .format(...)/f-string call almost certainly failed to fill this in before the file was written")
+
+    date_match = DATE_LINE_RE.search(frontmatter_block)
+    if not date_match:
+        problems.append("no 'date:' line found in frontmatter at all")
+    else:
+        date_value = date_match.group(1).strip()
+        if not re.match(r"^\d{4}-\d{2}-\d{2}\s+\d{2}:\d{2}:\d{2}\s+[+-]\d{4}$", date_value):
+            problems.append(f"date field does not match the expected 'YYYY-MM-DD HH:MM:SS +HHMM' shape: got {date_value!r}")
+
+    if not re.search(r"^title:\s*\S", frontmatter_block, re.MULTILINE):
+        problems.append("no non-empty 'title:' line found in frontmatter")
+
+    if not re.search(r"^layout:\s*\S", frontmatter_block, re.MULTILINE):
+        problems.append("no non-empty 'layout:' line found in frontmatter")
+
+    return problems
 
 
 def main():
@@ -132,6 +206,16 @@ def main():
         nsl = t.get("next_step_link")
         if nsl and nsl.get("url") not in KNOWN_ROUTES:
             errors.append(f"{label}: next_step_link target '{nsl.get('url')}' not in KNOWN_ROUTES")
+
+        # Deep content check on the actual _posts/*.md file, not just this
+        # JSON entry's metadata - see validate_post_file()'s docstring for
+        # why this exists.
+        post_path = find_post_file(t)
+        if post_path is None:
+            errors.append(f"{label}: could not locate a matching _posts/*.md file (expected _posts/{t.get('date')}-{t.get('id')}.md) - has it actually been written yet?")
+        else:
+            for problem in validate_post_file(post_path):
+                errors.append(f"{label} ({post_path}): {problem}")
 
     if errors:
         print(f"VALIDATION FAILED - {len(errors)} problem(s):")
