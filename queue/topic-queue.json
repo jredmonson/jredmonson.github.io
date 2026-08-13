@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 105,
-  "last_published_date": "2026-08-17",
+  "offer_streak": 113,
+  "last_published_date": "2026-08-18",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -2415,6 +2415,185 @@
         }
       ],
       "date": "2026-08-17"
+    },
+    {
+      "id": "marketing-decision-guide-central-texas",
+      "status": "published",
+      "category": "offer",
+      "title": "SEO vs Google Ads, Agency vs Freelancer: A Central Texas Marketing Decision Guide",
+      "keyphrase": "seo vs google ads agency vs freelancer central texas",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Once a small business has decided marketing help is needed, a second round of decisions follows immediately - SEO or Ads first, agency or freelancer, in-house or outsourced, and which platforms to build on - and the right answer for each usually comes down to timeline, budget, and complexity rather than a universal rule.",
+      "target_question": "How should a Central Texas small business decide between SEO and Google Ads, agency and freelancer, or in-house and outsourced marketing?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "marketing-decision-guide-central-texas",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/local-pack-ranking-expert-central-texas/",
+        "label": "see how service-specific pages fit once you've settled on a general approach"
+      },
+      "date": "2026-08-18"
+    },
+    {
+      "id": "seo-vs-google-ads-waco",
+      "status": "published",
+      "category": "offer",
+      "title": "SEO vs Google Ads for a Waco, TX Business",
+      "keyphrase": "seo vs google ads waco tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Waco's higher competition changes the SEO vs Ads calculation - Ads deliver faster visibility against established competitors while SEO takes longer to show results here than in smaller nearby markets, making a combined approach the practical answer.",
+      "target_question": "Should a Waco business start with SEO or Google Ads?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-decision-guide-central-texas",
+      "anchor": "SEO vs Google Ads for Waco businesses",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-18"
+    },
+    {
+      "id": "agency-vs-freelancer-waxahachie",
+      "status": "published",
+      "category": "offer",
+      "title": "Marketing Agency vs Freelancer for a Waxahachie, TX Business",
+      "keyphrase": "marketing agency vs freelancer waxahachie tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "The real deciding factor between an agency and a freelancer isn't cost - it's how many services need to work together as one coordinated system, a test that applies directly to a growing Waxahachie business.",
+      "target_question": "Should a Waxahachie business hire a marketing agency or a freelancer?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-decision-guide-central-texas",
+      "anchor": "Agency vs freelancer for Waxahachie businesses",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-18"
+    },
+    {
+      "id": "in-house-vs-outsourcing-marketing-cleburne",
+      "status": "published",
+      "category": "offer",
+      "title": "In-House Marketing vs Outsourcing for a Cleburne, TX Business",
+      "keyphrase": "in house marketing vs outsourcing cleburne tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "The in-house vs outsourcing decision should be based on actual workload, not company size - a full-time marketing salary with overhead often exceeds $45,000-$70,000 annually, a real number worth comparing against outsourced costs matched to actual need.",
+      "target_question": "Should a Cleburne business hire an in-house marketer or outsource?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-decision-guide-central-texas",
+      "anchor": "In-house vs outsourcing for Cleburne businesses",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-18"
+    },
+    {
+      "id": "hubspot-vs-salesforce-corsicana",
+      "status": "published",
+      "category": "offer",
+      "title": "HubSpot vs Salesforce for a Corsicana, TX Business",
+      "keyphrase": "hubspot vs salesforce corsicana tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "HubSpot's simpler, marketing-and-sales-combined system fits most small Corsicana businesses better than Salesforce, whose deeper customization mainly pays off once a business has a dedicated, multi-person sales team.",
+      "target_question": "Should a Corsicana business use HubSpot or Salesforce for CRM?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-decision-guide-central-texas",
+      "anchor": "HubSpot vs Salesforce for Corsicana businesses",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-18"
+    },
+    {
+      "id": "wordpress-vs-shopify-hillsboro",
+      "status": "published",
+      "category": "offer",
+      "title": "WordPress vs Shopify Web Design for a Hillsboro, TX Business",
+      "keyphrase": "wordpress vs shopify hillsboro tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "The WordPress vs Shopify decision follows a website's primary job, not general platform popularity - Shopify for product sales, WordPress for lead generation and local SEO, which favors most Hillsboro service businesses.",
+      "target_question": "Should a Hillsboro business build its website on WordPress or Shopify?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-decision-guide-central-texas",
+      "anchor": "WordPress vs Shopify for Hillsboro businesses",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-18"
+    },
+    {
+      "id": "seo-vs-google-ads-bosque-county",
+      "status": "published",
+      "category": "offer",
+      "title": "SEO vs Google Ads for a Bosque County Business",
+      "keyphrase": "seo vs google ads bosque county tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Bosque County's genuinely thin local search competition means SEO can produce visible results faster here than in larger Central Texas markets, making it a strong first investment even before Google Ads.",
+      "target_question": "Should a Whitney or Meridian business start with SEO or Google Ads?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-decision-guide-central-texas",
+      "anchor": "SEO vs Google Ads for Bosque County businesses",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-18"
+    },
+    {
+      "id": "agency-vs-freelancer-mexia",
+      "status": "published",
+      "category": "offer",
+      "title": "Marketing Agency vs Freelancer for a Mexia, TX Business",
+      "keyphrase": "marketing agency vs freelancer mexia tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "The core agency-vs-freelancer test still applies in Mexia, but a thinner local talent pool means most Mexia businesses already work with a regional or remote partner regardless of which option they choose.",
+      "target_question": "Should a Mexia business hire a marketing agency or a freelancer?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-decision-guide-central-texas",
+      "anchor": "Agency vs freelancer for Mexia businesses",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-18"
     }
   ]
 }
