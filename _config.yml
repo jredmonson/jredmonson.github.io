@@ -20,6 +20,11 @@ markdown: kramdown
 permalink: /:categories/:title/
 paginate: 10
 
+# Publish immediately even if a post date is later today or in the future -
+# fixed Aug 2026 after discovering the whole Angle 2-7-then-1 campaign (56
+# posts) was silently excluded from the build for this exact reason.
+future: true
+
 plugins:
   - jekyll-sitemap
   - jekyll-feed
