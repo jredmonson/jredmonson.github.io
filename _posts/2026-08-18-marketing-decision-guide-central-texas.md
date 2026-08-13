@@ -82,7 +82,7 @@ These five decisions don't exist in isolation - a business's platform choice aff
 
 ## Cost Comparison: What Each Path Actually Runs
 
-Rough cost expectations help ground these decisions in reality. Google Ads for a typical Central Texas small business often starts in the  - /month range for ad spend alone, separate from management fees. SEO retainers, as covered in the regional pricing guide, typically run  -\,500/month depending on scope. A freelancer for a defined project might charge a flat  -\,000 depending on complexity, with no ongoing relationship implied. An agency retainer covering multiple coordinated services typically starts around  -\,500/month. A full-time in-house marketing hire, including salary and overhead, often runs ,000- ,000+ annually in this region - a number worth comparing directly against a year of outsourced spend before assuming in-house is automatically more cost-effective.
+Rough cost expectations help ground these decisions in reality. Google Ads for a typical Central Texas small business often starts in the $300-$800/month range for ad spend alone, separate from management fees. SEO retainers, as covered in the regional pricing guide, typically run $300-$1,500/month depending on scope. A freelancer for a defined project might charge a flat $500-$3,000 depending on complexity, with no ongoing relationship implied. An agency retainer covering multiple coordinated services typically starts around $600-$1,500/month. A full-time in-house marketing hire, including salary and overhead, often runs $45,000-$70,000+ annually in this region - a number worth comparing directly against a year of outsourced spend before assuming in-house is automatically more cost-effective.
 
 ## When to Revisit a Decision You've Already Made
 
