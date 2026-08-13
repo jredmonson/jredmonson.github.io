@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "HubSpot vs Salesforce for a Corsicana, TX Business"
-date: {date}
+date: 2026-08-18 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "How a Corsicana business should choose between HubSpot and Salesforce for CRM, based on actual complexity needs rather than brand name recognition."

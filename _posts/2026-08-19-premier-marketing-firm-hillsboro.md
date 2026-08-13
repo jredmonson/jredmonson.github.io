@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What a Premier Marketing Firm Should Mean for a Hillsboro, TX Business"
-date: {date}
+date: 2026-08-19 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "What the word \"premier\" should signal about a marketing firm serving Hillsboro, and when that positioning is actually the right fit versus more than a business needs."

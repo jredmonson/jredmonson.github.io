@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marketing Agency vs Freelancer for a Waxahachie, TX Business"
-date: {date}
+date: 2026-08-18 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "How a Waxahachie business should weigh a marketing agency against a freelancer, and why the answer usually depends on how many services actually need to work together."

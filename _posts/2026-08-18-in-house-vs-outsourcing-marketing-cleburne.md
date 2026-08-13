@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In-House Marketing vs Outsourcing for a Cleburne, TX Business"
-date: {date}
+date: 2026-08-18 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "When a Cleburne business should hire an in-house marketing person versus outsourcing to an agency or freelancer, based on actual workload rather than company size alone."

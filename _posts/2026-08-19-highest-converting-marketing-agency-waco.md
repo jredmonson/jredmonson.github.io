@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Highest Converting Marketing Agency in Waco, TX"
-date: {date}
+date: 2026-08-19 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "What \"highest converting\" should actually mean when a Waco marketing agency claims it, and the specific evidence worth asking for before believing it."

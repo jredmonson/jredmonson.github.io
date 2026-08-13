@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SEO vs Google Ads for a Bosque County Business"
-date: {date}
+date: 2026-08-18 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "How a Whitney or Meridian-area business in Bosque County should weigh SEO against Google Ads, given how much lower the local search competition is here than in bigger Central Texas cities."

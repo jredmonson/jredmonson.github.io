@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding an Experienced Digital Marketing Agency in Mexia, TX"
-date: {date}
+date: 2026-08-19 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "How a Mexia business should verify an \"experienced\" marketing agency claim, and why real tenure matters more in a smaller Limestone County market with fewer local options to compare."

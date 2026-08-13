@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding an Award-Winning Google Ads Agency Near Bosque County"
-date: {date}
+date: 2026-08-19 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "What an \"award-winning\" Google Ads claim should actually mean for a Whitney or Meridian-area business, and how to tell a genuine award from marketing language."

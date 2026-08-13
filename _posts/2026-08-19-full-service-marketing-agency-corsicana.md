@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What a Full-Service Marketing Agency Means for a Corsicana, TX Business"
-date: {date}
+date: 2026-08-19 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "What \"full-service\" should actually deliver for a Corsicana business, and when that coordination is worth paying for versus hiring separate specialists."

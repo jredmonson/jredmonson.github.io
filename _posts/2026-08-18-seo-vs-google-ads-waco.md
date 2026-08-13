@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SEO vs Google Ads for a Waco, TX Business"
-date: {date}
+date: 2026-08-18 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "A practical look at when a Waco business should start with SEO, when Google Ads makes more sense, and why the higher competition in this market changes the calculation."

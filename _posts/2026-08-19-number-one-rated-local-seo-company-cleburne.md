@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding a #1 Rated Local SEO Company Near Cleburne, TX"
-date: {date}
+date: 2026-08-19 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "What a \"#1 rated\" claim should actually mean for a Cleburne business evaluating local SEO companies, and why the source behind the ranking matters more than the claim itself."

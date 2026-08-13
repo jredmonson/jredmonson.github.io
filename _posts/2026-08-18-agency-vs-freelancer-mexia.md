@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marketing Agency vs Freelancer for a Mexia, TX Business"
-date: {date}
+date: 2026-08-18 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "How a Mexia business should weigh a marketing agency against a freelancer, with an eye toward what's realistically available to a smaller Limestone County market."

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WordPress vs Shopify Web Design for a Hillsboro, TX Business"
-date: {date}
+date: 2026-08-18 12:00:00 -0500
 categories: local-business
 author: JR Edmonson
 excerpt: "Whether a Hillsboro business should build its website on WordPress or Shopify, based on whether the site's primary job is selling products or generating leads."
