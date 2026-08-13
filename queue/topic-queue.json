@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 113,
-  "last_published_date": "2026-08-18",
+  "offer_streak": 121,
+  "last_published_date": "2026-08-19",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -2594,6 +2594,185 @@
         }
       ],
       "date": "2026-08-18"
+    },
+    {
+      "id": "best-marketing-agency-central-texas",
+      "status": "published",
+      "category": "offer",
+      "title": "How to Find the Best Marketing Agency in Central Texas (And What \"Top-Rated\" Actually Means)",
+      "keyphrase": "best marketing agency central texas",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "\"Best,\" \"top-rated,\" and \"most trusted\" get used by nearly every marketing agency's website - the words alone say nothing, but a genuinely strong agency backs those claims with specific, verifiable evidence: named client results, documented experience, and a track record with similar businesses.",
+      "target_question": "How can a Central Texas business tell a genuinely top-rated marketing agency from one that just claims to be?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "best-marketing-agency-central-texas",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/affordable-marketing-agency-central-texas/",
+        "label": "see what this level of service typically costs once you know what to look for"
+      },
+      "date": "2026-08-19"
+    },
+    {
+      "id": "highest-converting-marketing-agency-waco",
+      "status": "published",
+      "category": "offer",
+      "title": "The Highest Converting Marketing Agency in Waco, TX",
+      "keyphrase": "highest converting marketing agency waco tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A genuinely high-converting marketing agency backs the claim with real conversion data - landing page improvements, cost-per-lead reductions, revenue attribution - not just a general promise of results.",
+      "target_question": "What does a genuine 'highest converting marketing agency' claim actually mean for a Waco business?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "best-marketing-agency-central-texas",
+      "anchor": "highest converting marketing agency in Waco",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-19"
+    },
+    {
+      "id": "most-trusted-marketing-agency-waxahachie",
+      "status": "published",
+      "category": "offer",
+      "title": "The Most Trusted Marketing Agency in Waxahachie, TX",
+      "keyphrase": "most trusted marketing agency waxahachie tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A genuinely trustworthy marketing agency demonstrates it through specifics - documented experience, verifiable long-term client relationships, and industry-specific understanding - not simply the word 'trusted' on its website.",
+      "target_question": "How does a Waxahachie business verify a marketing agency's claim to be the most trusted option?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "best-marketing-agency-central-texas",
+      "anchor": "most trusted marketing agency in Waxahachie",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-19"
+    },
+    {
+      "id": "number-one-rated-local-seo-company-cleburne",
+      "status": "published",
+      "category": "offer",
+      "title": "Finding a #1 Rated Local SEO Company Near Cleburne, TX",
+      "keyphrase": "number one rated local seo company cleburne tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A genuine '#1 rated' claim should point to a specific, checkable source - a review platform ranking, client survey, or named award - rather than standing alone as an unsourced marketing statement.",
+      "target_question": "What does a '#1 rated' local SEO claim actually mean for a Cleburne business?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "best-marketing-agency-central-texas",
+      "anchor": "#1 rated local SEO company near Cleburne",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-19"
+    },
+    {
+      "id": "full-service-marketing-agency-corsicana",
+      "status": "published",
+      "category": "offer",
+      "title": "What a Full-Service Marketing Agency Means for a Corsicana, TX Business",
+      "keyphrase": "full service marketing agency corsicana tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A genuine full-service agency handles website, SEO, and advertising under one coordinated relationship, eliminating the coordination burden of managing separate vendors - valuable once a business needs multiple channels working together.",
+      "target_question": "What should 'full-service' actually deliver for a Corsicana business?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "best-marketing-agency-central-texas",
+      "anchor": "full-service marketing agency in Corsicana",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-19"
+    },
+    {
+      "id": "premier-marketing-firm-hillsboro",
+      "status": "published",
+      "category": "offer",
+      "title": "What a Premier Marketing Firm Should Mean for a Hillsboro, TX Business",
+      "keyphrase": "premier marketing firm hillsboro tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "'Premier' typically signals higher pricing and curated positioning suited to businesses like luxury real estate or high-end contractors, not necessarily the right or most cost-effective fit for every Hillsboro business.",
+      "target_question": "When is a 'premier' marketing firm the right fit for a Hillsboro business?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "best-marketing-agency-central-texas",
+      "anchor": "premier marketing firm serving Hillsboro",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-19"
+    },
+    {
+      "id": "award-winning-google-ads-agency-bosque-county",
+      "status": "published",
+      "category": "offer",
+      "title": "Finding an Award-Winning Google Ads Agency Near Bosque County",
+      "keyphrase": "award winning google ads agency bosque county tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A genuine award claim names the specific award and granting organization - some marketing 'awards' are pay-to-play recognition rather than independently judged competitions, worth distinguishing before trusting the claim.",
+      "target_question": "What does an 'award-winning' Google Ads claim actually mean for a Bosque County business?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "best-marketing-agency-central-texas",
+      "anchor": "award-winning Google Ads agency near Bosque County",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-19"
+    },
+    {
+      "id": "experienced-digital-marketing-agency-mexia",
+      "status": "published",
+      "category": "offer",
+      "title": "Finding an Experienced Digital Marketing Agency in Mexia, TX",
+      "keyphrase": "experienced digital marketing agency mexia tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "An 'experienced' agency claim should be backed by a specific, verifiable number of years and documented track record - Mexia's smaller local market means fewer nearby agencies to compare, making verification especially important.",
+      "target_question": "How does a Mexia business verify a marketing agency's claim to be experienced?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "best-marketing-agency-central-texas",
+      "anchor": "experienced digital marketing agency in Mexia",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-19"
     }
   ]
 }
