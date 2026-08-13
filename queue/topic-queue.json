@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 73,
-  "last_published_date": "2026-08-13",
+  "offer_streak": 81,
+  "last_published_date": "2026-08-14",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -1699,6 +1699,185 @@
         }
       ],
       "date": "2026-08-13"
+    },
+    {
+      "id": "marketing-agency-near-me-central-texas",
+      "status": "published",
+      "category": "offer",
+      "title": "Marketing Agency Near Me: How to Find the Right Local Digital Marketing Help in Central Texas",
+      "keyphrase": "marketing agency near me central texas",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "\"Near me\" is the highest-intent search a business owner makes when shopping for marketing help, but Google's location weighting doesn't guarantee genuine local presence - verification, not just ranking position, is what actually separates a real regional provider from an optimized-to-look-local one.",
+      "target_question": "What does a \"marketing agency near me\" search actually surface, and how do you verify it's genuinely local?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "marketing-agency-near-me-central-texas",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/google-business-profile-optimization/",
+        "label": "make sure your own business actually shows up in \"near me\" searches too"
+      },
+      "date": "2026-08-14"
+    },
+    {
+      "id": "marketing-agency-near-me-waco",
+      "status": "published",
+      "category": "offer",
+      "title": "Marketing Agency Near Me in Waco, TX: What \"Near Me\" Actually Means for SEO",
+      "keyphrase": "marketing agency near me waco tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Waco's size and Baylor-driven search volume make it a magnet for out-of-area agencies optimizing generically for \"near me\" - genuine McLennan County presence is worth verifying directly.",
+      "target_question": "What should a \"marketing agency near me waco\" search actually surface?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-agency-near-me-central-texas",
+      "anchor": "marketing agency near me in Waco",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-14"
+    },
+    {
+      "id": "seo-expert-near-me-waxahachie",
+      "status": "published",
+      "category": "offer",
+      "title": "SEO Expert Near Me: Finding Local SEO Help in Waxahachie, TX",
+      "keyphrase": "seo expert near me waxahachie tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Proximity to DFW means Waxahachie \"near me\" searches often surface Dallas-based agencies pricing and strategizing around a bigger, different market than Ellis County actually is.",
+      "target_question": "What should a \"seo expert near me waxahachie\" search actually surface?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-agency-near-me-central-texas",
+      "anchor": "SEO expert near me in Waxahachie",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-14"
+    },
+    {
+      "id": "google-ads-consultant-close-to-me-cleburne",
+      "status": "published",
+      "category": "offer",
+      "title": "Google Ads Consultant Close to Me: Local PPC Help in Cleburne, TX",
+      "keyphrase": "google ads consultant close to me cleburne tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Johnson County's lighter paid-search competition means a genuinely local Cleburne consultant should scope ad budgets lower than a generic regional average would predict.",
+      "target_question": "What should a \"google ads consultant close to me cleburne\" search actually surface?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-agency-near-me-central-texas",
+      "anchor": "Google Ads consultant close to me in Cleburne",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-14"
+    },
+    {
+      "id": "web-designer-nearby-corsicana",
+      "status": "published",
+      "category": "offer",
+      "title": "Web Designer Nearby: Finding a Local Website Builder in Corsicana, TX",
+      "keyphrase": "web designer nearby corsicana tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A \"nearby\" web designer result should reflect genuine Navarro County market and identity knowledge, not a generic template resold with the city name swapped in.",
+      "target_question": "What should a \"web designer nearby corsicana\" search actually surface?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-agency-near-me-central-texas",
+      "anchor": "web designer nearby in Corsicana",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-14"
+    },
+    {
+      "id": "local-marketing-help-near-hillsboro",
+      "status": "published",
+      "category": "offer",
+      "title": "Local Marketing Help Near Hillsboro, TX: Why \"Near Me\" Matters for Small Business",
+      "keyphrase": "local marketing help near hillsboro tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Hillsboro's central position in the region makes it a useful test case for verifying whether a \"near me\" result reflects genuine multi-county familiarity or just a single-town claim.",
+      "target_question": "What should a \"local marketing help near hillsboro\" search actually surface?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-agency-near-me-central-texas",
+      "anchor": "local marketing help near Hillsboro",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-14"
+    },
+    {
+      "id": "best-digital-marketer-in-my-area-bosque-county",
+      "status": "published",
+      "category": "offer",
+      "title": "Best Digital Marketer in My Area: Local Marketing Help Near Whitney and Meridian, TX",
+      "keyphrase": "best digital marketer in my area bosque county tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Bosque County's small market makes \"best in my area\" easier to verify than in a bigger city - there are simply fewer genuine local claims to check.",
+      "target_question": "What should a \"best digital marketer in my area bosque county\" search actually surface?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-agency-near-me-central-texas",
+      "anchor": "best digital marketer in my area near Whitney and Meridian",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-14"
+    },
+    {
+      "id": "marketing-agency-near-me-mexia",
+      "status": "published",
+      "category": "offer",
+      "title": "Marketing Agency Near Me in Mexia, TX: Finding Local Digital Marketing Help",
+      "keyphrase": "marketing agency near me mexia tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Limestone County's small market means genuine local marketing presence is both rarer and easier to verify - fewer providers to check, less noise to sort through.",
+      "target_question": "What should a \"marketing agency near me mexia\" search actually surface?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "marketing-agency-near-me-central-texas",
+      "anchor": "marketing agency near me in Mexia",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-14"
     }
   ]
 }
