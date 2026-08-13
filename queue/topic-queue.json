@@ -1,8 +1,8 @@
 {
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
-  "offer_streak": 81,
-  "last_published_date": "2026-08-14",
+  "offer_streak": 89,
+  "last_published_date": "2026-08-15",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -1878,6 +1878,185 @@
         }
       ],
       "date": "2026-08-14"
+    },
+    {
+      "id": "lead-generation-experts-central-texas",
+      "status": "published",
+      "category": "offer",
+      "title": "Lead Generation Experts in Central Texas: Fixing the Real Problems Behind Missed Sales",
+      "keyphrase": "lead generation experts central texas",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Small businesses in this region rarely have one big marketing problem - they have one or two specific, fixable ones (search invisibility, missed calls, weak conversion, untracked ad spend) hiding inside a vague sense that marketing isn't working.",
+      "target_question": "What do lead generation experts actually fix for a small business, and how do you know which problem you have?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "lead-generation-experts-central-texas",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/wordpress-elementor-websites/",
+        "label": "see how a proper lead-generating website gets built once the underlying problem is fixed"
+      },
+      "date": "2026-08-15"
+    },
+    {
+      "id": "seo-for-businesses-not-getting-found-online-waco",
+      "status": "published",
+      "category": "offer",
+      "title": "SEO for Businesses Not Getting Found Online in Waco, TX",
+      "keyphrase": "seo for businesses not getting found online waco tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A good Waco business can still be nearly invisible in local search due to a handful of specific, fixable technical gaps - not a lack of quality service.",
+      "target_question": "What's the real fix for \"seo for businesses not getting found online waco\"?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "lead-generation-experts-central-texas",
+      "anchor": "SEO for businesses not getting found online in Waco",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-15"
+    },
+    {
+      "id": "digital-marketing-more-phone-calls-waxahachie",
+      "status": "published",
+      "category": "offer",
+      "title": "Digital Marketing to Get More Phone Calls in Waxahachie, TX",
+      "keyphrase": "digital marketing more phone calls waxahachie tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "More phone calls comes from fixing the entire path from search to answered call for a Waxahachie business, not just running more ads at the top of the funnel.",
+      "target_question": "What's the real fix for \"digital marketing more phone calls waxahachie\"?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "lead-generation-experts-central-texas",
+      "anchor": "digital marketing to get more phone calls in Waxahachie",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-15"
+    },
+    {
+      "id": "website-redesign-increase-sales-cleburne",
+      "status": "published",
+      "category": "offer",
+      "title": "Website Redesign to Increase Sales in Cleburne, TX",
+      "keyphrase": "website redesign increase sales cleburne tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A full redesign is the right fix only when a Cleburne business's website problem is genuinely structural - often a smaller, targeted fix produces more sales impact per dollar.",
+      "target_question": "What's the real fix for \"website redesign increase sales cleburne\"?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "lead-generation-experts-central-texas",
+      "anchor": "website redesign to increase sales in Cleburne",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-15"
+    },
+    {
+      "id": "stop-wasting-money-google-ads-corsicana",
+      "status": "published",
+      "category": "offer",
+      "title": "Stop Wasting Money on Google Ads in Corsicana, TX",
+      "keyphrase": "stop wasting money google ads corsicana tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Wasted Google Ads spend in Corsicana usually traces to missing conversion tracking or mismatched keyword targeting, not an insufficient budget.",
+      "target_question": "What's the real fix for \"stop wasting money google ads corsicana\"?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "lead-generation-experts-central-texas",
+      "anchor": "stop wasting money on Google Ads in Corsicana",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-15"
+    },
+    {
+      "id": "how-to-rank-number-one-google-hillsboro",
+      "status": "published",
+      "category": "offer",
+      "title": "How to Rank #1 on Google in Hillsboro, TX",
+      "keyphrase": "how to rank number one google hillsboro tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Reaching #1 in Hillsboro is realistically achievable within 60-120 days given the market's moderate competition level relative to Waco.",
+      "target_question": "What's the real fix for \"how to rank number one google hillsboro\"?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "lead-generation-experts-central-texas",
+      "anchor": "how to rank #1 on Google in Hillsboro",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-15"
+    },
+    {
+      "id": "turn-website-visitors-into-customers-bosque-county",
+      "status": "published",
+      "category": "offer",
+      "title": "Turn Website Visitors Into Customers in Whitney and Meridian, TX",
+      "keyphrase": "turn website visitors into customers bosque county tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Bosque County's mixed resident-and-seasonal-visitor audience needs a website built to convert both groups, not just one.",
+      "target_question": "What's the real fix for \"turn website visitors into customers bosque county\"?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "lead-generation-experts-central-texas",
+      "anchor": "turn website visitors into customers in Whitney and Meridian",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-15"
+    },
+    {
+      "id": "marketing-agency-understands-local-businesses-mexia",
+      "status": "published",
+      "category": "offer",
+      "title": "A Marketing Agency That Understands Local Businesses in Mexia, TX",
+      "keyphrase": "marketing agency understands local businesses mexia tx",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Genuine understanding of Mexia's small Limestone County market means recognizing it doesn't need - or benefit from - a big-city marketing approach.",
+      "target_question": "What's the real fix for \"marketing agency understands local businesses mexia\"?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "lead-generation-experts-central-texas",
+      "anchor": "marketing agency that understands local Mexia businesses",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "date": "2026-08-15"
     }
   ]
 }
