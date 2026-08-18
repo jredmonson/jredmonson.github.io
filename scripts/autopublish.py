@@ -66,6 +66,9 @@ KNOWN_ROUTES = [
     "https://jredmonson.github.io/local-business/local-pack-ranking-expert-central-texas/",
     "https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/",
     "https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/",
+    # LegalShield campaign (law category, Aug 2026)
+    "https://lilliearnold.legalshieldassociate.com/",
+    "https://jredmonson.github.io/law/legalshield-prepaid-legal-plans/",
 ]
 
 WORD_COUNT_MIN = {"pillar": 2000, "cluster": 800}

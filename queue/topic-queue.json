@@ -2773,6 +2773,97 @@
         }
       ],
       "date": "2026-08-19"
+    },
+    {
+      "id": "legalshield-prepaid-legal-plans",
+      "status": "published",
+      "category": "offer",
+      "title": "LegalShield Legal Plans: The Complete Guide to Affordable, Prepaid Legal Protection",
+      "keyphrase": "legalshield legal plan",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "LegalShield replaces hourly-billed legal help with a flat monthly membership - unlimited consultations, document prep, and defined coverage instead of an unpredictable hourly tab.",
+      "target_question": "How does LegalShield's prepaid legal plan work, what does it cover, and what does it typically cost?",
+      "category_tag": "law",
+      "type": "pillar",
+      "cluster": "legalshield-prepaid-legal-plans",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://lilliearnold.legalshieldassociate.com/",
+        "label": "get a free breakdown of which LegalShield plan fits your situation"
+      },
+      "date": "2026-08-20"
+    },
+    {
+      "id": "cant-afford-lawyer-retainer-prepaid-legal",
+      "status": "published",
+      "category": "offer",
+      "title": "Can't Afford a Lawyer's Retainer? How Prepaid Legal Plans Solve This",
+      "keyphrase": "need a lawyer but can't afford retainer prepaid",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "A traditional attorney retainer can run $1,500-$5,000+ upfront - a prepaid legal plan replaces that lump sum with a flat, predictable monthly fee.",
+      "target_question": "What can someone do if they need a lawyer but can't afford a traditional retainer?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "legalshield-prepaid-legal-plans",
+      "anchor": "can't afford a lawyer's retainer? prepaid legal options",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-20"
+    },
+    {
+      "id": "family-legal-protection-plan-monthly-cost",
+      "status": "published",
+      "category": "offer",
+      "title": "Family Legal Protection Plans: What They Cost Per Month and What's Covered",
+      "keyphrase": "family legal protection plan monthly cost",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "A family legal plan generally covers a whole household under one monthly fee, not per-person billing, with will prep and family law support as key benefits.",
+      "target_question": "What does a family legal protection plan typically cost per month and what does it cover?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "legalshield-prepaid-legal-plans",
+      "anchor": "family legal protection plan monthly cost",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-20"
+    },
+    {
+      "id": "small-business-legal-plan-monthly-fee",
+      "status": "published",
+      "category": "offer",
+      "title": "Small Business Legal Plans: Monthly Fees, Coverage, and Is It Worth It",
+      "keyphrase": "small business legal plan monthly fee",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "A small business legal plan trades hourly-billed contract review for a flat monthly fee, which tends to mean documents actually get reviewed before signing.",
+      "target_question": "What does a small business legal plan typically cost per month and is it worth it?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "legalshield-prepaid-legal-plans",
+      "anchor": "small business legal plan monthly fee",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-20"
     }
   ]
 }
