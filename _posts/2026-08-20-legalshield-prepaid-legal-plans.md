@@ -12,8 +12,8 @@ money_page_links:
   - url: "https://lilliearnold.legalshieldassociate.com/"
     label: "See Current LegalShield Plans & Pricing"
 next_step_link:
-  url: "https://lilliearnold.legalshieldassociate.com/"
-  label: "get a free breakdown of which LegalShield plan fits your situation"
+  url: "https://jredmonson.github.io/law/legalshield-business-employee-legal-plans/"
+  label: "see how this works for businesses, LLC owners, and freelancers"
 ---
 ## Key Takeaways
 

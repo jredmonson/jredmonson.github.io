@@ -72,6 +72,8 @@ KNOWN_ROUTES = [
     # LegalShield campaign (law category, Aug 2026)
     "https://lilliearnold.legalshieldassociate.com/",
     "https://jredmonson.github.io/law/legalshield-prepaid-legal-plans/",
+    "https://jredmonson.github.io/law/legalshield-business-employee-legal-plans/",
+    "https://jredmonson.github.io/law/is-prepaid-legal-worth-it-comparison/",
 ]
 
 

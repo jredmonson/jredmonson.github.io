@@ -2794,8 +2794,8 @@
         }
       ],
       "next_step_link": {
-        "url": "https://lilliearnold.legalshieldassociate.com/",
-        "label": "get a free breakdown of which LegalShield plan fits your situation"
+        "url": "https://jredmonson.github.io/law/legalshield-business-employee-legal-plans/",
+        "label": "see how this works for businesses, LLC owners, and freelancers"
       },
       "date": "2026-08-20"
     },
@@ -2857,6 +2857,188 @@
       "type": "cluster",
       "cluster": "legalshield-prepaid-legal-plans",
       "anchor": "small business legal plan monthly fee",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-20"
+    },
+    {
+      "id": "legalshield-business-employee-legal-plans",
+      "status": "published",
+      "category": "offer",
+      "title": "LegalShield for Business: Group, LLC & Contractor Legal Plans Explained",
+      "keyphrase": "corporate prepaid legal plans for HR",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "LegalShield serves three distinct business situations - employer group benefits, LLC/startup ownership, and independent contractor coverage - each with different needs but the same flat-fee value.",
+      "target_question": "How does LegalShield work for employer group benefits, LLC owners, and freelancers/contractors?",
+      "category_tag": "law",
+      "type": "pillar",
+      "cluster": "legalshield-business-employee-legal-plans",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Business Plans & Pricing"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/law/is-prepaid-legal-worth-it-comparison/",
+        "label": "see whether a prepaid legal plan is actually worth it compared to hiring a traditional attorney"
+      },
+      "date": "2026-08-20"
+    },
+    {
+      "id": "group-legal-plan-employees-cost",
+      "status": "published",
+      "category": "offer",
+      "title": "Group Legal Plans for Employees: What HR and Employers Should Know About Cost",
+      "keyphrase": "group legal plan for employees cost",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Group legal plans are typically a voluntary, payroll-deducted benefit priced similarly to individual plans, addressing a common employee stressor most benefits packages ignore.",
+      "target_question": "What does a group legal plan for employees typically cost and how is it structured?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "legalshield-business-employee-legal-plans",
+      "anchor": "group legal plans for employees: what it costs employers",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Group Plan Pricing"
+        }
+      ],
+      "date": "2026-08-20"
+    },
+    {
+      "id": "legal-protection-plan-llc-owners-startups",
+      "status": "published",
+      "category": "offer",
+      "title": "Legal Protection Plans for LLC Owners and Startups",
+      "keyphrase": "legal protection plan for LLC owners",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Early-stage LLCs and startups get outsized value from reviewing foundational documents - operating agreements, founder agreements, first contracts - before mistakes compound.",
+      "target_question": "How does a legal protection plan help LLC owners and startup founders?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "legalshield-business-employee-legal-plans",
+      "anchor": "legal protection plans for LLC owners and startups",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Business Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-20"
+    },
+    {
+      "id": "prepaid-legal-freelancers-independent-contractors",
+      "status": "published",
+      "category": "offer",
+      "title": "Prepaid Legal for Freelancers and Independent Contractors",
+      "keyphrase": "legal subscription service for independent contractors",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Freelancers and independent contractors fall into a coverage gap - real contract exposure but no legal relationship - that a lighter-tier prepaid plan closes well.",
+      "target_question": "How can freelancers and independent contractors use a prepaid legal plan to review client agreements?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "legalshield-business-employee-legal-plans",
+      "anchor": "prepaid legal for freelancers and independent contractors",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-20"
+    },
+    {
+      "id": "is-prepaid-legal-worth-it-comparison",
+      "status": "published",
+      "category": "offer",
+      "title": "Is Prepaid Legal Worth It? Comparing LegalShield to Hiring a Traditional Attorney",
+      "keyphrase": "prepaid legal services cost vs traditional lawyer",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Prepaid legal plans win on predictability and access for common recurring needs; traditional attorneys win on dedicated expertise for complex or already-active matters.",
+      "target_question": "Is a prepaid legal plan actually worth it compared to hiring a traditional attorney?",
+      "category_tag": "law",
+      "type": "pillar",
+      "cluster": "is-prepaid-legal-worth-it-comparison",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/law/legalshield-prepaid-legal-plans/",
+        "label": "go back to the complete LegalShield plans and pricing guide"
+      },
+      "date": "2026-08-20"
+    },
+    {
+      "id": "legal-plan-custody-divorce-advice",
+      "status": "published",
+      "category": "offer",
+      "title": "Legal Plan for Custody and Divorce: What's Covered and What Isn't",
+      "keyphrase": "legal plan for custody and divorce advice",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Prepaid plans typically cover consultations and uncontested divorce assistance, but contested divorces and active custody disputes generally need dedicated representation.",
+      "target_question": "What does a legal plan cover for custody and divorce, and where does coverage stop?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "is-prepaid-legal-worth-it-comparison",
+      "anchor": "legal plan for custody and divorce advice",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-20"
+    },
+    {
+      "id": "prepaid-legal-real-estate-closing-questions",
+      "status": "published",
+      "category": "offer",
+      "title": "Prepaid Legal for Real Estate Closings: What to Expect",
+      "keyphrase": "prepaid legal for real estate closing questions",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "The highest-value legal help in a home purchase comes before closing, reviewing the purchase agreement and disclosures while terms can still be questioned.",
+      "target_question": "How can a prepaid legal plan help with questions before a real estate closing?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "is-prepaid-legal-worth-it-comparison",
+      "anchor": "prepaid legal for real estate closing questions",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-20"
+    },
+    {
+      "id": "identity-theft-consumer-protection-legal-plan",
+      "status": "published",
+      "category": "offer",
+      "title": "Identity Theft and Consumer Protection: Does a Prepaid Legal Plan Cover This?",
+      "keyphrase": "identity theft legal assistance prepaid plan",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Legal consultation coverage for identity theft and consumer disputes is commonly included, while dedicated identity monitoring is often a separate add-on.",
+      "target_question": "Does a prepaid legal plan cover identity theft and consumer protection matters?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "is-prepaid-legal-worth-it-comparison",
+      "anchor": "identity theft and consumer protection legal plan coverage",
       "money_page_links": [
         {
           "url": "https://lilliearnold.legalshieldassociate.com/",
