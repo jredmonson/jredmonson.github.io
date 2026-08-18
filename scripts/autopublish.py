@@ -71,6 +71,7 @@ KNOWN_ROUTES = [
     "https://jredmonson.github.io/law/legalshield-prepaid-legal-plans/",
     "https://jredmonson.github.io/law/legalshield-business-employee-legal-plans/",
     "https://jredmonson.github.io/law/is-prepaid-legal-worth-it-comparison/",
+    "https://jredmonson.github.io/law/national-make-a-will-month-guide/",
 ]
 
 WORD_COUNT_MIN = {"pillar": 2000, "cluster": 800}

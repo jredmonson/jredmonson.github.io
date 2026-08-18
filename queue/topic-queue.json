@@ -3046,6 +3046,97 @@
         }
       ],
       "date": "2026-08-20"
+    },
+    {
+      "id": "national-make-a-will-month-guide",
+      "status": "published",
+      "category": "offer",
+      "title": "National Make-A-Will Month: Why August Is the Best Time to Finally Get a Will",
+      "keyphrase": "make a will month",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "August is National Make-A-Will Month - a yearly prompt for the 56% of Americans with no estate documents at all and the 73% who say it's important but haven't acted.",
+      "target_question": "Why does National Make-A-Will Month exist and why does August matter for getting a will done?",
+      "category_tag": "law",
+      "type": "pillar",
+      "cluster": "national-make-a-will-month-guide",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/law/legalshield-prepaid-legal-plans/",
+        "label": "see the complete LegalShield plans and pricing guide"
+      },
+      "date": "2026-08-20"
+    },
+    {
+      "id": "dying-without-a-will-intestate-what-happens",
+      "status": "published",
+      "category": "offer",
+      "title": "What Happens If You Die Without a Will (Dying Intestate)",
+      "keyphrase": "die without a will intestate succession",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Dying intestate means state law, not personal wishes, decides who inherits - a process that adds time, cost, and conflict, and leaves unmarried partners and stepchildren with no legal claim.",
+      "target_question": "What actually happens legally and financially when someone dies without a will?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "national-make-a-will-month-guide",
+      "anchor": "what happens if you die without a will",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-21"
+    },
+    {
+      "id": "cost-to-make-a-will-attorney-vs-online-vs-prepaid-legal",
+      "status": "published",
+      "category": "offer",
+      "title": "How Much Does It Cost to Make a Will? Attorney, Online, or Prepaid Legal Plan Compared",
+      "keyphrase": "affordable will preparation with prepaid legal",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Attorney wills run $300-$2,500+, DIY online runs $100-$500 with real error risk, and a prepaid legal plan includes real attorney-drafted will prep as a standard membership benefit.",
+      "target_question": "How much does it actually cost to get a will done, and which option makes the most sense?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "national-make-a-will-month-guide",
+      "anchor": "how much does it cost to make a will",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-21"
+    },
+    {
+      "id": "wills-vs-trusts-which-does-your-family-need",
+      "status": "published",
+      "category": "offer",
+      "title": "Wills vs. Trusts: Which Does Your Family Actually Need?",
+      "keyphrase": "estate planning legal services prepaid",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "A will covers who inherits and who raises minor children; a trust adds probate avoidance and distribution control - most families need a will first, a trust second.",
+      "target_question": "Should my family get a will, a trust, or both?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "national-make-a-will-month-guide",
+      "anchor": "wills vs. trusts: which does your family need",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See Current LegalShield Plans & Pricing"
+        }
+      ],
+      "date": "2026-08-21"
     }
   ]
 }
