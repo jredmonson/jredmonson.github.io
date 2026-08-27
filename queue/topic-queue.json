@@ -2,7 +2,7 @@
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
   "offer_streak": 121,
-  "last_published_date": "2026-08-19",
+  "last_published_date": "2026-08-27",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -3137,6 +3137,552 @@
         }
       ],
       "date": "2026-08-21"
+    },
+    {
+      "id": "ai-voice-receptionist-call-handling-scenarios",
+      "status": "published",
+      "category": "offer",
+      "title": "What an AI Voice Receptionist Can (and Can't) Handle: Real Call Scenarios for Local Business",
+      "keyphrase": "what an ai voice receptionist can and cant handle real call scenarios for local ",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "An AI voice receptionist handles routine, high-frequency call types well - booking requests, hours and pricing questions, basic lead qualification, and after-hours message capture - but calls involvin",
+      "target_question": "What should a local business know about what an ai voice receptionist can and cant handle real call scenarios for local ?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "ai-voice-receptionist-for-local-business",
+      "date": "2026-08-27",
+      "anchor": "what an AI voice receptionist can handle",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "ai-voice-receptionist-for-local-business",
+      "status": "published",
+      "category": "offer",
+      "title": "AI Voice Receptionist for Local Business: How It Works and What It Replaces",
+      "keyphrase": "ai voice receptionist for local business how it works and what it replaces",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "An AI voice receptionist is a trained AI voice agent that answers a local business's phone calls 24/7, converses naturally with callers, captures their name and reason for calling, qualifies them as a",
+      "target_question": "What should a local business know about ai voice receptionist for local business how it works and what it replaces?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "ai-voice-receptionist-for-local-business",
+      "date": "2026-08-27",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/missed-call-text-back-service/",
+        "label": "see what happens on the calls it still can't catch"
+      }
+    },
+    {
+      "id": "ai-voice-receptionist-setup-timeline",
+      "status": "published",
+      "category": "offer",
+      "title": "How Long Does It Take to Set Up an AI Voice Receptionist for a Local Business?",
+      "keyphrase": "how long does it take to set up an ai voice receptionist for a local business",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Setting up an AI voice receptionist for a local business typically takes one to three weeks from kickoff to live launch, depending on how many call types, service lines, and routing rules the business",
+      "target_question": "What should a local business know about how long does it take to set up an ai voice receptionist for a local business?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "ai-voice-receptionist-for-local-business",
+      "date": "2026-08-27",
+      "anchor": "AI voice receptionist setup timeline",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "ai-voice-receptionist-vs-hiring-a-part-time-receptionist",
+      "status": "published",
+      "category": "offer",
+      "title": "AI Voice Receptionist vs Hiring a Part-Time Receptionist: Cost Comparison for Local Business",
+      "keyphrase": "ai voice receptionist vs hiring a parttime receptionist cost comparison for loca",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "An AI voice receptionist typically costs a small monthly flat fee and covers all 168 hours in a week, including nights, weekends, and simultaneous calls, while a part-time receptionist costs several h",
+      "target_question": "What should a local business know about ai voice receptionist vs hiring a parttime receptionist cost comparison for loca?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "ai-voice-receptionist-for-local-business",
+      "date": "2026-08-27",
+      "anchor": "AI voice receptionist vs hiring part-time",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "email-sms-automation-appointment-reminders-no-shows",
+      "status": "published",
+      "category": "offer",
+      "title": "How Email & SMS Appointment Reminders Reduce No-Shows for Local Business",
+      "keyphrase": "how email sms appointment reminders reduce noshows for local business",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Email and SMS appointment reminders reduce no-shows by automatically notifying customers at set intervals before their scheduled appointment - typically a few days before and again a few hours before ",
+      "target_question": "What should a local business know about how email sms appointment reminders reduce noshows for local business?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "email-sms-automation-for-small-business",
+      "date": "2026-08-27",
+      "anchor": "email and SMS appointment reminders reduce no-shows",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "email-sms-automation-for-small-business",
+      "status": "published",
+      "category": "offer",
+      "title": "Email & SMS Automation for Small Business: How Follow-Up Actually Gets Automated",
+      "keyphrase": "email sms automation for small business how followup actually gets automated",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Email and SMS automation for small business is a system that sends instant, personalized replies the moment a lead comes in, follows up automatically over days or weeks until the lead responds or opts",
+      "target_question": "What should a local business know about email sms automation for small business how followup actually gets automated?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "email-sms-automation-for-small-business",
+      "date": "2026-08-27",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/google-reviews-automation-service/",
+        "label": "see what happens after that customer says yes"
+      }
+    },
+    {
+      "id": "email-sms-automation-lead-response-time",
+      "status": "published",
+      "category": "offer",
+      "title": "How Fast Should Email & SMS Automation Respond to a New Lead?",
+      "keyphrase": "how fast should email sms automation respond to a new lead",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Email and SMS automation should respond to a new lead within five minutes or less, since research consistently shows contact rates and conversion odds drop sharply once response time passes that windo",
+      "target_question": "What should a local business know about how fast should email sms automation respond to a new lead?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "email-sms-automation-for-small-business",
+      "date": "2026-08-27",
+      "anchor": "email and SMS automation lead response time",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "email-vs-sms-automation-which-converts-more-leads",
+      "status": "published",
+      "category": "offer",
+      "title": "Email vs SMS Automation: Which Follow-Up Channel Converts More Local Business Leads",
+      "keyphrase": "email vs sms automation which followup channel converts more local business lead",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Neither email nor SMS automation universally converts more leads - SMS gets opened and read faster, making it better for urgent, time-sensitive messages, while email supports more detail and creates a",
+      "target_question": "What should a local business know about email vs sms automation which followup channel converts more local business lead?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "email-sms-automation-for-small-business",
+      "date": "2026-08-27",
+      "anchor": "email vs SMS automation for follow-up",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "gbp-citations-nap-consistency-checklist",
+      "status": "published",
+      "category": "offer",
+      "title": "NAP Consistency Checklist: What Citation Cleanup Actually Fixes for Local Search",
+      "keyphrase": "nap consistency checklist what citation cleanup actually fixes for local search",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A NAP consistency checklist for local search means auditing the business name, address, and phone number as they appear on the Google Business Profile against every major data aggregator, general dire",
+      "target_question": "What should a local business know about nap consistency checklist what citation cleanup actually fixes for local search?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "google-business-profile-optimization-and-citations",
+      "date": "2026-08-27",
+      "anchor": "NAP consistency checklist",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "gbp-optimization-without-citations-why-it-underperforms",
+      "status": "published",
+      "category": "offer",
+      "title": "Why Google Business Profile Optimization Without Citation Cleanup Underperforms",
+      "keyphrase": "why google business profile optimization without citation cleanup underperforms",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "GBP optimization without citation cleanup underperforms because Google cross-references a business's profile information against citations on other directories to verify accuracy - when those citation",
+      "target_question": "What should a local business know about why google business profile optimization without citation cleanup underperforms?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "google-business-profile-optimization-and-citations",
+      "date": "2026-08-27",
+      "anchor": "GBP optimization without citation cleanup",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "google-business-profile-optimization-and-citations",
+      "status": "published",
+      "category": "offer",
+      "title": "Google Business Profile Optimization and Citations: The Combined Service Most Agencies Split in Two",
+      "keyphrase": "google business profile optimization and citations the combined service most age",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Google Business Profile optimization and citation building are two halves of the same local ranking signal - GBP tells Google what a business is, and consistent NAP citations across directories confir",
+      "target_question": "What should a local business know about google business profile optimization and citations the combined service most age?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "google-business-profile-optimization-and-citations",
+      "date": "2026-08-27",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/smart-websites-and-sales-funnels/",
+        "label": "see where that visibility should actually send people"
+      }
+    },
+    {
+      "id": "google-review-automation-response-time-benchmarks",
+      "status": "published",
+      "category": "offer",
+      "title": "How Fast Should You Respond to Google Reviews? Automation Response-Time Benchmarks for Local Business",
+      "keyphrase": "how fast should you respond to google reviews automation responsetime benchmarks",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Local businesses should aim to respond to Google reviews within 24 to 48 hours, and ideally within a few hours for negative reviews specifically, since response speed affects both how the reviewer per",
+      "target_question": "What should a local business know about how fast should you respond to google reviews automation responsetime benchmarks?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "google-reviews-automation-service",
+      "date": "2026-08-27",
+      "anchor": "review response-time benchmarks",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "google-review-automation-vs-manual-review-requests",
+      "status": "published",
+      "category": "offer",
+      "title": "Automated Google Review Requests vs Manually Asking Customers: Which Actually Gets More 5-Star Reviews",
+      "keyphrase": "automated google review requests vs manually asking customers which actually get",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Automated Google review requests consistently outperform manual asking because they fire every time a job or appointment completes, without depending on a staff member remembering to do it. Manual ask",
+      "target_question": "What should a local business know about automated google review requests vs manually asking customers which actually get?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "google-reviews-automation-service",
+      "date": "2026-08-27",
+      "anchor": "automated Google review requests vs manual asking",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "google-reviews-automation-service",
+      "status": "published",
+      "category": "offer",
+      "title": "Google Reviews Automation Service for Local Business: What's Included and What It Costs",
+      "keyphrase": "google reviews automation service for local business whats included and what it ",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A Google reviews automation service handles the full review lifecycle for a local business: automated request campaigns triggered by job or appointment completion, AI-drafted responses to incoming rev",
+      "target_question": "What should a local business know about google reviews automation service for local business whats included and what it ?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "google-reviews-automation-service",
+      "date": "2026-08-27",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/ai-voice-receptionist-for-local-business/",
+        "label": "see how an AI voice receptionist pairs with automated review generation"
+      }
+    },
+    {
+      "id": "how-long-gbp-optimization-citations-take-to-rank",
+      "status": "published",
+      "category": "offer",
+      "title": "How Long Does Google Business Profile Optimization With Citations Take to Show Ranking Movement?",
+      "keyphrase": "how long does google business profile optimization with citations take to show r",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Google Business Profile optimization combined with citation cleanup typically shows early ranking signals within 30 to 60 days, with fuller results by 90 days as corrected citation data propagates thr",
+      "target_question": "What should a local business know about how long does google business profile optimization with citations take to show r?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "google-business-profile-optimization-and-citations",
+      "date": "2026-08-27",
+      "anchor": "how long GBP optimization with citations takes",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "how-review-automation-recovers-a-damaged-google-rating",
+      "status": "published",
+      "category": "offer",
+      "title": "How Review Automation Software Recovers a Damaged Google Business Rating",
+      "keyphrase": "how review automation software recovers a damaged google business rating",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Review automation software recovers a damaged Google rating by generating a steady, high volume of new positive reviews that mathematically dilute the weight of older negative ones in the overall aver",
+      "target_question": "What should a local business know about how review automation software recovers a damaged google business rating?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "google-reviews-automation-service",
+      "date": "2026-08-27",
+      "anchor": "how review automation recovers a damaged rating",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "missed-call-text-back-response-time-window",
+      "status": "published",
+      "category": "offer",
+      "title": "The 2-Minute Rule: Why Missed Call Text-Back Response Time Determines Whether You Keep the Lead",
+      "keyphrase": "the 2minute rule why missed call textback response time determines whether you k",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "The 2-minute rule for missed call response holds that a caller's likelihood of staying engaged with a business drops sharply for every minute that passes without a reply, with the steepest drop-off ha",
+      "target_question": "What should a local business know about the 2minute rule why missed call textback response time determines whether you k?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "missed-call-text-back-service",
+      "date": "2026-08-27",
+      "anchor": "the 2-minute rule for missed call response",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "missed-call-text-back-service",
+      "status": "published",
+      "category": "offer",
+      "title": "Missed Call Text-Back Service: How Instant Lead Connect Recovers Lost Calls",
+      "keyphrase": "missed call textback service how instant lead connect recovers lost calls",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A missed call text-back service automatically sends a text message to a caller within seconds of an unanswered call, letting them know the business saw the call and will follow up - keeping that lead ",
+      "target_question": "What should a local business know about missed call textback service how instant lead connect recovers lost calls?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "missed-call-text-back-service",
+      "date": "2026-08-27",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/google-business-profile-optimization-and-citations/",
+        "label": "make sure those calls are finding you in the first place"
+      }
+    },
+    {
+      "id": "missed-call-text-back-setup-for-small-business",
+      "status": "published",
+      "category": "offer",
+      "title": "How a Missed Call Text-Back System Gets Set Up for a Local Business Phone Line",
+      "keyphrase": "how a missed call textback system gets set up for a local business phone line",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Missed call text-back setup for a local business connects to the phone line the business already uses - landline, VoIP, or mobile-forwarded - and defines what counts as a missed call, then configures ",
+      "target_question": "What should a local business know about how a missed call textback system gets set up for a local business phone line?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "missed-call-text-back-service",
+      "date": "2026-08-27",
+      "anchor": "missed call text-back setup",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "missed-call-text-back-vs-voicemail",
+      "status": "published",
+      "category": "offer",
+      "title": "Missed Call Text-Back vs Voicemail: Which One Actually Gets a Reply From a New Lead",
+      "keyphrase": "missed call textback vs voicemail which one actually gets a reply from a new lea",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "Missed call text-back vs voicemail comes down to who has to take the next action: voicemail requires the caller to leave a message and then wait, while a text-back system reaches out to the caller aut",
+      "target_question": "What should a local business know about missed call textback vs voicemail which one actually gets a reply from a new lea?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "missed-call-text-back-service",
+      "date": "2026-08-27",
+      "anchor": "missed call text-back vs voicemail",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "sales-funnel-vs-website-for-local-business-leads",
+      "status": "published",
+      "category": "offer",
+      "title": "Sales Funnel vs Website: Which Converts More Local Business Leads",
+      "keyphrase": "sales funnel vs website which converts more local business leads",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A sales funnel converts more local business leads than a traditional website because it deliberately sequences content to guide a visitor from awareness to a specific next action, while a traditional ",
+      "target_question": "What should a local business know about sales funnel vs website which converts more local business leads?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "smart-websites-and-sales-funnels",
+      "date": "2026-08-27",
+      "anchor": "sales funnel vs website for local leads",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "smart-website-lead-capture-features-checklist",
+      "status": "published",
+      "category": "offer",
+      "title": "The Lead Capture Features a Local Business Website Needs to Actually Generate Calls",
+      "keyphrase": "the lead capture features a local business website needs to actually generate ca",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A local business website needs several specific lead capture features to actually generate calls: mobile click-to-call buttons, intent-based short forms, AI-powered chat with behavioral triggers, exit",
+      "target_question": "What should a local business know about the lead capture features a local business website needs to actually generate ca?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "smart-websites-and-sales-funnels",
+      "date": "2026-08-27",
+      "anchor": "lead capture features checklist",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "smart-website-vs-traditional-business-website",
+      "status": "published",
+      "category": "offer",
+      "title": "Smart Website vs Traditional Business Website: What's Actually Different",
+      "keyphrase": "smart website vs traditional business website whats actually different",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A smart website versus a traditional business website comes down to behavior and structure, not looks - a smart site actively captures and qualifies leads using AI-driven chat, forms, and mobile-first",
+      "target_question": "What should a local business know about smart website vs traditional business website whats actually different?",
+      "category_tag": "local-business",
+      "type": "cluster",
+      "cluster": "smart-websites-and-sales-funnels",
+      "date": "2026-08-27",
+      "anchor": "smart website vs traditional website",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ]
+    },
+    {
+      "id": "smart-websites-and-sales-funnels",
+      "status": "published",
+      "category": "offer",
+      "title": "Smart Websites & Sales Funnels for Local Business: What Makes a Website 'Smart'",
+      "keyphrase": "smart websites sales funnels for local business what makes a website smart",
+      "affiliate_link": "https://agency.jredmonson.com/",
+      "offer": "JREdmonson Solutions",
+      "pov": "A smart website for a local business is one built as a sales funnel rather than a digital brochure - it uses mobile-first design, AI-powered chat or forms to capture leads at the moment of interest, a",
+      "target_question": "What should a local business know about smart websites sales funnels for local business what makes a website smart?",
+      "category_tag": "local-business",
+      "type": "pillar",
+      "cluster": "smart-websites-and-sales-funnels",
+      "date": "2026-08-27",
+      "money_page_links": [
+        {
+          "url": "https://agency.jredmonson.com/",
+          "label": "JREdmonson Solutions"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/local-business/email-sms-automation-for-small-business/",
+        "label": "see what happens to a lead after it's captured"
+      }
     }
   ]
 }

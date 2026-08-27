@@ -69,6 +69,13 @@ KNOWN_ROUTES = [
     "https://jredmonson.github.io/local-business/local-pack-ranking-expert-central-texas/",
     "https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/",
     "https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/",
+    # Agency Service Lineup batch (Aug 27, 2026) - 6 new pillars matching agency.jredmonson.com's redone services page
+    "https://jredmonson.github.io/local-business/google-reviews-automation-service/",
+    "https://jredmonson.github.io/local-business/ai-voice-receptionist-for-local-business/",
+    "https://jredmonson.github.io/local-business/missed-call-text-back-service/",
+    "https://jredmonson.github.io/local-business/google-business-profile-optimization-and-citations/",
+    "https://jredmonson.github.io/local-business/smart-websites-and-sales-funnels/",
+    "https://jredmonson.github.io/local-business/email-sms-automation-for-small-business/",
     # LegalShield campaign (law category, Aug 2026)
     "https://lilliearnold.legalshieldassociate.com/",
     "https://jredmonson.github.io/law/legalshield-prepaid-legal-plans/",
