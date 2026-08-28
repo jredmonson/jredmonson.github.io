@@ -82,6 +82,10 @@ KNOWN_ROUTES = [
     "https://jredmonson.github.io/law/legalshield-business-employee-legal-plans/",
     "https://jredmonson.github.io/law/is-prepaid-legal-worth-it-comparison/",
     "https://jredmonson.github.io/law/national-make-a-will-month-guide/",
+    # Estate Planning / Family Law / Real Estate Attorney clusters (Aug 28, 2026)
+    "https://jredmonson.github.io/law/estate-planning-attorney-georgetown-tx/",
+    "https://jredmonson.github.io/law/family-law-attorney-georgetown-tx/",
+    "https://jredmonson.github.io/law/real-estate-attorney-georgetown-tx/",
 ]
 
 
