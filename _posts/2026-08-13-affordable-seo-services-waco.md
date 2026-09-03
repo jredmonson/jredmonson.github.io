@@ -20,7 +20,7 @@ money_page_links:
 - Google Business Profile optimization is often the fastest-moving piece of an affordable SEO package in Waco, since it directly affects map-pack visibility.
 - Waco businesses competing in home services (HVAC, roofing, plumbing) typically need to budget toward the higher end of the affordable range given how competitive those categories are locally.
 
-This is written for homeowners and businesses in [Waco](/locations/waco/), TX, thinking through what SEO should reasonably cost.
+This is written for homeowners and businesses in [Waco](https://www.gedmonson.com/locations/waco/), TX, thinking through what SEO should reasonably cost.
 
 Waco is the largest market in this part of Central Texas, and that size cuts both ways for a small business shopping for affordable SEO. On one hand, there's more search volume - more people searching for local services every month than in a town a quarter its size. On the other, more competitors are chasing that same volume, which means "affordable" SEO in Waco needs to be scoped a little more carefully than it would in a smaller market.
 

@@ -19,7 +19,7 @@ money_page_links:
 - Corsicana's market benefits from agents who genuinely understand Navarro County's specific neighborhoods and price trends, not generic real estate content.
 - Client testimonials and local market content both play a bigger role in real estate marketing than paid ads alone.
 
-This is written for homeowners and businesses in [Corsicana](/locations/corsicana/), TX, looking to improve digital marketing as a real estate agent.
+This is written for homeowners and businesses in [Corsicana](https://www.gedmonson.com/locations/corsicana/), TX, looking to improve digital marketing as a real estate agent.
 
 Real estate marketing sits in an unusual space - it's local-service marketing, but success depends heavily on personal brand and demonstrated local expertise in a way that's closer to professional services than home services. See the [pillar guide](https://jredmonson.github.io/local-business/industry-specific-marketing-central-texas/) for the full framework on why industry-specific strategy matters.
 

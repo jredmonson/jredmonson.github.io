@@ -19,7 +19,7 @@ money_page_links:
 - A full-time marketing salary in the Cleburne area, including overhead, often exceeds $45,000-$70,000 annually - a real number worth comparing directly against outsourced costs.
 - Many Cleburne businesses outgrow outsourcing gradually rather than all at once, making a hybrid approach a reasonable middle step.
 
-For a business in [Cleburne](/locations/cleburne/), TX, the in-house vs. outsourcing decision covered in the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) usually comes down to one honest question: does this business have enough ongoing marketing work to justify a full-time role, or would that person spend real time waiting for their next task?
+For a business in [Cleburne](https://www.gedmonson.com/locations/cleburne/), TX, the in-house vs. outsourcing decision covered in the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) usually comes down to one honest question: does this business have enough ongoing marketing work to justify a full-time role, or would that person spend real time waiting for their next task?
 
 ## The Workload Test
 

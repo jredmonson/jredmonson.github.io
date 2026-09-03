@@ -19,7 +19,7 @@ money_page_links:
 - Cleburne's lighter local competition means a functional, well-targeted site often outperforms an expensive redesign focused mainly on appearance.
 - Smaller, targeted fixes - a clearer call-to-action, faster load time, more direct copy - often produce more sales impact per dollar than a full rebuild.
 
-This is written for homeowners and businesses in [Cleburne](/locations/cleburne/), TX, considering a website redesign to increase sales.
+This is written for homeowners and businesses in [Cleburne](https://www.gedmonson.com/locations/cleburne/), TX, considering a website redesign to increase sales.
 
 "Redesign the website" is often the instinctive response to flat sales, but it's not always the right fix - sometimes the real issue is smaller and more targeted than a full rebuild, and a Cleburne business can waste a meaningful budget redesigning a site that only needed a handful of specific changes. See the [pillar guide](https://jredmonson.github.io/local-business/lead-generation-experts-central-texas/) for the full diagnostic framework this fits into.
 

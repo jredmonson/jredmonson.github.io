@@ -19,7 +19,7 @@ money_page_links:
 - The core ranking factors are the same everywhere - Google Business Profile completeness, directory consistency, local content, and reviews - but Hillsboro's moderate competition means fewer of these need to be perfect to reach the top spot.
 - A 60-120 day timeline is realistic for a properly executed local SEO push in a market this size.
 
-This is written for homeowners and businesses in [Hillsboro](/locations/hillsboro/), TX, working toward the #1 local search position.
+This is written for homeowners and businesses in [Hillsboro](https://www.gedmonson.com/locations/), TX, working toward the #1 local search position.
 
 Reaching the #1 local search result is a specific, achievable goal for a Hillsboro business - Hill County's moderate competition level, positioned between Waco's larger market and the smaller towns nearby, means the same core ranking factors that work everywhere are somewhat easier to execute to a #1-worthy standard here. See the [pillar guide](https://jredmonson.github.io/local-business/lead-generation-experts-central-texas/) for the complete lead generation diagnostic this fits into.
 

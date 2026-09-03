@@ -19,7 +19,7 @@ money_page_links:
 - Navarro County's mid-sized market means overly broad or overly competitive keyword targeting wastes budget faster than it would in a larger city with more search volume to absorb inefficiency.
 - Fixing the actual leak is almost always cheaper than increasing spend on a campaign that isn't converting.
 
-This is written for homeowners and businesses in [Corsicana](/locations/corsicana/), TX, evaluating whether their Google Ads spend is actually working.
+This is written for homeowners and businesses in [Corsicana](https://www.gedmonson.com/locations/corsicana/), TX, evaluating whether their Google Ads spend is actually working.
 
 "We're spending on Google Ads but not seeing results" is one of the most common complaints from Corsicana small business owners, and it almost always traces back to one of a few specific, fixable issues rather than requiring a bigger budget. See the [pillar guide](https://jredmonson.github.io/local-business/lead-generation-experts-central-texas/) for how this fits into the broader lead generation diagnostic.
 

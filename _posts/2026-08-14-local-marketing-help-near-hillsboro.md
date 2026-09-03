@@ -19,7 +19,7 @@ money_page_links:
 - A genuinely local Hillsboro provider should understand the town's role as a hub market, not treat it as an isolated small town.
 - Hillsboro's restored 1890s courthouse square and I-35 outlet mall give local businesses a distinct identity a generic marketing approach often misses.
 
-This is written for homeowners and businesses in [Hillsboro](/locations/hillsboro/), TX, evaluating "local marketing help near me" search results.
+This is written for homeowners and businesses in [Hillsboro](https://www.gedmonson.com/locations/), TX, evaluating "local marketing help near me" search results.
 
 Hillsboro's position at the geographic center of this entire regional market - close to Waco, Cleburne, and Waxahachie alike - makes "near me" search verification particularly useful here as a reference point for the whole corridor.
 

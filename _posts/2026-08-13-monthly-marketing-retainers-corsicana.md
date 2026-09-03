@@ -20,7 +20,7 @@ money_page_links:
 - Corsicana's identity as a historic Navarro County seat, long associated with Collin Street Bakery, is a genuine local content angle most outside agencies never use.
 - Month-to-month retainer terms are the standard to expect - a 12-month lock-in isn't necessary to get a fair Corsicana rate.
 
-This is written for homeowners and businesses in [Corsicana](/locations/corsicana/), TX, evaluating what a monthly marketing retainer should include.
+This is written for homeowners and businesses in [Corsicana](https://www.gedmonson.com/locations/corsicana/), TX, evaluating what a monthly marketing retainer should include.
 
 A monthly marketing retainer is an ongoing agreement, not a one-time project - which means the most important question for a Corsicana small business isn't just "what's the number," but "what does that number keep delivering month after month." Navarro County's market sits comfortably mid-sized within this region: more competitive than the smallest towns like Mexia, less competitive than Waco.
 

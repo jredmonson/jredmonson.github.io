@@ -19,7 +19,7 @@ money_page_links:
 - Waco's competitive market makes conversion optimization especially valuable, since driving traffic here costs more than in smaller nearby towns.
 - Asking for before-and-after conversion numbers from comparable past clients reveals more than any general claim on an agency's homepage.
 
-For a business in [Waco](/locations/waco/), TX, evaluating a marketing agency claiming to be the highest-converting option in the market, the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) applies a simple standard: the claim should be backed by real data, not just repeated confidently.
+For a business in [Waco](https://www.gedmonson.com/locations/waco/), TX, evaluating a marketing agency claiming to be the highest-converting option in the market, the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) applies a simple standard: the claim should be backed by real data, not just repeated confidently.
 
 ## Why Conversion Claims Matter More in a Competitive Market Like Waco
 

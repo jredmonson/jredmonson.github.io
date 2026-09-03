@@ -19,7 +19,7 @@ money_page_links:
 - A steady, ongoing flow of recent reviews outperforms a large but stagnant historical count.
 - Cleburne's moderate competition means active review management can provide a real differentiation advantage over less engaged local competitors.
 
-This is written for homeowners and businesses in [Cleburne](/locations/cleburne/), TX, looking to improve review management.
+This is written for homeowners and businesses in [Cleburne](https://www.gedmonson.com/locations/cleburne/), TX, looking to improve review management.
 
 Review management is often treated as a passive activity - waiting to see what reviews come in - when it's actually one of the more controllable, high-impact local SEO and trust-building services a Cleburne business can invest in actively. See the [pillar guide](https://jredmonson.github.io/local-business/local-pack-ranking-expert-central-texas/) for the complete framework on service-specific marketing.
 

@@ -19,7 +19,7 @@ money_page_links:
 - Waco's higher local competition among roofers means a complete, actively managed Google Business Profile matters more here than in a smaller nearby market.
 - Recent job photos and storm-response case studies build the kind of trust a roofing customer needs to make a fast decision.
 
-This is written for homeowners and businesses in [Waco](/locations/waco/), TX, looking to improve local SEO for a roofing company.
+This is written for homeowners and businesses in [Waco](https://www.gedmonson.com/locations/waco/), TX, looking to improve local SEO for a roofing company.
 
 Roofing is one of the clearest examples of an urgency-driven local service category, and Waco's exposure to hail and severe weather makes storm-damage search intent a particularly valuable target for roofing SEO here. For the broader framework on why industry-specific strategy matters, see the [pillar guide](https://jredmonson.github.io/local-business/industry-specific-marketing-central-texas/).
 

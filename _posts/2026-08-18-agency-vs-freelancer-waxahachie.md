@@ -19,7 +19,7 @@ money_page_links:
 - A single well-defined task is often better and cheaper handled by a freelancer, even for a Waxahachie business with a full marketing need eventually.
 - Growing Ellis County businesses often start with a freelancer and transition to an agency as their marketing needs multiply.
 
-For a business in [Waxahachie](/locations/waxahachie/), TX, the agency vs. freelancer decision from the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) often comes down to a simple test: is this one task, or several tasks that need to work together?
+For a business in [Waxahachie](https://www.gedmonson.com/locations/waxahachie/), TX, the agency vs. freelancer decision from the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) often comes down to a simple test: is this one task, or several tasks that need to work together?
 
 ## The One-Task Test
 

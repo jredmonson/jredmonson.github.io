@@ -19,7 +19,7 @@ money_page_links:
 - Corsicana's identity - historic Navarro County courthouse square, long association with Collin Street Bakery - is a real local content asset a genuinely local designer should use.
 - Verifying recent local work is the fastest way to confirm a "nearby" web designer result is actually familiar with the Corsicana market.
 
-This is written for homeowners and businesses in [Corsicana](/locations/corsicana/), TX, searching for a genuinely local web designer.
+This is written for homeowners and businesses in [Corsicana](https://www.gedmonson.com/locations/corsicana/), TX, searching for a genuinely local web designer.
 
 "Web designer nearby" is a search that can surface anyone from a genuinely Navarro County-based freelancer to a national template-site reseller using geo-targeted keywords - the difference matters significantly for how well the finished site actually represents a Corsicana business.
 

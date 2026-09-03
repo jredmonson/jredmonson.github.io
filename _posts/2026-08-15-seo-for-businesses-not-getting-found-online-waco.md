@@ -19,7 +19,7 @@ money_page_links:
 - The three most common causes are an incomplete Google Business Profile, inconsistent directory listings, and content that doesn't actually target local search terms.
 - Fixing search invisibility in a competitive market like Waco typically takes 60-90 days to show meaningful movement, longer than it would in a lower-competition town.
 
-This is written for homeowners and businesses in [Waco](/locations/waco/), TX, dealing with poor local search visibility.
+This is written for homeowners and businesses in [Waco](https://www.gedmonson.com/locations/waco/), TX, dealing with poor local search visibility.
 
 A genuinely good business - reliable service, happy customers - can still be functionally invisible online in a market as competitive as Waco, simply because the technical and content pieces that drive local search visibility were never properly built out. For the full framework on diagnosing this alongside other lead generation problems, see the [pillar guide](https://jredmonson.github.io/local-business/lead-generation-experts-central-texas/).
 

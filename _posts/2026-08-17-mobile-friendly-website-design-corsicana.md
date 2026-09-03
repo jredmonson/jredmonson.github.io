@@ -19,7 +19,7 @@ money_page_links:
 - A large and growing share of local search traffic in Corsicana happens on mobile devices, making this a foundational rather than optional investment.
 - A slow or hard-to-navigate mobile site costs a Corsicana business real leads, particularly for urgent, high-intent searches.
 
-This is written for homeowners and businesses in [Corsicana](/locations/corsicana/), TX, looking to improve mobile website design.
+This is written for homeowners and businesses in [Corsicana](https://www.gedmonson.com/locations/corsicana/), TX, looking to improve mobile website design.
 
 Mobile-friendly design is frequently misunderstood as simply "does the site resize on a phone" when genuine mobile optimization involves considerably more - load speed, button placement, and content structure specifically built for how people actually use a phone, not a shrunk-down desktop experience. See the [pillar guide](https://jredmonson.github.io/local-business/local-pack-ranking-expert-central-texas/) for the complete framework on service-specific marketing.
 

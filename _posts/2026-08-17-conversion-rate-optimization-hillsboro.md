@@ -19,7 +19,7 @@ money_page_links:
 - The fundamentals - visible call-to-action, fast load times, clear value proposition - matter more for most Hillsboro businesses than advanced testing techniques.
 - Given Hillsboro's central regional position, a well-converting site can capture value from visitors across several nearby towns, not just Hillsboro itself.
 
-This is written for homeowners and businesses in [Hillsboro](/locations/hillsboro/), TX, looking to improve website conversion rates.
+This is written for homeowners and businesses in [Hillsboro](https://www.gedmonson.com/locations/), TX, looking to improve website conversion rates.
 
 Conversion rate optimization treats a website as a system to actively improve, rather than a finished product - a Hillsboro business generating decent traffic but few actual calls or form submissions often has more to gain from CRO than from simply spending more to drive additional traffic to the same underperforming pages. See the [pillar guide](https://jredmonson.github.io/local-business/local-pack-ranking-expert-central-texas/) for the complete framework on service-specific marketing.
 

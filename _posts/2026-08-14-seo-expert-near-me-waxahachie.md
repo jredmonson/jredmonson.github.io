@@ -19,7 +19,7 @@ money_page_links:
 - A genuine Waxahachie SEO expert should understand how the area's growth has changed local search competition over the past several years.
 - Verifying local presence matters more in Waxahachie than in more isolated Central Texas towns, given how much DFW-based competition targets this specific search.
 
-This is written for homeowners and businesses in [Waxahachie](/locations/waxahachie/), TX, searching for a genuinely local SEO expert.
+This is written for homeowners and businesses in [Waxahachie](https://www.gedmonson.com/locations/waxahachie/), TX, searching for a genuinely local SEO expert.
 
 Waxahachie sits close enough to the Dallas-Fort Worth metro that "SEO expert near me" searches here frequently surface DFW-based agencies rather than genuinely Ellis County-focused providers - a pattern less common in Central Texas towns further from a major metro.
 

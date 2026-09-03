@@ -19,7 +19,7 @@ money_page_links:
 - This positioning fits certain Hillsboro businesses well - particularly those where brand image matters alongside lead generation - but not every business.
 - A Hillsboro business should evaluate whether premier positioning matches its actual needs before paying for it.
 
-For a business in [Hillsboro](/locations/hillsboro/), TX, evaluating a marketing firm that describes itself as \"premier,\" the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) suggests looking past the word itself to what it typically signals in practice: positioning, not necessarily superiority.
+For a business in [Hillsboro](https://www.gedmonson.com/locations/), TX, evaluating a marketing firm that describes itself as \"premier,\" the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) suggests looking past the word itself to what it typically signals in practice: positioning, not necessarily superiority.
 
 ## What \"Premier\" Usually Signals in Practice
 

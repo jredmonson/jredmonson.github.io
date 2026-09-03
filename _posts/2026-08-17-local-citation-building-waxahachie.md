@@ -19,7 +19,7 @@ money_page_links:
 - Consistency matters more than sheer volume - a handful of accurate citations outperforms dozens with conflicting information.
 - Ellis County's growth has made citation consistency more competitively important for Waxahachie businesses than it was a few years ago.
 
-This is written for homeowners and businesses in [Waxahachie](/locations/waxahachie/), TX, looking to improve local citation consistency.
+This is written for homeowners and businesses in [Waxahachie](https://www.gedmonson.com/locations/waxahachie/), TX, looking to improve local citation consistency.
 
 Citation building is one of the less visible but genuinely foundational local SEO services - inconsistent business information across directories quietly undermines Google's confidence in a business's location and legitimacy, even when the core website and Google Business Profile look strong. See the [pillar guide](https://jredmonson.github.io/local-business/local-pack-ranking-expert-central-texas/) for the complete framework on why service-specific pages like this one matter.
 

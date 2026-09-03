@@ -19,7 +19,7 @@ money_page_links:
 - Real full-service coordination eliminates the burden of managing handoffs between separate specialists.
 - Not every business needs full-service - the [agency vs. freelancer framework](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) helps determine when it's actually worth it.
 
-For a business in [Corsicana](/locations/corsicana/), TX, evaluating whether a full-service marketing agency is the right fit, the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) points to a specific test: does this business need multiple marketing functions working together, or would a single specialist handle its actual need just as well?
+For a business in [Corsicana](https://www.gedmonson.com/locations/corsicana/), TX, evaluating whether a full-service marketing agency is the right fit, the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) points to a specific test: does this business need multiple marketing functions working together, or would a single specialist handle its actual need just as well?
 
 ## What \"Full-Service\" Should Actually Include
 

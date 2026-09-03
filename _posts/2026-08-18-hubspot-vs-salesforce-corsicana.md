@@ -19,7 +19,7 @@ money_page_links:
 - Salesforce's power becomes worth the added complexity mainly once a business has a dedicated multi-person sales team.
 - Setup and ongoing administration time should factor into the decision as much as monthly software cost.
 
-For a business in [Corsicana](/locations/corsicana/), TX, the CRM platform decision covered in the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) usually comes down to team size and sales process complexity, not which platform is more well-known.
+For a business in [Corsicana](https://www.gedmonson.com/locations/corsicana/), TX, the CRM platform decision covered in the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) usually comes down to team size and sales process complexity, not which platform is more well-known.
 
 ## What Makes HubSpot the Common Starting Point
 

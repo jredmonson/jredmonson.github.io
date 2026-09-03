@@ -20,7 +20,7 @@ money_page_links:
 - A fair Hillsboro retainer typically lands between $400 and $1,500/month depending on how many services are bundled.
 - Hillsboro's restored 1890s courthouse square and outlet mall along I-35 give local businesses a strong, distinct identity that generic marketing templates tend to flatten out.
 
-This is written for homeowners and businesses in [Hillsboro](/locations/hillsboro/), TX, looking for pricing they can actually verify against real deliverables.
+This is written for homeowners and businesses in [Hillsboro](https://www.gedmonson.com/locations/), TX, looking for pricing they can actually verify against real deliverables.
 
 "Transparent pricing" gets used as a marketing phrase by agencies that don't actually practice it, which makes it worth defining plainly for a Hillsboro small business owner: transparent pricing means every dollar in a quote maps to something specific and nameable, not a vague bucket like "digital marketing services" that could mean almost anything.
 

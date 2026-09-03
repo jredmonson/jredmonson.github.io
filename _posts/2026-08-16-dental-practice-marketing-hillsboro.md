@@ -19,7 +19,7 @@ money_page_links:
 - Hillsboro's central position in the region means a dental practice here can reasonably draw patients from several nearby smaller towns, not just Hillsboro itself.
 - Content addressing common patient anxieties and practical questions reduces the hesitation that often delays someone from booking a first visit.
 
-This is written for homeowners and businesses in [Hillsboro](/locations/hillsboro/), TX, looking to improve dental practice marketing.
+This is written for homeowners and businesses in [Hillsboro](https://www.gedmonson.com/locations/), TX, looking to improve dental practice marketing.
 
 Dental practices face a genuinely hybrid marketing challenge - some searches are urgent (a toothache, an injury), while choosing a new regular provider is a slower, more considered decision, and a Hillsboro practice's marketing needs to serve both patterns well. See the [pillar guide](https://jredmonson.github.io/local-business/industry-specific-marketing-central-texas/) for the complete framework on industry-specific strategy.
 

@@ -19,7 +19,7 @@ money_page_links:
 - A genuinely local Waco provider should understand how Baylor University's academic calendar affects local search demand across categories like moving, home repair, and hospitality.
 - Waco's home-service categories (HVAC, roofing, plumbing) are competitive enough that "near me" rankings shift often, making genuine ongoing local management more valuable than a one-time optimization push.
 
-This is written for homeowners and businesses in [Waco](/locations/waco/), TX, evaluating "marketing agency near me" search results.
+This is written for homeowners and businesses in [Waco](https://www.gedmonson.com/locations/waco/), TX, evaluating "marketing agency near me" search results.
 
 Waco is the largest, highest-volume search market in this region, which cuts two ways for a business owner searching "marketing agency near me." There are more genuinely local options to choose from than in a smaller town - but there's also more incentive for out-of-area agencies based in Dallas, Fort Worth, or Austin to specifically target Waco with "near me" optimization, given its size relative to towns like Mexia or Meridian.
 

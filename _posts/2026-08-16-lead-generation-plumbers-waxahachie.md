@@ -19,7 +19,7 @@ money_page_links:
 - A missed-call system is particularly valuable for plumbers, since a customer with an active leak or emergency rarely waits for a callback.
 - Ellis County's growing population has increased plumbing competition in Waxahachie, making complete, consistent online presence more important than it was a few years ago.
 
-This is written for homeowners and businesses in [Waxahachie](/locations/waxahachie/), TX, looking to generate more plumbing leads.
+This is written for homeowners and businesses in [Waxahachie](https://www.gedmonson.com/locations/waxahachie/), TX, looking to generate more plumbing leads.
 
 Plumbing is a category where lead generation success depends heavily on urgency-matched strategy and fast response - a customer with an active leak isn't researching for days, they're calling whoever answers first and seems credible. See the [pillar guide](https://jredmonson.github.io/local-business/industry-specific-marketing-central-texas/) for the broader industry-specific marketing framework this fits into.
 

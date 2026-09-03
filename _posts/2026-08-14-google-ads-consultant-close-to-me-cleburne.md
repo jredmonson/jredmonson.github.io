@@ -19,7 +19,7 @@ money_page_links:
 - A genuinely local Cleburne PPC consultant should scope ad budgets around the county's actual competition level, not a flat regional average.
 - Cleburne's mix of in-town and rural surrounding service areas affects how a Google Ads campaign's location targeting should be set up.
 
-This is written for homeowners and businesses in [Cleburne](/locations/cleburne/), TX, evaluating "Google Ads consultant close to me" search results.
+This is written for homeowners and businesses in [Cleburne](https://www.gedmonson.com/locations/cleburne/), TX, evaluating "Google Ads consultant close to me" search results.
 
 Cleburne's Johnson County market carries less paid-search competition than Waco or Waxahachie, which changes what a smart "close to me" Google Ads consultant should actually recommend - a strategy built for a more competitive market often means overspending here relative to what's actually needed to win visibility.
 

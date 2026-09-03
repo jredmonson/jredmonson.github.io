@@ -19,7 +19,7 @@ money_page_links:
 - Waco's higher competition makes staying actively engaged with Google Business Profile more important than in a smaller nearby market.
 - Category selection, photo freshness, and posting consistency all measurably affect map-pack ranking, not just review count alone.
 
-This is written for homeowners and businesses in [Waco](/locations/waco/), TX, looking to improve Google Maps visibility.
+This is written for homeowners and businesses in [Waco](https://www.gedmonson.com/locations/waco/), TX, looking to improve Google Maps visibility.
 
 Google Maps optimization is one of the more specific, high-leverage services a Waco business can invest in, since the map pack - the three-result block shown for most local searches - captures a large share of local search clicks before a searcher ever scrolls to organic results. For the broader framework on why service-specific pages like this one rank faster than a general "marketing agency" page, see the [pillar guide](https://jredmonson.github.io/local-business/local-pack-ranking-expert-central-texas/).
 

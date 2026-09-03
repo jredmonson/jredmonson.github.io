@@ -19,7 +19,7 @@ money_page_links:
 - A Cleburne business should ask what source backs a #1 claim and whether that ranking is current.
 - An unsourced #1 claim carries the same weight as any other unverified marketing statement.
 
-For a business near [Cleburne](/locations/cleburne/), TX, evaluating a local SEO company's claim to be #1 rated, the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) draws a useful distinction: \"#1 rated\" implies something more specific than a general \"top-rated\" claim, and that specificity is worth checking.
+For a business near [Cleburne](https://www.gedmonson.com/locations/cleburne/), TX, evaluating a local SEO company's claim to be #1 rated, the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) draws a useful distinction: \"#1 rated\" implies something more specific than a general \"top-rated\" claim, and that specificity is worth checking.
 
 ## Why \"#1 Rated\" Sounds More Definitive Than It Often Is
 

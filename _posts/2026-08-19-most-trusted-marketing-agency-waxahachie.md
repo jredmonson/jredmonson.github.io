@@ -19,7 +19,7 @@ money_page_links:
 - Real trust signals are verifiable: years of documented experience, long-term client relationships, and industry-specific understanding.
 - A Waxahachie business should look for evidence of trust, not just the word itself, before making a decision.
 
-For a business in [Waxahachie](/locations/waxahachie/), TX, evaluating a marketing agency's claim to be the most trusted option in the area, the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) points to a simple test: trust should be demonstrable, not just stated.
+For a business in [Waxahachie](https://www.gedmonson.com/locations/waxahachie/), TX, evaluating a marketing agency's claim to be the most trusted option in the area, the [regional guide to evaluating agency claims](https://jredmonson.github.io/local-business/best-marketing-agency-central-texas/) points to a simple test: trust should be demonstrable, not just stated.
 
 ## Why Trust Claims Matter Most for Certain Waxahachie Businesses
 

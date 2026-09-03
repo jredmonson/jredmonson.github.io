@@ -19,7 +19,7 @@ money_page_links:
 - Shopify's built-in e-commerce tools save real setup time for a Hillsboro business selling physical products.
 - WordPress's flexibility and stronger content tools tend to favor service-based Hillsboro businesses focused on SEO and lead generation.
 
-For a business in [Hillsboro](/locations/hillsboro/), TX, the platform decision covered in the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) comes down to one clear question: is this website's main job to process product sales, or to generate leads and rank in local search?
+For a business in [Hillsboro](https://www.gedmonson.com/locations/), TX, the platform decision covered in the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) comes down to one clear question: is this website's main job to process product sales, or to generate leads and rank in local search?
 
 ## When Shopify Is the Clear Choice for a Hillsboro Business
 

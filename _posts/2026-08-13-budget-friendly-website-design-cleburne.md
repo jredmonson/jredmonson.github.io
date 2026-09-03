@@ -20,7 +20,7 @@ money_page_links:
 - A standalone budget-friendly website build in Cleburne typically runs $1,500-$3,000 for a small, single-location business.
 - Johnson County's mix of Cleburne proper and the surrounding rural service area means a website's service-area messaging matters more here than in a single dense city.
 
-This is written for homeowners and businesses in [Cleburne](/locations/cleburne/), TX, comparing what a genuinely budget-friendly website should cost.
+This is written for homeowners and businesses in [Cleburne](https://www.gedmonson.com/locations/cleburne/), TX, comparing what a genuinely budget-friendly website should cost.
 
 Cleburne, the Johnson County seat, sits in a market with noticeably less local search competition than Waco or Waxahachie - which is good news for a small business trying to get a website built on a modest budget, because the site doesn't need the same heavy SEO scaffolding a more competitive market would demand just to be found.
 

@@ -20,7 +20,7 @@ money_page_links:
 - Ellis County's growth over the past several years has pushed local competition up, which makes bundled packages a better value than piecing out single services.
 - Waxahachie's historic downtown courthouse square and film-location reputation give local businesses a distinct brand angle that generic DFW-templated marketing usually misses.
 
-This is written for homeowners and businesses in [Waxahachie](/locations/waxahachie/), TX, looking for marketing costs that actually reflect an Ellis County budget.
+This is written for homeowners and businesses in [Waxahachie](https://www.gedmonson.com/locations/waxahachie/), TX, looking for marketing costs that actually reflect an Ellis County budget.
 
 Waxahachie's location - close enough to Dallas-Fort Worth to feel the metro's pull, far enough to still be its own distinct market - creates a specific pricing trap for local business owners. Agencies based in DFW proper often don't adjust their rate card for an Ellis County client, which means a Waxahachie small business calling a Dallas marketing agency is frequently quoted the same price a downtown Dallas business would pay, despite very different overhead, competition, and customer base.
 

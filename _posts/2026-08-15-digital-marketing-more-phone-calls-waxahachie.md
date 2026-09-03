@@ -19,7 +19,7 @@ money_page_links:
 - Waxahachie's growth and rising local competition make a prominent, easy-to-find phone number and call-to-action more important than it used to be.
 - A missed-call text-back system recovers calls that would otherwise be lost entirely to a competitor.
 
-This is written for homeowners and businesses in [Waxahachie](/locations/waxahachie/), TX, looking to increase inbound phone calls.
+This is written for homeowners and businesses in [Waxahachie](https://www.gedmonson.com/locations/waxahachie/), TX, looking to increase inbound phone calls.
 
 A Waxahachie business wanting more phone calls needs to think about the entire path a customer takes - from search result, to website, to actually dialing - since a gap anywhere along that path loses calls regardless of how much traffic or ad spend feeds the top of it. For the broader diagnostic framework, see the [pillar guide](https://jredmonson.github.io/local-business/lead-generation-experts-central-texas/).
 

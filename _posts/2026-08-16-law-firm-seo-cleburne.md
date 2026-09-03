@@ -19,7 +19,7 @@ money_page_links:
 - Cleburne's lighter legal-services competition compared to Waco means a well-executed SEO strategy can achieve strong visibility without an aggressive, high-budget approach.
 - Consistent citations and genuine, detailed reviews matter significantly for a law firm, since potential clients research thoroughly before choosing representation.
 
-This is written for homeowners and businesses in [Cleburne](/locations/cleburne/), TX, looking to improve local SEO for a law firm.
+This is written for homeowners and businesses in [Cleburne](https://www.gedmonson.com/locations/cleburne/), TX, looking to improve local SEO for a law firm.
 
 A law firm's SEO strategy needs to look fundamentally different from a roofer's or plumber's - the decision process is slower, more research-driven, and centered on trust rather than immediate availability. See the [pillar guide](https://jredmonson.github.io/local-business/industry-specific-marketing-central-texas/) for the complete framework on why industry-specific strategy matters.
 

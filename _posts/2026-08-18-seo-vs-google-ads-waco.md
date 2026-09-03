@@ -19,7 +19,7 @@ money_page_links:
 - SEO takes longer to show results in Waco specifically because more businesses are actively competing for the same search terms.
 - Running both together, even at a modest budget, tends to outperform either strategy alone in this market.
 
-For a business in [Waco](/locations/waco/), TX, the SEO vs. Google Ads decision covered in the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) plays out with a specific local wrinkle: McLennan County's largest city has more competing businesses actively investing in both search channels than most of the surrounding smaller towns, which changes the timeline and budget math on both sides.
+For a business in [Waco](https://www.gedmonson.com/locations/waco/), TX, the SEO vs. Google Ads decision covered in the [regional decision guide](https://jredmonson.github.io/local-business/marketing-decision-guide-central-texas/) plays out with a specific local wrinkle: McLennan County's largest city has more competing businesses actively investing in both search channels than most of the surrounding smaller towns, which changes the timeline and budget math on both sides.
 
 ## Why Waco's Market Size Changes the Calculation
 
