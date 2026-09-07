@@ -1,122 +1,880 @@
-For local service businesses
-The Missed Call Ledger
-Every unmanned ring is a job you already won and then quietly lost. Enter your numbers below and see exactly what it's costing you — per week, per month, per year.
+---
+layout: null
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Missed Call Cost Calculator for Local Service Businesses</title>
+<meta name="description" content="Free calculator showing exactly how much unanswered calls cost your plumbing, HVAC, electrical, roofing, or home service business per month and per year.">
+<meta name="author" content="JR Edmonson">
+<link rel="canonical" href="https://jredmonson.github.io/missed-call-cost-calculator/">
 
-If you run a plumbing, HVAC, electrical, roofing, or any other local service business, your phone is still where most new work starts — and it's also where most of it quietly disappears. This free missed call cost calculator turns your own call volume into a real dollar figure, using the same call-abandonment research call centers and answering services use to price their own tools. Enter four numbers below and the ledger does the rest: how many jobs you're likely losing every month, and how much of that is realistically recoverable without hiring anyone new.
+<meta property="og:type" content="website">
+<meta property="og:title" content="Missed Call Cost Calculator for Local Service Businesses">
+<meta property="og:description" content="See exactly how much unanswered calls are costing your local service business, per month and per year — and what's realistically recoverable.">
+<meta property="og:url" content="https://jredmonson.github.io/missed-call-cost-calculator/">
+<meta property="og:site_name" content="ProAffiliateVault">
 
-01 — Run your numbers
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Missed Call Cost Calculator for Local Service Businesses">
+<meta name="twitter:description" content="See exactly how much unanswered calls are costing your local service business, per month and per year.">
 
-Call Volume Worksheet
-FORM MCL‑01
-Calls your phone gets, per week
-40
-calls
-Count every inbound ring — new and returning customers
-Share of those calls that go unanswered
-30
-%
-Small businesses average 62% — be honest, not optimistic
-Average value of one customer or job
-$
-350
-First ticket, service call, or booking — not lifetime value
-Close rate on calls you do answer
-35
-%
-Of the calls you pick up, how many become paying work
-Pre-filled with sample numbers so you can see how the ledger works — swap in your own above.
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Missed Call Cost Calculator for Local Service Businesses",
+  "description": "Free calculator showing exactly how much unanswered calls cost your plumbing, HVAC, electrical, roofing, or home service business per month and per year.",
+  "author": { "@type": "Person", "name": "JR Edmonson" },
+  "publisher": { "@type": "Organization", "name": "ProAffiliateVault" },
+  "mainEntityOfPage": "https://jredmonson.github.io/missed-call-cost-calculator/",
+  "url": "https://jredmonson.github.io/missed-call-cost-calculator/"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jredmonson.github.io/" },
+    { "@type": "ListItem", "position": 2, "name": "Missed Call Cost Calculator", "item": "https://jredmonson.github.io/missed-call-cost-calculator/" }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many calls does the average small business actually miss?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Industry benchmarks put the number at roughly 62% of inbound calls going unanswered for small businesses without a dedicated receptionist, and higher for solo operators and crews who are on job sites most of the day. Your own rate is almost certainly different, which is exactly why the worksheet on this page uses your real numbers instead of that average." }
+    },
+    {
+      "@type": "Question",
+      "name": "What's the difference between a missed-call text-back and an AI voice receptionist?",
+      "acceptedAnswer": { "@type": "Answer", "text": "A missed-call text-back sends an automatic SMS the moment a call goes unanswered, so the caller gets a response even if nobody's available. An AI voice receptionist actually answers the call live and can book the job on the spot. Most local service businesses eventually run both: text-back for after-hours and overflow, AI answering for calls during business hours." }
+    },
+    {
+      "@type": "Question",
+      "name": "Does missed-call text-back really work for home service businesses like plumbing or HVAC?",
+      "acceptedAnswer": { "@type": "Answer", "text": "Yes, it tends to perform especially well for trades, because the caller usually has an urgent problem such as a leak or no AC and will respond to a text asking what they need rather than waiting on hold or calling a competitor." }
+    },
+    {
+      "@type": "Question",
+      "name": "How accurate is this missed call cost calculator?",
+      "acceptedAnswer": { "@type": "Answer", "text": "It's a planning estimate, not an audit. It applies published industry benchmarks for call-abandonment and text-back response rates to the numbers you enter. The inputs matter more than the assumptions: the more honestly you estimate your own call volume and close rate, the more useful the output." }
+    },
+    {
+      "@type": "Question",
+      "name": "How fast can a missed-call text-back actually go live?",
+      "acceptedAnswer": { "@type": "Answer", "text": "For most local service businesses, a missed-call instant text-back can be set up and running on your existing business number within about a week, with no new phone system and no additional hires required." }
+    }
+  ]
+}
+</script>
 
-02 — Your ledger
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders:wght@600;700;800&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;1,400&family=IBM+Plex+Mono:wght@500;600;700&display=swap');
 
-Weekly Call Tally
-Calls placed to your business
-40
-Answered by a person
-28
-Went unanswered
-12
-  → never call back (85%, industry avg.)
-10
-Customers lost, per week
-4
-Customers lost, per month
-16
-Estimated loss / month
-$5,429
-Estimated loss / year
-$64,974
-Recoverable with instant text‑back
-$12,995
-Recoverable — not written off yet
-03 — Why this keeps happening
+  :root{
+    --paper: #e9edf0;
+    --paper-raised: #f6f8f9;
+    --ink: #16202c;
+    --ink-soft: #3f4c5a;
+    --ink-faint: #6b7885;
+    --rule: #c3ccd3;
+    --rule-strong: #9aa7b0;
+    --red: #c22336;
+    --red-ink: #a11c2c;
+    --brass: #8a6a1c;
+    --brass-bg: #f1e6c8;
+    --focus: #1f6fb2;
+    --shadow: 220 25% 30%;
+  }
 
-A ringing phone feels like a small thing to miss — you were on a roof, under a sink, mid-appointment with someone who already paid you. But the caller on the other end doesn't know that. They just know nobody picked up, and they have four more numbers to try.
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --paper: #141a20;
+      --paper-raised: #1b232b;
+      --ink: #e9edf0;
+      --ink-soft: #b6c0c8;
+      --ink-faint: #8994a0;
+      --rule: #384450;
+      --rule-strong: #4c5966;
+      --red: #ff6b7a;
+      --red-ink: #ff8894;
+      --brass: #e0c069;
+      --brass-bg: #2c2716;
+      --focus: #6cb2ee;
+      --shadow: 220 40% 4%;
+    }
+  }
+  :root[data-theme="dark"]{
+    --paper: #141a20;
+    --paper-raised: #1b232b;
+    --ink: #e9edf0;
+    --ink-soft: #b6c0c8;
+    --ink-faint: #8994a0;
+    --rule: #384450;
+    --rule-strong: #4c5966;
+    --red: #ff6b7a;
+    --red-ink: #ff8894;
+    --brass: #e0c069;
+    --brass-bg: #2c2716;
+    --focus: #6cb2ee;
+    --shadow: 220 40% 4%;
+  }
 
-62%
-of calls to small businesses go unanswered
-411 Locals / industry benchmark
-85%
-of callers who don't reach a person never call back
-PATLive
-10–15×
-higher conversion for phone leads vs. web form leads
-BIA/Kelsey
-None of this is unique to any one trade. Plumbers, electricians, HVAC contractors, roofers, garage door companies, salons, and independent contractors all run into the same wall: the person calling isn't shopping around because they distrust you — they're shopping around because you didn't answer. Speed matters more than almost anything else in that moment. Research from Harvard Business Review and MIT found that businesses responding to a new lead within five minutes are roughly 100 times more likely to actually make contact than those who wait half an hour, and 78% of customers end up hiring whoever answers first, not whoever quoted the lowest price. That's the real cost of a missed call: it's rarely that the customer decided not to buy. It's that somebody else's phone got answered first.
+  *{box-sizing:border-box;}
+  html{ background: var(--paper); }
+  body{
+    margin:0;
+    background:var(--paper);
+    color:var(--ink);
+    font-family:'Libre Franklin', 'Segoe UI', sans-serif;
+    line-height:1.55;
+  }
+  ::selection{ background: var(--brass-bg); color: var(--ink); }
 
-04 — What a missed call actually costs, by trade
+  .wrap{
+    max-width: 780px;
+    margin: 0 auto;
+    padding: 0 20px 80px;
+  }
 
-The exact dollar amount depends heavily on what you sell. A missed call for a $150 drain cleaning job stings a lot less than a missed call for a full HVAC system replacement — but the pattern holds across nearly every local service category:
+  a{ color: var(--focus); }
+  a:focus-visible, button:focus-visible, input:focus-visible{
+    outline: 3px solid var(--focus);
+    outline-offset: 2px;
+  }
 
-Plumbers, electricians & HVAC companies
-$275–$1,200 / job · $45K–$120K / yr lost
-Roofers & general contractors
-Often a missed 5–6 figure estimate
-Salons, spas & personal-care businesses
-$35K–$67K / yr lost
-Dental & medical practices
-~$850 / new-patient call · $100K–$150K / yr
-Law firms & professional services
-$5,000+ / missed inquiry
-Whatever category your business falls into, the worksheet above is built to use your own average job value and call volume instead of an industry-wide guess — so plug in your real numbers rather than relying on someone else's averages.
+  /* ---------- Masthead ---------- */
+  .masthead{
+    padding: 44px 0 26px;
+    border-bottom: 3px double var(--rule-strong);
+    margin-bottom: 28px;
+  }
+  .eyebrow{
+    font-family:'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom: 14px;
+  }
+  .eyebrow::before{
+    content:"";
+    width:8px;height:8px;
+    background:var(--red);
+    display:inline-block;
+    border-radius:50%;
+  }
+  h1{
+    font-family:'Big Shoulders', sans-serif;
+    font-weight:800;
+    font-size: clamp(2.6rem, 7vw, 4.4rem);
+    line-height: .92;
+    letter-spacing: -.01em;
+    text-transform: uppercase;
+    margin: 0 0 16px;
+    text-wrap: balance;
+  }
+  .dek{
+    font-size: 1.1rem;
+    color: var(--ink-soft);
+    max-width: 46ch;
+    margin: 0;
+  }
+  .dek em{ font-style: italic; color: var(--ink); }
 
-05 — The fix that doesn't cost you a new hire
+  /* ---------- Section labels ---------- */
+  .section-label{
+    font-family:'IBM Plex Mono', monospace;
+    font-size: 12px;
+    letter-spacing:.12em;
+    text-transform:uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 10px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--rule);
+  }
 
-You don't need to answer every call — you need every missed call to get an immediate response anyway. That's the entire idea behind an instant text-back: the second a call goes unanswered, the caller gets a text from your business number within seconds, before they've even set the phone down.
+  section{ margin-bottom: 46px; }
 
-1
-Missed Call → Instant Text
-The caller gets a reply in under 10 seconds — "Sorry we missed you, this is [Business] — how can we help?" — while the job is still fresh in their mind, not lost to the next name on their list.
+  .lede{ margin-bottom: 40px; }
+  .lede p{ font-size: 1.02rem; color: var(--ink-soft); max-width: 62ch; margin:0; }
+  .lede strong{ color: var(--ink); }
 
-2
-Catches the ones who'd never call back
-Automated missed-call texts see roughly 15–25% reply rates — a real slice of the 85% who were otherwise gone for good, recovered without you lifting the phone.
+  /* ---------- Calculator card ---------- */
+  .ticket{
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    box-shadow: 0 1px 0 var(--rule), 0 12px 28px -18px hsl(var(--shadow) / .6);
+    padding: 28px;
+    position: relative;
+  }
+  .ticket::before{
+    content:"";
+    position:absolute;
+    left:0; right:0; top:0;
+    height:4px;
+    background: repeating-linear-gradient(90deg, var(--red) 0 14px, transparent 14px 24px);
+    opacity:.85;
+  }
+  .ticket-head{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    gap:12px;
+    margin-bottom:22px;
+    flex-wrap:wrap;
+  }
+  .ticket-head h2{
+    font-family:'Big Shoulders', sans-serif;
+    font-weight:700;
+    text-transform:uppercase;
+    font-size:1.5rem;
+    margin:0;
+    letter-spacing:.01em;
+  }
+  .ticket-no{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12px;
+    color:var(--ink-faint);
+  }
 
-3
-Pairs with a live AI receptionist for the rest
-Text-back recovers the callers willing to text. An AI voice receptionist answers the ones who want to talk to someone right now — so the phone effectively never goes unanswered again.
+  .field-grid{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px 22px;
+  }
+  @media (max-width: 560px){ .field-grid{ grid-template-columns: 1fr; } }
 
-How this ledger calculates its numbers
-06 — Frequently asked questions
+  .field{ display:flex; flex-direction:column; gap:6px; }
+  .field label{
+    font-size:13px;
+    font-weight:600;
+    color: var(--ink-soft);
+  }
+  .field .hint{
+    font-size:12px;
+    color: var(--ink-faint);
+  }
+  .field-input{
+    display:flex;
+    align-items:center;
+    border-bottom: 2px solid var(--rule-strong);
+    padding: 6px 2px;
+    gap:6px;
+  }
+  .field-input:focus-within{ border-color: var(--focus); }
+  .field-input .prefix, .field-input .suffix{
+    font-family:'IBM Plex Mono', monospace;
+    color: var(--ink-faint);
+    font-size: 15px;
+  }
+  .field-input input{
+    border:0;
+    background:transparent;
+    color: var(--ink);
+    font-family:'IBM Plex Mono', monospace;
+    font-size: 17px;
+    font-variant-numeric: tabular-nums;
+    width:100%;
+    padding: 2px 0;
+  }
 
-How many calls does the average small business actually miss?
-Industry benchmarks put the number at roughly 62% of inbound calls going unanswered for small businesses without a dedicated receptionist, and higher for solo operators and crews who are on job sites most of the day. Your own rate is almost certainly different, which is exactly why the worksheet above uses your real numbers instead of that average.
+  .example-note{
+    margin-top:16px;
+    font-size:12.5px;
+    color: var(--ink-faint);
+    font-style: italic;
+  }
 
-What's the difference between a missed-call text-back and an AI voice receptionist?
-A missed-call text-back sends an automatic SMS the moment a call goes unanswered, so the caller gets a response even if nobody's available. An AI voice receptionist actually answers the call live and can book the job on the spot. Most local service businesses eventually run both: text-back for after-hours and overflow, AI answering for calls during business hours.
+  /* ---------- Receipt ---------- */
+  .receipt-wrap{ margin-top: 30px; }
+  .receipt{
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    padding: 26px 26px 20px;
+    font-family:'IBM Plex Mono', monospace;
+    position:relative;
+  }
+  .receipt-title{
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing:.16em;
+    font-size:12px;
+    color: var(--ink-faint);
+    margin-bottom:16px;
+    padding-bottom:14px;
+    border-bottom: 1px dashed var(--rule-strong);
+  }
+  .rline{
+    display:flex;
+    justify-content:space-between;
+    gap: 10px;
+    font-size: 13.5px;
+    padding: 5px 0;
+    color: var(--ink-soft);
+  }
+  .rline .v{ font-variant-numeric: tabular-nums; color: var(--ink); }
+  .rline.dim{ color: var(--ink-faint); }
+  .rline.dim .v{ color: var(--ink-faint); }
+  .rdiv{ border-top: 1px dashed var(--rule-strong); margin: 12px 0; }
 
-Does missed-call text-back really work for home service businesses like plumbing or HVAC?
-Yes — it tends to perform especially well for trades, because the caller usually has an urgent problem such as a leak or no AC, and will respond to a text asking what they need rather than waiting on hold or calling a competitor.
+  .total-row{
+    display:flex;
+    justify-content:space-between;
+    align-items:baseline;
+    padding-top: 6px;
+  }
+  .total-row .label{
+    font-size:13px;
+    text-transform:uppercase;
+    letter-spacing:.06em;
+    color: var(--ink-soft);
+  }
+  .total-row .amount{
+    font-size: 2.1rem;
+    font-weight:700;
+    color: var(--red-ink);
+    font-variant-numeric: tabular-nums;
+  }
+  .total-row.recover .amount{ color: var(--brass); }
+  .total-row.recover .label{ color: var(--ink-soft); }
 
-How accurate is this missed call cost calculator?
-It's a planning estimate, not an audit. It applies published industry benchmarks for call-abandonment and text-back response rates to the numbers you enter. The inputs matter more than the assumptions — the more honestly you estimate your own call volume and close rate, the more useful the output.
+  .stamp{
+    display:inline-block;
+    border: 2.5px solid var(--red);
+    color: var(--red-ink);
+    font-family:'IBM Plex Mono', monospace;
+    font-weight:700;
+    font-size:12px;
+    letter-spacing:.1em;
+    text-transform:uppercase;
+    padding: 5px 10px;
+    transform: rotate(-3deg);
+    border-radius: 3px;
+    margin-top: 14px;
+  }
 
-How fast can a missed-call text-back actually go live?
-For most local service businesses, a missed-call instant text-back can be set up and running on your existing business number within about a week — no new phone system and no additional hires required.
+  /* ---------- Stat callouts ---------- */
+  .stat-row{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--rule);
+    border: 1px solid var(--rule);
+    margin: 22px 0 8px;
+  }
+  @media (max-width: 640px){ .stat-row{ grid-template-columns: 1fr; } }
+  .stat{
+    background: var(--paper-raised);
+    padding: 20px 18px;
+  }
+  .stat .num{
+    font-family:'Big Shoulders', sans-serif;
+    font-weight:800;
+    font-size: 2.6rem;
+    line-height:1;
+    color: var(--red-ink);
+  }
+  .stat .cap{
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    margin-top: 8px;
+  }
+  .stat .src{
+    font-size:11px;
+    color: var(--ink-faint);
+    margin-top:6px;
+    font-family:'IBM Plex Mono', monospace;
+  }
 
-Left on the table, this year
-$64,974
-A missed-call instant text-back is usually live on your business number within a week — no new phone system, no new hire.
+  /* ---------- Prose ---------- */
+  .prose{ max-width: 62ch; }
+  .prose p{ margin: 0 0 16px; color: var(--ink-soft); }
+  .prose strong{ color: var(--ink); }
+  h3{
+    font-family:'Big Shoulders', sans-serif;
+    font-weight:700;
+    text-transform: uppercase;
+    font-size: 1.6rem;
+    letter-spacing:.005em;
+    margin: 0 0 12px;
+  }
 
-See How to Fix This →
-A free tool from ProAffiliateVault
-Estimates for planning purposes only
+  /* ---------- Trade rate card ---------- */
+  .trade-card{
+    background: var(--paper-raised);
+    border: 1px solid var(--rule);
+    margin-top: 18px;
+  }
+  .trade-row{
+    display:flex;
+    justify-content:space-between;
+    gap: 16px;
+    padding: 14px 18px;
+    border-bottom: 1px solid var(--rule);
+    align-items:baseline;
+  }
+  .trade-row:last-child{ border-bottom:0; }
+  .trade-row .who{ font-size:14px; color:var(--ink); font-weight:600; max-width:30ch; }
+  .trade-row .figure{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13.5px;
+    color: var(--red-ink);
+    text-align:right;
+    white-space:nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .fix-list{
+    list-style:none;
+    margin: 18px 0 0;
+    padding:0;
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+  }
+  .fix-list li{
+    display:grid;
+    grid-template-columns: 34px 1fr;
+    gap:14px;
+    align-items:start;
+    padding-bottom:14px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .fix-list li:last-child{ border-bottom:0; }
+  .fix-list .tick{
+    font-family:'IBM Plex Mono', monospace;
+    color: var(--red-ink);
+    font-weight:700;
+    font-size:14px;
+    border: 1.5px solid var(--rule-strong);
+    width:34px; height:34px;
+    display:flex; align-items:center; justify-content:center;
+    border-radius:50%;
+  }
+  .fix-list h4{
+    margin:0 0 4px;
+    font-size:15.5px;
+    color: var(--ink);
+  }
+  .fix-list p{ margin:0; color:var(--ink-soft); font-size:14px; }
+
+  /* ---------- FAQ ---------- */
+  .faq{
+    display:flex;
+    flex-direction:column;
+    gap: 0;
+    margin-top: 18px;
+  }
+  .faq-item{
+    padding: 18px 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .faq-item:last-child{ border-bottom:0; }
+  .faq-item h4{
+    margin:0 0 8px;
+    font-size: 15.5px;
+    color: var(--ink);
+    font-weight:700;
+  }
+  .faq-item p{
+    margin:0;
+    font-size: 14px;
+    color: var(--ink-soft);
+    max-width: 62ch;
+  }
+
+  /* ---------- CTA ---------- */
+  .cta{
+    background: var(--ink);
+    color: var(--paper);
+    padding: 40px 30px;
+    text-align:center;
+  }
+  .cta .amount-line{
+    font-family:'IBM Plex Mono', monospace;
+    font-size:13px;
+    letter-spacing:.1em;
+    text-transform:uppercase;
+    opacity:.7;
+    margin-bottom: 8px;
+  }
+  .cta .amount{
+    font-family:'Big Shoulders', sans-serif;
+    font-weight:800;
+    font-size: clamp(2.2rem, 7vw, 3.4rem);
+    line-height:1;
+    margin-bottom: 18px;
+  }
+  .cta p.lead{
+    max-width: 46ch;
+    margin: 0 auto 26px;
+    opacity: .85;
+    font-size: 15px;
+  }
+  .btn-row{
+    display:flex;
+    gap:14px;
+    justify-content:center;
+    flex-wrap:wrap;
+  }
+  .btn{
+    font-family:'Libre Franklin', sans-serif;
+    font-weight:700;
+    font-size:15px;
+    text-decoration:none;
+    padding: 15px 26px;
+    display:inline-block;
+    border: 2px solid transparent;
+    cursor:pointer;
+  }
+  .btn-primary{
+    background: var(--red);
+    color: #fff8f8;
+  }
+  .btn-primary:hover{ background: var(--red-ink); }
+
+  details.method{
+    margin-top: 40px;
+    border-top: 1px solid var(--rule);
+    padding-top: 18px;
+  }
+  details.method summary{
+    cursor:pointer;
+    font-family:'IBM Plex Mono', monospace;
+    font-size:12.5px;
+    letter-spacing:.08em;
+    text-transform:uppercase;
+    color: var(--ink-faint);
+  }
+  .method ul{ margin: 14px 0 0; padding-left: 20px; color: var(--ink-soft); font-size: 13.5px; }
+  .method li{ margin-bottom: 8px; }
+
+  footer{
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 3px double var(--rule-strong);
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    gap:10px;
+    font-size:12.5px;
+    color: var(--ink-faint);
+    font-family:'IBM Plex Mono', monospace;
+  }
+  footer a{ color: var(--ink-faint); }
+
+  @media (prefers-reduced-motion: no-preference){
+    .ticket, .receipt-wrap, .stat-row{ animation: rise .5s ease both; }
+    .stat-row{ animation-delay: .05s; }
+    @keyframes rise{ from{ opacity:0; transform: translateY(8px); } to{ opacity:1; transform: translateY(0); } }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="eyebrow">For local service businesses</div>
+    <h1>The Missed&nbsp;Call Ledger</h1>
+    <p class="dek">Every unmanned ring is a job you already won and then quietly lost. <em>Enter your numbers below</em> and see exactly what it's costing you &mdash; per week, per month, per year.</p>
+  </header>
+
+  <div class="lede">
+    <p>If you run a plumbing, HVAC, electrical, roofing, or any other local service business, your phone is still where most new work starts &mdash; and it's also where most of it quietly disappears. This <strong>free missed call cost calculator</strong> turns your own call volume into a real dollar figure, using the same call-abandonment research call centers and answering services use to price their own tools. Enter four numbers below and the ledger does the rest: how many jobs you're likely losing every month, and how much of that is realistically recoverable without hiring anyone new.</p>
+  </div>
+
+  <section aria-labelledby="calc-label">
+    <p class="section-label" id="calc-label">01 &mdash; Run your numbers</p>
+    <div class="ticket">
+      <div class="ticket-head">
+        <h2>Call Volume Worksheet</h2>
+        <span class="ticket-no">FORM MCL&#8209;01</span>
+      </div>
+
+      <div class="field-grid">
+        <div class="field">
+          <label for="calls">Calls your phone gets, per week</label>
+          <div class="field-input">
+            <input type="number" id="calls" inputmode="numeric" value="40" min="0" step="1" aria-describedby="calls-hint">
+            <span class="suffix">calls</span>
+          </div>
+          <span class="hint" id="calls-hint">Count every inbound ring &mdash; new and returning customers</span>
+        </div>
+
+        <div class="field">
+          <label for="missed">Share of those calls that go unanswered</label>
+          <div class="field-input">
+            <input type="number" id="missed" inputmode="numeric" value="30" min="0" max="100" step="1" aria-describedby="missed-hint">
+            <span class="suffix">%</span>
+          </div>
+          <span class="hint" id="missed-hint">Small businesses average 62% &mdash; be honest, not optimistic</span>
+        </div>
+
+        <div class="field">
+          <label for="value">Average value of one customer or job</label>
+          <div class="field-input">
+            <span class="prefix">$</span>
+            <input type="number" id="value" inputmode="numeric" value="350" min="0" step="1">
+          </div>
+          <span class="hint">First ticket, service call, or booking &mdash; not lifetime value</span>
+        </div>
+
+        <div class="field">
+          <label for="close">Close rate on calls you do answer</label>
+          <div class="field-input">
+            <input type="number" id="close" inputmode="numeric" value="35" min="0" max="100" step="1">
+            <span class="suffix">%</span>
+          </div>
+          <span class="hint">Of the calls you pick up, how many become paying work</span>
+        </div>
+      </div>
+
+      <p class="example-note">Pre-filled with sample numbers so you can see how the ledger works &mdash; swap in your own above.</p>
+    </div>
+  </section>
+
+  <section aria-labelledby="receipt-label" class="receipt-wrap">
+    <p class="section-label" id="receipt-label">02 &mdash; Your ledger</p>
+    <div class="receipt">
+      <div class="receipt-title">Weekly Call Tally</div>
+
+      <div class="rline"><span>Calls placed to your business</span><span class="v" id="out-calls">&mdash;</span></div>
+      <div class="rline dim"><span>Answered by a person</span><span class="v" id="out-answered">&mdash;</span></div>
+      <div class="rline"><span>Went unanswered</span><span class="v" id="out-missed">&mdash;</span></div>
+      <div class="rline dim"><span>&nbsp;&nbsp;&rarr; never call back (85%, industry avg.)</span><span class="v" id="out-nocallback">&mdash;</span></div>
+      <div class="rdiv"></div>
+      <div class="rline"><span>Customers lost, per week</span><span class="v" id="out-lostweek">&mdash;</span></div>
+      <div class="rline"><span>Customers lost, per month</span><span class="v" id="out-lostmonth">&mdash;</span></div>
+
+      <div class="rdiv"></div>
+
+      <div class="total-row">
+        <span class="label">Estimated loss / month</span>
+        <span class="amount" id="out-lossmonth">$&mdash;</span>
+      </div>
+      <div class="total-row">
+        <span class="label">Estimated loss / year</span>
+        <span class="amount" id="out-lossyear">$&mdash;</span>
+      </div>
+
+      <div class="rdiv"></div>
+
+      <div class="total-row recover">
+        <span class="label">Recoverable with instant text&#8209;back</span>
+        <span class="amount" id="out-recover">$&mdash;</span>
+      </div>
+      <div class="stamp">Recoverable &mdash; not written off yet</div>
+    </div>
+  </section>
+
+  <section aria-labelledby="why-label">
+    <p class="section-label" id="why-label">03 &mdash; Why this keeps happening</p>
+    <div class="prose">
+      <p>A ringing phone feels like a small thing to miss &mdash; you were on a roof, under a sink, mid-appointment with someone who already paid you. But the caller on the other end doesn't know that. They just know nobody picked up, and they have four more numbers to try.</p>
+    </div>
+
+    <div class="stat-row">
+      <div class="stat">
+        <div class="num">62%</div>
+        <div class="cap">of calls to small businesses go unanswered</div>
+        <div class="src">411 Locals / industry benchmark</div>
+      </div>
+      <div class="stat">
+        <div class="num">85%</div>
+        <div class="cap">of callers who don't reach a person never call back</div>
+        <div class="src">PATLive</div>
+      </div>
+      <div class="stat">
+        <div class="num">10&ndash;15&times;</div>
+        <div class="cap">higher conversion for phone leads vs. web form leads</div>
+        <div class="src">BIA/Kelsey</div>
+      </div>
+    </div>
+
+    <div class="prose" style="margin-top:22px;">
+      <p>None of this is unique to any one trade. Plumbers, electricians, HVAC contractors, roofers, garage door companies, salons, and independent contractors all run into the same wall: the person calling isn't shopping around because they distrust you &mdash; they're shopping around because you didn't answer. Speed matters more than almost anything else in that moment. Research from Harvard Business Review and MIT found that businesses responding to a new lead within five minutes are roughly <strong>100 times more likely</strong> to actually make contact than those who wait half an hour, and <strong>78% of customers</strong> end up hiring whoever answers first, not whoever quoted the lowest price. That's the real cost of a missed call: it's rarely that the customer decided not to buy. It's that somebody else's phone got answered first.</p>
+    </div>
+  </section>
+
+  <section aria-labelledby="trade-label">
+    <p class="section-label" id="trade-label">04 &mdash; What a missed call actually costs, by trade</p>
+    <div class="prose">
+      <p>The exact dollar amount depends heavily on what you sell. A missed call for a $150 drain cleaning job stings a lot less than a missed call for a full HVAC system replacement &mdash; but the pattern holds across nearly every local service category:</p>
+    </div>
+    <div class="trade-card">
+      <div class="trade-row">
+        <span class="who">Plumbers, electricians &amp; HVAC companies</span>
+        <span class="figure">$275&ndash;$1,200 / job &middot; $45K&ndash;$120K / yr lost</span>
+      </div>
+      <div class="trade-row">
+        <span class="who">Roofers &amp; general contractors</span>
+        <span class="figure">Often a missed 5&ndash;6 figure estimate</span>
+      </div>
+      <div class="trade-row">
+        <span class="who">Salons, spas &amp; personal-care businesses</span>
+        <span class="figure">$35K&ndash;$67K / yr lost</span>
+      </div>
+      <div class="trade-row">
+        <span class="who">Dental &amp; medical practices</span>
+        <span class="figure">~$850 / new-patient call &middot; $100K&ndash;$150K / yr</span>
+      </div>
+      <div class="trade-row">
+        <span class="who">Law firms &amp; professional services</span>
+        <span class="figure">$5,000+ / missed inquiry</span>
+      </div>
+    </div>
+    <div class="prose" style="margin-top:18px;">
+      <p>Whatever category your business falls into, the worksheet above is built to use <strong>your own</strong> average job value and call volume instead of an industry-wide guess &mdash; so plug in your real numbers rather than relying on someone else's averages.</p>
+    </div>
+  </section>
+
+  <section aria-labelledby="fix-label">
+    <p class="section-label" id="fix-label">05 &mdash; The fix that doesn't cost you a new hire</p>
+    <div class="prose">
+      <p>You don't need to answer every call &mdash; you need every missed call to get <strong>an immediate response anyway</strong>. That's the entire idea behind an instant text-back: the second a call goes unanswered, the caller gets a text from your business number within seconds, before they've even set the phone down.</p>
+    </div>
+    <ul class="fix-list">
+      <li>
+        <span class="tick">1</span>
+        <div>
+          <h4>Missed Call &rarr; Instant Text</h4>
+          <p>The caller gets a reply in under 10 seconds &mdash; "Sorry we missed you, this is [Business] &mdash; how can we help?" &mdash; while the job is still fresh in their mind, not lost to the next name on their list.</p>
+        </div>
+      </li>
+      <li>
+        <span class="tick">2</span>
+        <div>
+          <h4>Catches the ones who'd never call back</h4>
+          <p>Automated missed-call texts see roughly 15&ndash;25% reply rates &mdash; a real slice of the 85% who were otherwise gone for good, recovered without you lifting the phone.</p>
+        </div>
+      </li>
+      <li>
+        <span class="tick">3</span>
+        <div>
+          <h4>Pairs with a live AI receptionist for the rest</h4>
+          <p>Text-back recovers the callers willing to text. An AI voice receptionist answers the ones who want to talk to someone right now &mdash; so the phone effectively never goes unanswered again.</p>
+        </div>
+      </li>
+    </ul>
+
+    <details class="method">
+      <summary>How this ledger calculates its numbers</summary>
+      <ul>
+        <li>Unanswered calls are assumed lost for good at an 85% rate unless recovered (PATLive) &mdash; the remaining 15% call back on their own regardless of any fix.</li>
+        <li>Lost customers = unanswered calls &times; 85% &times; your close rate, extrapolated across weeks, months, and a year.</li>
+        <li>Recoverable revenue applies a 20% response rate (the midpoint of the 15&ndash;25% range typically seen for automated missed-call texts) against your close rate.</li>
+        <li>These are planning estimates built from your own inputs and published industry benchmarks &mdash; not a guarantee, and not a substitute for tracking your actual call log.</li>
+      </ul>
+    </details>
+  </section>
+
+  <section aria-labelledby="faq-label">
+    <p class="section-label" id="faq-label">06 &mdash; Frequently asked questions</p>
+    <div class="faq">
+      <div class="faq-item">
+        <h4>How many calls does the average small business actually miss?</h4>
+        <p>Industry benchmarks put the number at roughly 62% of inbound calls going unanswered for small businesses without a dedicated receptionist, and higher for solo operators and crews who are on job sites most of the day. Your own rate is almost certainly different, which is exactly why the worksheet above uses your real numbers instead of that average.</p>
+      </div>
+      <div class="faq-item">
+        <h4>What's the difference between a missed-call text-back and an AI voice receptionist?</h4>
+        <p>A missed-call text-back sends an automatic SMS the moment a call goes unanswered, so the caller gets a response even if nobody's available. An AI voice receptionist actually answers the call live and can book the job on the spot. Most local service businesses eventually run both: text-back for after-hours and overflow, AI answering for calls during business hours.</p>
+      </div>
+      <div class="faq-item">
+        <h4>Does missed-call text-back really work for home service businesses like plumbing or HVAC?</h4>
+        <p>Yes &mdash; it tends to perform especially well for trades, because the caller usually has an urgent problem such as a leak or no AC, and will respond to a text asking what they need rather than waiting on hold or calling a competitor.</p>
+      </div>
+      <div class="faq-item">
+        <h4>How accurate is this missed call cost calculator?</h4>
+        <p>It's a planning estimate, not an audit. It applies published industry benchmarks for call-abandonment and text-back response rates to the numbers you enter. The inputs matter more than the assumptions &mdash; the more honestly you estimate your own call volume and close rate, the more useful the output.</p>
+      </div>
+      <div class="faq-item">
+        <h4>How fast can a missed-call text-back actually go live?</h4>
+        <p>For most local service businesses, a missed-call instant text-back can be set up and running on your existing business number within about a week &mdash; no new phone system and no additional hires required.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta" aria-labelledby="cta-label">
+    <div class="amount-line" id="cta-label">Left on the table, this year</div>
+    <div class="amount" id="cta-amount">$&mdash;</div>
+    <p class="lead">A missed-call instant text-back is usually live on your business number within a week &mdash; no new phone system, no new hire.</p>
+    <div class="btn-row">
+      <a class="btn btn-primary" href="https://agency.jredmonson.com/agency-services/" target="_blank" rel="noopener">See How to Fix This &rarr;</a>
+    </div>
+  </section>
+
+  <footer>
+    <span>A free tool from ProAffiliateVault</span>
+    <span>Estimates for planning purposes only</span>
+  </footer>
+
+</div>
+
+<script>
+(function(){
+  const $ = id => document.getElementById(id);
+  const money = n => '$' + Math.round(n).toLocaleString('en-US');
+  const num = n => Math.round(n).toLocaleString('en-US');
+
+  const WEEKS_PER_MONTH = 4.345;
+  const WEEKS_PER_YEAR = 52;
+  const NEVER_CALLBACK_RATE = 0.85;
+  const TEXTBACK_RECOVERY_RATE = 0.20;
+
+  const inputs = ['calls','missed','value','close'].map($);
+
+  function clampPct(v){ return Math.min(100, Math.max(0, v)); }
+
+  function recalc(){
+    const calls = Math.max(0, Number($('calls').value) || 0);
+    const missedPct = clampPct(Number($('missed').value) || 0) / 100;
+    const value = Math.max(0, Number($('value').value) || 0);
+    const closePct = clampPct(Number($('close').value) || 0) / 100;
+
+    const missed = calls * missedPct;
+    const answered = calls - missed;
+    const neverCallBack = missed * NEVER_CALLBACK_RATE;
+    const lostCustomersWeek = neverCallBack * closePct;
+    const lostCustomersMonth = lostCustomersWeek * WEEKS_PER_MONTH;
+
+    const lossPerWeek = lostCustomersWeek * value;
+    const lossPerMonth = lossPerWeek * WEEKS_PER_MONTH;
+    const lossPerYear = lossPerWeek * WEEKS_PER_YEAR;
+
+    const recoveredCustomersWeek = neverCallBack * TEXTBACK_RECOVERY_RATE * closePct;
+    const recoveredPerYear = recoveredCustomersWeek * value * WEEKS_PER_YEAR;
+
+    $('out-calls').textContent = num(calls);
+    $('out-answered').textContent = num(answered);
+    $('out-missed').textContent = num(missed);
+    $('out-nocallback').textContent = num(neverCallBack);
+    $('out-lostweek').textContent = num(lostCustomersWeek);
+    $('out-lostmonth').textContent = num(lostCustomersMonth);
+
+    $('out-lossmonth').textContent = money(lossPerMonth);
+    $('out-lossyear').textContent = money(lossPerYear);
+    $('out-recover').textContent = money(recoveredPerYear);
+
+    $('cta-amount').textContent = money(lossPerYear);
+  }
+
+  inputs.forEach(el => el.addEventListener('input', recalc));
+  recalc();
+})();
+</script>
+</body>
+</html>
