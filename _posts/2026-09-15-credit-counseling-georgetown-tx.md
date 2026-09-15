@@ -70,7 +70,6 @@ Credit counseling costs in the Georgetown area typically range from free for the
 | Credit report review | Usually included |
 | Bankruptcy pre-filing counseling (required by law) | $25-$50 |
 
-[insert verified stat + source] on average national debt enrolled in DMPs would strengthen this section if you can confirm a current figure from NFCC's published data.
 
 ## What Happens During a Credit Counseling Session
 

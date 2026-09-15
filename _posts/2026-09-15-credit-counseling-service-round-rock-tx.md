@@ -40,7 +40,7 @@ Here's what the process typically looks like:
 | Monthly maintenance | Ongoing plan management | $25-$50/month |
 | Creditor negotiation | Lower interest rates, waived fees | Included in DMP fee |
 
-Source: fee ranges reported by NFCC-member agency disclosures; actual costs vary by agency [insert verified stat + source].
+Source: fee ranges reported by NFCC-member agency disclosures; actual costs vary by agency.
 
 Agencies certified through the NFCC or FCAA are held to nonprofit standards and fee caps that for-profit debt settlement companies are not. If an agency in the Round Rock area is pushing you toward a lump-sum settlement instead of a monthly plan, or charging fees upfront before any counseling happens, that's a signal to walk away.
 

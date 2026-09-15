@@ -39,7 +39,7 @@ Most nonprofit credit counseling agencies operating in or serving Hays County ch
 | Bankruptcy pre-filing counseling (required by law) | $10 - $50 |
 | Credit report review consultation | Often free with enrollment |
 
-These ranges reflect standard industry structures at nonprofit agencies; ask any agency you contact for their fee schedule in writing before signing up. [insert verified stat + source] on average San Marcos-area enrollment fees would strengthen this if you have local data.
+These ranges reflect standard industry structures at nonprofit agencies; ask any agency you contact for their fee schedule in writing before signing up.
 
 ## Why Do Students in San Marcos Need a Different Approach?
 
