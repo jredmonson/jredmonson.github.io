@@ -52,7 +52,7 @@ Business attorneys in the Georgetown/Williamson County area generally bill $250 
 
 A rough cost picture for common needs:
 
-- **LLC or corporation formation (flat fee):** [insert verified stat + source] — often bundled with an operating agreement
+- **LLC or corporation formation (flat fee):** often bundled with an operating agreement
 - **Contract review (hourly):** typically 1-3 hours of attorney time per document
 - **Ongoing general counsel retainer:** monthly retainers exist but are usually reserved for businesses with $1M+ revenue or frequent legal needs
 - **Single consultation:** many firms charge for an initial consult; some offer a free 15-30 minute intro call

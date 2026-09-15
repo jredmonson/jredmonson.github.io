@@ -42,7 +42,7 @@ Pricing generally breaks down like this:
 | LLC formation | $500-$1,200 |
 | Monthly retainer (ongoing counsel) | $1,500-$3,000+ |
 
-These are regional estimates based on typical small-firm billing patterns in the Austin metro; ask any attorney for a written fee agreement before engaging them, since rates vary by firm size and specialty. [insert verified stat + source] if you want a current Travis County bar association benchmark.
+These are regional estimates based on typical small-firm billing patterns in the Austin metro; ask any attorney for a written fee agreement before engaging them, since rates vary by firm size and specialty.
 
 ## Why Vendor Contracts Are a Common Trigger for Legal Help
 

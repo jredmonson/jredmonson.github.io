@@ -108,7 +108,7 @@ A: Yes, Texas allows self-filing directly with the Secretary of State. This work
 A: LegalShield membership plans typically include attorney consultation and document review, which can cover formation questions and operating agreement review, depending on the plan. Check current [plan details and pricing](https://lilliearnold.legalshieldassociate.com/) for specifics on what's included.
 
 **Q: What's the Texas Franchise Tax threshold for a new LLC?**
-A: Texas has a no-tax-due threshold below which small LLCs owe no franchise tax, but a report is still required annually regardless of revenue. [insert verified stat + source] for the current threshold amount, since it is adjusted periodically.
+A: Texas has a no-tax-due threshold below which small LLCs owe no franchise tax, but a report is still required annually regardless of revenue. The exact threshold amount is adjusted periodically, so check the Texas Comptroller's site for the current figure.
 
 <script type="application/ld+json">
 {
