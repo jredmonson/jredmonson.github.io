@@ -83,6 +83,9 @@ KNOWN_ROUTES = [
     "https://jredmonson.github.io/law/estate-planning-attorney-georgetown-tx/",
     "https://jredmonson.github.io/law/family-law-attorney-georgetown-tx/",
     "https://jredmonson.github.io/law/real-estate-attorney-georgetown-tx/",
+    # Corporate/Business + Credit Counseling pillars (Sep 15, 2026)
+    "https://jredmonson.github.io/law/corporate-attorney-georgetown-tx/",
+    "https://jredmonson.github.io/law/credit-counseling-georgetown-tx/",
 ]
 
 WORD_COUNT_MIN = {"pillar": 2000, "cluster": 800}
