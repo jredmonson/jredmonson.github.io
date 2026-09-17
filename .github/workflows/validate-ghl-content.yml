@@ -1,0 +1,71 @@
+name: Validate GHL Pipeline Content
+
+# Runs automatically on every PR that touches _posts/** — the permanent,
+# no-per-round-maintenance safety net for content arriving from the
+# external GHL Workflow AI / Make.com publishing pipeline (see the
+# jrbp-blog-ranking-protocol skill). This is the CI-enforced version of the
+# repo's own "#1 RULE" (always run validate_batch.py before pushing),
+# adapted for content with no supervising Claude/JR session — it never
+# needs to be re-run manually or updated just because a new batch is going
+# out. The Jekyll build step here is the exact check that would have caught
+# the Aug 2026 outage (see jredmonson-github-io-site skill).
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "_posts/**"
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run GHL content gate (frontmatter, JRBP fields, ordering, no-overwrite)
+        run: python3 scripts/validate_ghl_post.py origin/${{ github.base_ref }} HEAD
+
+      - name: Install Jekyll
+        run: gem install jekyll -v 3.10.0 --no-document
+
+      - name: Build site (deep integrity check)
+        run: jekyll build --future
+
+      - name: Comment on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: "🚫 The GHL content gate or Jekyll build failed on this PR — see the failed step's log for exactly what to fix. Nothing here is live. Push a fixed commit to this same branch to re-run the check.",
+            });
+
+      - name: Auto-merge GHL pipeline branches once checks pass
+        if: success() && startsWith(github.head_ref, 'publish/ghl-')
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.pulls.merge({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: context.issue.number,
+              merge_method: "squash",
+            });
+
+      - name: Ping IndexNow after auto-merge
+        if: success() && startsWith(github.head_ref, 'publish/ghl-')
+        run: python3 scripts/ping_indexnow_sitemap.py
