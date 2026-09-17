@@ -12,8 +12,8 @@ money_page_links:
   - url: "https://lilliearnold.legalshieldassociate.com/"
     label: "See LegalShield Plans & Pricing"
 next_step_link:
-  url: "https://jredmonson.github.io/law/estate-planning-attorney-georgetown-tx/"
-  label: "how getting debt and credit in order fits into a broader estate plan"
+  url: "https://jredmonson.github.io/law/probate-attorney-georgetown-tx/"
+  label: "what happens to debts and the estate when someone passes away without a plan"
 ---
 
 ## Key Takeaways
@@ -136,7 +136,7 @@ Warning signs to watch for:
 - Advice to stop all creditor payments immediately
 - No physical business address or verifiable accreditation
 
-If an agency pushes you toward a settlement plan that sounds aggressive, it's worth getting a second opinion — and once debt and credit issues are under control, most people start thinking about the bigger picture, including [how getting debt and credit in order fits into a broader estate plan](https://jredmonson.github.io/law/estate-planning-attorney-georgetown-tx/).
+If an agency pushes you toward a settlement plan that sounds aggressive, it's worth getting a second opinion — and debt doesn't disappear when someone passes away, either. It's worth understanding [what happens to debts and the estate when someone passes away without a plan](https://jredmonson.github.io/law/probate-attorney-georgetown-tx/), since unresolved debt and credit issues are exactly what turn a straightforward probate case into a complicated one.
 
 ## FAQ
 

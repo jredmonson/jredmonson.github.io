@@ -2,7 +2,7 @@
   "_comment": "Weighted rotation: 3 offer posts for every 1 educational post. offer_streak tracks consecutive offer posts published. | JRBP cluster fields (Aug 2026): each topic may set `type` (pillar|cluster), `cluster` (a shared slug grouping key across a pillar and its cluster articles), and `money_page_links` (list of {url,label}, url must be in scripts/autopublish.py KNOWN_ROUTES). Validate any new batch with `python3 scripts/validate_batch.py path/to/batch.json` before merging it in here. Pillars must publish before their clusters - pick_topic() enforces this automatically. | Service Funnel Stack batch merged Aug 2026: 10 agency service pillars + 30 clusters for agency.jredmonson.com promotion, routing to https://agency.jredmonson.com/local-business-services. Cross-pillar next_step_link chain: 1->5->8->1 and 2->4->7->3->6->9->2. Pillar 10 (wordpress-development-agency) intentionally has no next_step_link - not part of either loop in JR's plan, flagged to him Aug 2026.",
   "rotation": "3:1",
   "offer_streak": 141,
-  "last_published_date": "2026-09-15",
+  "last_published_date": "2026-09-17",
   "topics": [
     {
       "id": "best-affiliate-marketing-tools-beginners",
@@ -4068,8 +4068,8 @@
         }
       ],
       "next_step_link": {
-        "url": "https://jredmonson.github.io/law/estate-planning-attorney-georgetown-tx/",
-        "label": "how getting debt and credit in order fits into a broader estate plan"
+        "url": "https://jredmonson.github.io/law/probate-attorney-georgetown-tx/",
+        "label": "what happens to debts and the estate when someone passes away without a plan"
       },
       "date": "2026-09-15"
     },
@@ -4138,6 +4138,97 @@
       ],
       "anchor": "credit counseling in San Marcos & Hays County",
       "date": "2026-09-15"
+    },
+    {
+      "id": "probate-attorney-georgetown-tx",
+      "status": "published",
+      "category": "offer",
+      "title": "Probate Attorney in Georgetown, TX: Complete Guide",
+      "keyphrase": "probate attorney georgetown tx",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "A probate attorney in Georgetown, TX guides families through Williamson County's probate court process after a death, and a prepaid legal membership can cover routine probate questions and document review for a flat monthly fee instead of hourly attorney billing.",
+      "target_question": "What should a family in Georgetown, TX know about the probate process and hiring a probate attorney?",
+      "category_tag": "law",
+      "type": "pillar",
+      "cluster": "probate-attorney-georgetown-tx",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See LegalShield Plans & Pricing"
+        }
+      ],
+      "next_step_link": {
+        "url": "https://jredmonson.github.io/law/estate-planning-attorney-georgetown-tx/",
+        "label": "how proactive estate planning can help your family avoid a difficult probate process next time"
+      },
+      "date": "2026-09-17"
+    },
+    {
+      "id": "probate-attorney-hutto-tx",
+      "status": "published",
+      "category": "offer",
+      "title": "Probate Attorney in Hutto, TX",
+      "keyphrase": "probate attorney hutto tx",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Hutto, TX families go through the same Williamson County probate court as Georgetown, and the area's rapid growth means more first-time probate cases with no prior estate planning in place.",
+      "target_question": "What should someone in Hutto, TX know about probate attorney costs and the local process?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "probate-attorney-georgetown-tx",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See LegalShield Plans & Pricing"
+        }
+      ],
+      "anchor": "probate in Hutto & Williamson County",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "taylor-tx-probate-attorney",
+      "status": "published",
+      "category": "offer",
+      "title": "Probate Attorney in Taylor, TX",
+      "keyphrase": "probate attorney taylor tx",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Taylor, TX sits at the Williamson County line, and families here often deal with probate matters involving property or heirs split across county lines.",
+      "target_question": "What should someone in Taylor, TX know about the probate process and hiring a probate attorney?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "probate-attorney-georgetown-tx",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See LegalShield Plans & Pricing"
+        }
+      ],
+      "anchor": "probate in Taylor, TX",
+      "date": "2026-09-17"
+    },
+    {
+      "id": "manor-tx-probate-attorney",
+      "status": "published",
+      "category": "offer",
+      "title": "Probate Attorney in Manor, TX",
+      "keyphrase": "probate attorney manor tx",
+      "affiliate_link": "https://lilliearnold.legalshieldassociate.com/",
+      "offer": "LegalShield",
+      "pov": "Manor, TX has seen fast residential growth on the edge of Travis County, and many new homeowners here haven't yet planned for how their estate would move through probate.",
+      "target_question": "What should someone in Manor, TX know about probate attorney costs and the local process?",
+      "category_tag": "law",
+      "type": "cluster",
+      "cluster": "probate-attorney-georgetown-tx",
+      "money_page_links": [
+        {
+          "url": "https://lilliearnold.legalshieldassociate.com/",
+          "label": "See LegalShield Plans & Pricing"
+        }
+      ],
+      "anchor": "probate in Manor, TX",
+      "date": "2026-09-17"
     }
   ]
 }

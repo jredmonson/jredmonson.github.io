@@ -86,6 +86,13 @@ KNOWN_ROUTES = [
     # Corporate/Business + Credit Counseling pillars (Sep 15, 2026)
     "https://jredmonson.github.io/law/corporate-attorney-georgetown-tx/",
     "https://jredmonson.github.io/law/credit-counseling-georgetown-tx/",
+    # Probate/Estate Litigation pillar (Sep 17, 2026) - closes out the 6-category
+    # LegalShield service line (Probate/Estate Litigation, Estate Planning, Family
+    # Law, Real Estate, Corporate/Business, Credit Counseling)
+    "https://jredmonson.github.io/law/probate-attorney-georgetown-tx/",
+    "https://jredmonson.github.io/law/probate-attorney-hutto-tx/",
+    "https://jredmonson.github.io/law/taylor-tx-probate-attorney/",
+    "https://jredmonson.github.io/law/manor-tx-probate-attorney/",
 ]
 
 WORD_COUNT_MIN = {"pillar": 2000, "cluster": 800}
