@@ -106,7 +106,7 @@ If request volume is high but completion rate is low, the problem is usually the
 
 ## Where This Fits Into Broader Local SEO
 
-Review automation isn't a standalone tactic — it feeds directly into local pack visibility. Google's local ranking factors include relevance, distance, and prominence, and prominence is influenced by review count, review recency, and average rating [insert verified stat + source]. A business generating steady review volume looks more "alive" to Google's algorithm than a competitor with 40 reviews from 2019 and nothing since.
+Review automation isn't a standalone tactic — it feeds directly into local pack visibility. Google's local ranking factors include relevance, distance, and prominence, and prominence is influenced by review count, review recency, and average rating per Google's own stated ranking factors. A business generating steady review volume looks more "alive" to Google's algorithm than a competitor with 40 reviews from 2019 and nothing since.
 
 For agencies selling GHL reputation management for local business as a service, this is the easiest ROI conversation to have with a prospect. Show them their current review count and posting frequency next to a competitor's, and the gap does the selling for you.
 

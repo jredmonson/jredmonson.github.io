@@ -111,9 +111,9 @@ Custom logo design pricing for local businesses generally falls into three tiers
 
 | Tier | Typical Range | What's Included |
 |---|---|---|
-| Marketplace freelancer | [insert verified stat + source] | Minimal discovery, 1-2 concepts, basic file package |
-| Mid-tier agency/service | [insert verified stat + source] | Structured discovery, 2-4 concepts, full file package |
-| Premium branding studio | [insert verified stat + source] | Deep brand strategy, extended concepts, full brand guidelines |
+| Marketplace freelancer | Lowest cost tier | Minimal discovery, 1-2 concepts, basic file package |
+| Mid-tier agency/service | Mid-range cost | Structured discovery, 2-4 concepts, full file package |
+| Premium branding studio | Highest cost tier | Deep brand strategy, extended concepts, full brand guidelines |
 
 The cheapest option isn't inherently a scam, and the most expensive isn't inherently better - but a price far below what a structured discovery-to-delivery process would reasonably cost in time is a sign that steps are being skipped, usually the discovery phase or the file deliverables.
 

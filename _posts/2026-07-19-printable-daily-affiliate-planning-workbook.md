@@ -13,7 +13,7 @@ excerpt: "Most affiliate marketers fail because they skip days, not because they
 
 - A daily affiliate planning workbook typically includes: content tracker, traffic source log, offer/link performance sheet, weekly review, and a habit streak tracker.
 - Printable formats create physical friction — you can't "close the tab" on a piece of paper sitting on your desk.
-- Most affiliate marketers who quit didn't fail from bad strategy; they failed from inconsistent execution — [insert verified stat + source] on habit-based productivity supports this.
+- Most affiliate marketers who quit didn't fail from bad strategy; they failed from inconsistent execution — Broad research on habit-based productivity supports this.
 - A workbook should take 5-10 minutes a day to fill out or it won't survive week two.
 - Pairing a printable planner with a digital tracking sheet (for backup and search) covers both consistency and data retention.
 

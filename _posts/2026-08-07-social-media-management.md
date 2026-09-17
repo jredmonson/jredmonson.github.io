@@ -20,7 +20,7 @@ next_step_link:
 
 - Most local businesses don't have a content-idea problem, they have a consistency and conversion problem - posting when they remember to, with no plan to turn followers into paying customers.
 - A real professional social media management service includes content planning, creation, scheduling, community management, and reporting tied to leads, not vanity metrics.
-- Pricing for local business social media management typically runs [insert verified stat + source] per month depending on platform count and posting frequency.
+- Pricing for local business social media management typically runs several hundred to a few thousand dollars per month depending on platform count and posting frequency.
 - Businesses that outsource this function usually see the biggest gains from fixing posting consistency and message-to-sale follow-through, not from fancier graphics.
 - A unified brand identity across platforms, an automated posting schedule, and a system to convert followers into customers are the three pillars that separate a working social presence from a busy-looking one.
 
@@ -79,7 +79,7 @@ If a provider can't answer these specifics in the sales call, that's information
 
 ## How Much Do Professional Social Media Management Services Cost?
 
-Professional social media management services for local businesses typically cost [insert verified stat + source] per month, scaling with the number of platforms managed, posting frequency, and whether paid ad management is included. Freelancers tend to sit at the lower end; agencies with a full content team sit higher but usually offer more consistency and backup coverage.
+Professional social media management services for local businesses typically cost several hundred to a few thousand dollars per month, scaling with the number of platforms managed, posting frequency, and whether paid ad management is included. Freelancers tend to sit at the lower end; agencies with a full content team sit higher but usually offer more consistency and backup coverage.
 
 Rough tiers we see across the local business market:
 

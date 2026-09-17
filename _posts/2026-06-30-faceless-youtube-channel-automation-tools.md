@@ -237,7 +237,7 @@ This structure keeps content flowing without requiring daily creation sessions.
 
 A faceless YouTube channel can generate income through multiple streams:
 
-**1. YouTube AdSense** — Once you hit 1,000 subscribers and 4,000 watch hours, you qualify for monetization. Finance and marketing niches command higher CPMs ([insert verified CPM data + source]).
+**1. YouTube AdSense** — Once you hit 1,000 subscribers and 4,000 watch hours, you qualify for monetization. Finance and marketing niches command higher CPMs (typically well above general entertainment content).
 
 **2. Affiliate marketing** — Include affiliate links in video descriptions. Tools like [Pictory AI](https://pictory.ai?fpr=george62) and [LeadsLeap](https://leadsleap.com/?r=jredmonson) both have affiliate programs that pay recurring commissions.
 

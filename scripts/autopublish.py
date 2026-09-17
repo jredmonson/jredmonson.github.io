@@ -90,6 +90,18 @@ KNOWN_ROUTES = [
 
 WORD_COUNT_MIN = {"pillar": 2000, "cluster": 800}
 
+# Catches the exact failure mode found 9/15/2026: the model writing a literal
+# unfilled placeholder like "[insert verified stat + source]" straight into a
+# published article body instead of a real citation or a clean omission. This
+# is a content-safety net independent of the system-prompt fix above - if the
+# model ever ignores the instruction (or an older/different prompt is used),
+# this stops the post from being committed at all rather than shipping it live.
+PLACEHOLDER_RE = re.compile(
+    r"\[\s*(?:insert|verified stat|source needed|citation needed|tbd|todo|"
+    r"add stat|add source|placeholder|fill in|fixme)[^\]]*\]",
+    re.IGNORECASE,
+)
+
 SYSTEM_PROMPT = """You are an automated content writer for JR Edmonson's affiliate \
 marketing blog, ProAffiliateVault (https://jredmonson.github.io/). Voice: direct \
 practitioner, no fluff, no hype. Audience: affiliate marketers, digital marketers, \
@@ -97,8 +109,13 @@ online entrepreneurs, and local business owners evaluating done-for-you services
 
 Honesty rules: No fabricated statistics. No hype words (revolutionize, \
 game-changing, unleash). Write as a practitioner with a specific point of view. \
-Use "[insert verified stat + source]" as a placeholder if a number would help \
-but you don't have a verified source.
+Never write a bracketed placeholder such as "[insert stat]", "[source needed]", \
+"[TBD]" or anything similar anywhere in the output - this content is published \
+directly to a live page with no human review pass, so a placeholder ships as-is \
+and reads as broken to a real visitor. If a specific number would help but you \
+don't have a verified source, either state the point qualitatively without \
+inventing a figure (e.g. "most", "a growing share of", "the majority of") or \
+simply omit that data point and move on to the next one.
 
 Return ONLY a single JSON object (no markdown fences, no commentary) with this \
 exact shape:
@@ -321,6 +338,11 @@ def validate_generated(topic, article):
     qa_words = len(article["quick_answer"].split())
     if not (30 <= qa_words <= 100):
         errors.append(f"quick_answer is {qa_words} words, expected roughly 40-80")
+
+    for field in ("body_markdown", "quick_answer", "excerpt"):
+        hits = PLACEHOLDER_RE.findall(article.get(field, ""))
+        if hits:
+            errors.append(f"{field} contains an unfilled placeholder ({hits}) - the model wrote a literal bracketed placeholder instead of real content; this must never publish")
 
     for m in topic.get("money_page_links", []):
         if m["url"] not in KNOWN_ROUTES:

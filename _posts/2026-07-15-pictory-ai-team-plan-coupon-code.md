@@ -36,7 +36,7 @@ If you're seeing "exclusive coupon" claims on random blogs, treat them skeptical
 | Annual billing | Lower effective monthly rate vs. monthly billing | All tiers |
 | Sitewide promo code (when active) | Percentage off first cycle | All tiers |
 | Affiliate/partner link bonuses | Varies by partner offer | All tiers |
-| "Team-exclusive" codes | [insert verified stat + source] | Not consistently documented |
+| "Team-exclusive" codes | Rare, check current promos | Not consistently documented |
 
 If a code works, use it. But don't let the hunt for a coupon distract from the bigger decision: which tier actually fits your workflow.
 

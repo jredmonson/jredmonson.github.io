@@ -81,7 +81,7 @@ Practical ways to inject authority signals into a page:
 
 - Cite a specific number with its source instead of a vague superlative ("best," "top-rated") that anyone could claim.
 - Include a detail only someone who does the work would know - a specific tool, a specific failure mode, a specific timeline.
-- Reference [insert verified stat + source] where a real statistic would strengthen a claim, rather than inventing a number to sound authoritative.
+- Reference credible outside data where a real statistic would strengthen a claim, rather than inventing a number to sound authoritative.
 - Link out to credible external sources when citing data that isn't your own.
 - Keep claims proportional - overselling in the copy erodes the trust the structure was built to earn.
 
@@ -135,7 +135,7 @@ A: A generalist writer produces readable prose but may not structure it for sear
 A: Yes, but placement and natural usage matter more than repetition count. The keyphrase should appear where a reader would naturally expect it - the title, the opening sentence, a few subheaders - without disrupting the sentence flow to force it in.
 
 **Q: How long does it take to see ranking results from a rewrite like this?**
-A: It varies by site authority, competition, and how indexed the previous version was, but most sites see measurable movement within a few months rather than weeks - search engines need time to recrawl, reassess, and adjust rankings. [insert verified stat + source] can give a more specific timeline benchmark once available.
+A: It varies by site authority, competition, and how indexed the previous version was, but most sites see measurable movement within a few months rather than weeks - search engines need time to recrawl, reassess, and adjust rankings. A larger sample across multiple sites can give a more specific timeline benchmark once available.
 
 **Q: Can this be done in-house, or does it require a specialist?**
 A: It can be done in-house if someone on the team understands both persuasive writing and basic on-page SEO structure - that combination is less common than either skill alone. Many local businesses outsource this specifically because finding or training that dual skill set internally costs more time than the outsourced engagement.

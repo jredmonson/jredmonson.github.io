@@ -63,7 +63,7 @@ None of these are WordPress problems or Elementor problems. They're planning pro
 
 Speed and mobile performance on a custom Elementor build come from stripping out unused widgets, compressing images, and testing the layout on an actual phone before launch - not from installing a "speed optimization" plugin after the fact. Most local business traffic is mobile, so a site that's slow or awkward on a phone is losing leads before the headline finishes loading.
 
-Google has stated that page experience, including load speed, is a ranking factor, and separately, most consumer research points to mobile-first browsing behavior for local searches - if you don't have a verified current benchmark for your niche, treat that as [insert verified stat + source] rather than a guess.
+Google has stated that page experience, including load speed, is a ranking factor, and separately, most consumer research points to mobile-first browsing behavior for local searches - if you don't have a verified current benchmark for your niche, treat that as an estimate to refine later rather than a guess.
 
 What a properly built site does differently:
 
@@ -110,7 +110,7 @@ Cost comparisons between a custom build, a template purchase, and a full DIY att
 | Purchased premium template + freelancer edits | Moderate ($300-$1,500) | Moderate | Moderate - still generic structure |
 | Custom Elementor build | Higher upfront | Low for owner | Low - built around conversion path |
 
-There's no universal "right" number here without knowing your market and freelancer rates, so treat any specific dollar figure as [insert verified stat + source] until you've gotten quotes for your actual project scope. What's consistent across projects is that the hidden cost of the cheap options is time and missed leads, not just cash.
+There's no universal "right" number here without knowing your market and freelancer rates, so treat any specific dollar figure as a starting ballpark until you've gotten quotes for your actual project scope. What's consistent across projects is that the hidden cost of the cheap options is time and missed leads, not just cash.
 
 ## What the Build Process Looks Like
 

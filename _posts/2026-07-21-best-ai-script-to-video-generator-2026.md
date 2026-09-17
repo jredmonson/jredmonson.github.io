@@ -95,7 +95,7 @@ Free and entry-tier plans across this category typically include watermarks, res
 | Starter paid tier | Monthly video-minute cap | Fine for 4-8 videos/month |
 | Higher tier | Higher/no cap, priority rendering | Needed if repurposing weekly |
 
-Check current caps directly before committing to a plan, since these limits change and vary by promotion — [insert verified stat + source] for exact current pricing at time of your signup.
+Check current caps directly before committing to a plan, since these limits change and vary by promotion — visit the provider's pricing page for exact current pricing at time of your signup.
 
 ## Comparing the Realistic Alternatives
 

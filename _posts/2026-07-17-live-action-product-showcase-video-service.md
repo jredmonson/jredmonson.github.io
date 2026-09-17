@@ -75,7 +75,7 @@ Think about the categories that depend most on personal trust: home contractors,
 
 Even well-produced avatars still carry small tells — micro-timing in speech, unnatural blinking patterns, lighting that never quite matches a real room. Most viewers can't articulate what's off, but they feel it, and that feeling shows up as reduced watch time and lower click-through on the CTA.
 
-[insert verified stat + source] on avatar video completion rates versus live-action completion rates would strengthen this point further, but the practical pattern affiliate marketers report is consistent: avatar content performs fine for information-dense, low-emotional-stakes topics, and underperforms the moment trust or sensory judgment enters the decision.
+A direct study on avatar video completion rates versus live-action completion rates would strengthen this point further, but the practical pattern affiliate marketers report is consistent: avatar content performs fine for information-dense, low-emotional-stakes topics, and underperforms the moment trust or sensory judgment enters the decision.
 
 The fix isn't abandoning AI tools — it's matching the format to the stakes. High-stakes purchase decisions (anything over a modest price point, anything involving physical risk like home repair or health) deserve the trust weight that real footage carries.
 

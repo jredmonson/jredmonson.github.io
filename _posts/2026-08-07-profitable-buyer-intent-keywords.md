@@ -102,7 +102,7 @@ Rough illustration (using placeholder assumptions, not verified industry average
 | Broad, informational | 2,000 | Low - browsing traffic | Few qualified leads |
 | Buyer-intent, long-tail | 40 | High - ready-to-buy traffic | Comparable or more qualified leads |
 
-[insert verified stat + source] on actual local service conversion rates by keyword type would sharpen this comparison, but the directional logic holds in every local SEO campaign I've reviewed: intent match beats volume for lead generation.
+A larger sample size on actual local service conversion rates by keyword type would sharpen this comparison, but the directional logic holds in every local SEO campaign I've reviewed: intent match beats volume for lead generation.
 
 Once a client's keyword strategy is filtered for buyer intent instead of vanity volume, the next thing most owners want handled is making sure their Google Business Profile and local citations are actually set up to capture the calls that intent-driven traffic generates - which is exactly where a **[Grab the Free LeadsLeap Blueprint ->](https://llpgpro.com/6jjpsb3w/)** style lead-capture system earns its keep.
 

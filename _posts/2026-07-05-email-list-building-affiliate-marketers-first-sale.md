@@ -143,10 +143,10 @@ Track these instead:
 
 | Metric | Healthy Early Benchmark |
 |---|---|
-| Open rate | [insert verified stat + source] |
-| Reply rate | [insert verified stat + source] |
-| Click-through rate | [insert verified stat + source] |
-| Unsubscribe rate | [insert verified stat + source] |
+| Open rate | Trending upward send over send |
+| Reply rate | At least a few genuine replies per send |
+| Click-through rate | Enough clicks to see which links people act on |
+| Unsubscribe rate | Low and steady, not spiking after any single send |
 
 Don't chase list growth hacks until these numbers tell you the foundation works. A bigger list built on a broken sequence just means more people ignoring you at scale.
 

@@ -117,7 +117,7 @@ A: No. They overlap on a handful of global platforms like Google Business Profil
 A: There's no fixed number that applies universally — it depends on your industry and local competition. What matters more is that the citations you do have are accurate and cover the Canada-specific directories relevant to your business category and province.
 
 **Q: Does NAP consistency really affect local rankings?**
-A: [insert verified stat + source] on the direct ranking impact, but inconsistent NAP data is widely understood in the local SEO community to create conflicting trust signals that can suppress local pack visibility even when other SEO factors are strong.
+A: Google hasn't published a specific ranking-weight figure on the direct ranking impact, but inconsistent NAP data is widely understood in the local SEO community to create conflicting trust signals that can suppress local pack visibility even when other SEO factors are strong.
 
 <script type="application/ld+json">
 {
@@ -153,7 +153,7 @@ A: [insert verified stat + source] on the direct ranking impact, but inconsisten
       "name": "Does NAP consistency really affect local rankings?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "[insert verified stat + source] on the direct ranking impact, but inconsistent NAP data is widely understood in the local SEO community to create conflicting trust signals that can suppress local pack visibility even when other SEO factors are strong."
+        "text": "Google hasn't published a specific ranking-weight figure on the direct ranking impact, but inconsistent NAP data is widely understood in the local SEO community to create conflicting trust signals that can suppress local pack visibility even when other SEO factors are strong."
       }
     }
   ]

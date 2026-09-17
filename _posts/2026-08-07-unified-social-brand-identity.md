@@ -104,7 +104,7 @@ Think of it in terms of what a visitor is actually doing:
 - Cross-checking one platform against another for consistency
 - Deciding, often in under a minute, whether to reach out
 
-A consistent brand shortens that decision window. An inconsistent one lengthens it - or ends it before contact ever happens. [insert verified stat + source] would help quantify the conversion lift precisely, but the underlying mechanism - trust shortcuts breaking under inconsistency - holds regardless of the exact number.
+A consistent brand shortens that decision window. An inconsistent one lengthens it - or ends it before contact ever happens. A controlled before/after test would help quantify the conversion lift precisely, but the underlying mechanism - trust shortcuts breaking under inconsistency - holds regardless of the exact number.
 
 ## FAQ
 

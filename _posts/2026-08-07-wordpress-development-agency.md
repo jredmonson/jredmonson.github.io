@@ -70,7 +70,7 @@ What a real security configuration includes:
 - File integrity monitoring to flag unauthorized changes
 - A written incident response plan - who gets notified, and how fast
 
-[Insert verified stat + source] on WordPress-specific breach causes would be useful here, but the pattern is well known among people who clean up after breaches: outdated plugins and weak admin credentials account for the overwhelming majority of compromised sites. An agency that specializes in [WordPress site security configuration](https://jredmonson.github.io/local-business/wordpress-site-security-configuration/) should be able to walk you through their hardening checklist in the sales call, not just point to a plugin logo on their homepage.
+Precise industry numbers on WordPress-specific breach causes would be useful here, but the pattern is well known among people who clean up after breaches: outdated plugins and weak admin credentials account for the overwhelming majority of compromised sites. An agency that specializes in [WordPress site security configuration](https://jredmonson.github.io/local-business/wordpress-site-security-configuration/) should be able to walk you through their hardening checklist in the sales call, not just point to a plugin logo on their homepage.
 
 ## Performance and Speed Under Real Load
 

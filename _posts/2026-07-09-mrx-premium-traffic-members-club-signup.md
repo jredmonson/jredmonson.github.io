@@ -45,7 +45,7 @@ Tiers are built around monthly click volume, and the per-click cost drops as the
 | Growth | Mid volume | 2-3 rotating offers |
 | Pro | Higher volume | Agency/multi-offer promoters |
 
-*(Exact click counts and prices are confirmed at checkout — [insert verified stat + source] for current tier numbers.)*
+*(Exact click counts and prices are confirmed at checkout — check MRX's own signup page for current tier numbers.)*
 
 The mistake most new members make is picking the cheapest tier and then splitting it across five offers, which just recreates the same thin-traffic problem they had buying one-offs. Pick a tier that matches how many offers you're actually running, not how little you want to spend.
 
@@ -116,10 +116,10 @@ A: A recurring monthly click allotment, inclusion in the ongoing traffic rotator
 A: It can be, but the clearest savings show up once you're running more than one offer a month, since the flat fee spreads across all of them. With a single offer, compare the tier cost directly against a one-off buy before committing.
 
 **Q: Do unused clicks roll over to the next month?**
-A: Rollover policies vary by tier and typically don't carry over indefinitely — treat your monthly allotment as use-it-or-lose-it and plan your offer rotation accordingly. [insert verified stat + source] for the exact current policy.
+A: Rollover policies vary by tier and typically don't carry over indefinitely — treat your monthly allotment as use-it-or-lose-it and plan your offer rotation accordingly. Check your account dashboard for the exact current policy.
 
 **Q: Can I cancel or change tiers after signing up?**
-A: Yes, membership billing is typically month-to-month with the option to upgrade, downgrade, or cancel before the next billing cycle. Check the current terms at checkout since policies can be updated. [insert verified stat + source]
+A: Yes, membership billing is typically month-to-month with the option to upgrade, downgrade, or cancel before the next billing cycle. Check the current terms at checkout since policies can be updated. Don't rely on this article for the exact fine print.
 
 <script type="application/ld+json">
 {

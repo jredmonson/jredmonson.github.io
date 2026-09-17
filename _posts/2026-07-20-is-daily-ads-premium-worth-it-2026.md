@@ -15,7 +15,7 @@ excerpt: "If you're buying traffic on Daily Ads every week, the premium upgrade 
 - The upgrade breaks even fastest for members already buying traffic at least once a week, not casual browsers.
 - Free-tier members get limited credit access and slower reward accumulation, which pushes real advertisers toward premium anyway.
 - Premium membership without consistent campaign activity is a sunk cost — the discipline to run ads weekly matters more than the tier you're on.
-- [insert verified stat + source] on average premium-to-free conversion rates across similar traffic-exchange platforms would help contextualize demand, but no verified figure exists yet.
+- Industry data on average premium-to-free conversion rates across similar traffic-exchange platforms would help contextualize demand, but no verified figure exists yet.
 
 ## The Real Question Isn't the Price Tag
 

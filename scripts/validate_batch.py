@@ -100,6 +100,19 @@ def load_json(path):
 CONTROL_BYTE_RE = re.compile(rb"[\x00-\x08\x0b\x0c\x0e-\x1f]")
 UNSUBSTITUTED_PLACEHOLDER_RE = re.compile(r"\{[a-zA-Z_][a-zA-Z0-9_]*\}")
 DATE_LINE_RE = re.compile(r"^date:\s*(.+)$", re.MULTILINE)
+# Catches the 9/15/2026 bug: a literal unfilled "[insert verified stat +
+# source]"-style placeholder left in a published article body. This is
+# distinct from UNSUBSTITUTED_PLACEHOLDER_RE above (a Python .format() bug
+# leaving a {word} token) - this one is the model itself writing bracketed
+# placeholder text into content that ships straight to a live page. The
+# generation-time fix lives in autopublish.py's SYSTEM_PROMPT + its own
+# validate_generated() gate; this is the same check applied to whatever is
+# actually sitting in _posts/*.md, as a second line of defense.
+CONTENT_PLACEHOLDER_RE = re.compile(
+    r"\[\s*(?:insert|verified stat|source needed|citation needed|tbd|todo|"
+    r"add stat|add source|placeholder|fill in|fixme)[^\]]*\]",
+    re.IGNORECASE,
+)
 
 
 def find_post_file(topic):
@@ -151,6 +164,10 @@ def validate_post_file(path):
     placeholder_hits = UNSUBSTITUTED_PLACEHOLDER_RE.findall(frontmatter_block)
     if placeholder_hits:
         problems.append(f"frontmatter contains what looks like an unsubstituted template placeholder: {placeholder_hits} - a Python .format(...)/f-string call almost certainly failed to fill this in before the file was written")
+
+    content_placeholder_hits = CONTENT_PLACEHOLDER_RE.findall(text)
+    if content_placeholder_hits:
+        problems.append(f"post contains an unfilled content placeholder: {content_placeholder_hits} - a literal bracketed placeholder (e.g. '[insert verified stat + source]') was left in published content instead of a real citation or a clean omission")
 
     date_match = DATE_LINE_RE.search(frontmatter_block)
     if not date_match:

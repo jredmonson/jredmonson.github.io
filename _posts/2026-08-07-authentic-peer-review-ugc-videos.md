@@ -110,7 +110,7 @@ The businesses that see results treat UGC as objection-handling content, not fil
 - A video addressing trust hesitation ("I was worried about scheduling") placed near the booking form.
 - A video addressing quality hesitation ("I've used three other companies before this one") placed in retargeting.
 
-[Insert verified stat + source] on UGC conversion lift is worth checking against your own analytics rather than assuming a blanket industry number applies to your specific service category.
+Any specific number on UGC conversion lift is worth checking against your own analytics rather than assuming a blanket industry number applies to your specific service category.
 
 Once a business has a system for consistently collecting and placing this kind of content, the next thing most owners realize they need is a steady flow of new leads to keep feeding it - which is where **[Grab the Free LeadsLeap Blueprint ->](https://llpgpro.com/6jjpsb3w/)** comes in. Build your leads system from scratch, free.
 

@@ -56,7 +56,7 @@ Think of it as writing the hook twice - once for the eyes, once for the ears - a
 
 ## The Pattern Interrupt Formula
 
-A pattern interrupt hook works by breaking the viewer's expectation of what a normal video in that format looks like, forcing a half-second of curiosity that buys the creator enough time to deliver the real hook. This is a well-documented behavior in attention research, though exact stats vary by platform and niche - [insert verified stat + source] if a specific benchmark is needed for a client report.
+A pattern interrupt hook works by breaking the viewer's expectation of what a normal video in that format looks like, forcing a half-second of curiosity that buys the creator enough time to deliver the real hook. This is a well-documented behavior in attention research, though exact stats vary by platform and niche - pull the current numbers from that platform's own analytics if a specific benchmark is needed for a client report.
 
 Common pattern interrupt structures that work across local business UGC content:
 

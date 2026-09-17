@@ -90,7 +90,7 @@ A schema block can pass the Rich Results Test and still not produce a visible ri
 
 Schema markup is becoming more relevant, not less, as AI-generated search summaries pull structured facts to build answers instead of just linking to pages. A business with clean, complete schema gives these systems a clearer, lower-effort source to cite or summarize accurately.
 
-This is a forward-looking argument, not a settled statistic - there's no way to independently verify how often any specific AI overview system weights schema versus text parsing [insert verified stat + source]. But the directional logic holds: structured data is cheaper and more reliable for a machine to consume than unstructured prose, and that preference tends to compound as these systems scale.
+This is a forward-looking argument, not a settled statistic - there's no way to independently verify how often any specific AI overview system weights schema versus text parsing since none of the major AI engines publish that methodology. But the directional logic holds: structured data is cheaper and more reliable for a machine to consume than unstructured prose, and that preference tends to compound as these systems scale.
 
 ## FAQ
 

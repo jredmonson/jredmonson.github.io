@@ -110,7 +110,7 @@ Once captions are handled correctly across your video assets, most clients turn 
 **A:** No. They support the script, they don't replace it. A weak script with great captions still underperforms - captions amplify a clear message, they don't create one.
 
 **Q: How much does caption style really affect view completion?**
-**A:** [insert verified stat + source]. Directionally, tighter word-synced captions correlate with better completion rates on muted playback, but exact figures vary by platform and audience.
+**A:** There's no single industry-wide number. Directionally, tighter word-synced captions correlate with better completion rates on muted playback, but exact figures vary by platform and audience.
 
 <script type="application/ld+json">
 {
@@ -146,7 +146,7 @@ Once captions are handled correctly across your video assets, most clients turn 
       "name": "How much does caption style really affect view completion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Directionally, tighter word-synced captions correlate with better completion rates on muted playback, but exact figures vary by platform and audience. [insert verified stat + source]"
+        "text": "Directionally, tighter word-synced captions correlate with better completion rates on muted playback, but exact figures vary by platform and audience. No single industry-wide number exists"
       }
     }
   ]

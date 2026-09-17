@@ -13,7 +13,7 @@ excerpt: "When you're comparing hostinger horizons vs wix for an affiliate site,
 
 - Hostinger Horizons uses AI to generate a working site structure in minutes, built on Hostinger's existing hosting stack — no separate hosting purchase needed.
 - Wix requires a separate premium plan to remove ads and unlock custom domains, which adds to the effective annual cost.
-- Site speed matters more for affiliate SEO than visual polish — [insert verified stat + source] on how page speed affects affiliate click-through rates.
+- Site speed matters more for affiliate SEO than visual polish — no single industry-wide figure exists on how page speed affects affiliate click-through rates.
 - Wix's app marketplace is deeper, but most of those apps aren't needed for a lean affiliate review site or comparison blog.
 - Migrating away from Wix later is harder than migrating away from Hostinger Horizons, because Wix locks content into its proprietary editor.
 

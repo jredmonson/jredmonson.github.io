@@ -15,7 +15,7 @@ excerpt: "Is MRX Premium Traffic worth the money depends entirely on whether you
 - Break-even cost per click = (conversion rate) x (commission or EPC). If your math doesn't clear that number, no traffic source will save the campaign.
 - Solo-ad-style traffic performs best with offers that have a fast, low-friction opt-in — think lead magnets and low-ticket front-ends, not cold high-ticket pitches.
 - Tracking with a dedicated link and a tool like ClickMagick or Voluum is non-negotiable — without it you're guessing, not testing.
-- [insert verified stat + source] on average solo/traffic-network conversion rates would strengthen any pre-purchase projection — don't rely on seller-provided numbers alone.
+- Real, independently verified numbers on average solo/traffic-network conversion rates would strengthen any pre-purchase projection — don't rely on seller-provided numbers alone.
 
 ## The Traffic Question Everyone Asks Backwards
 
@@ -97,7 +97,7 @@ A reasonable test sequence:
 4. Compare cost per lead/sale against your break-even number from the math section above.
 5. Only scale to a larger package if the small test cleared break-even with margin.
 
-If the small test doesn't clear break-even, don't blame the traffic yet — check your landing page conversion rate against [insert verified stat + source] for typical solo-ad landing page benchmarks in the IM niche before deciding the traffic itself was the issue.
+If the small test doesn't clear break-even, don't blame the traffic yet — check your landing page conversion rate against a broader sample for typical solo-ad landing page benchmarks in the IM niche before deciding the traffic itself was the issue.
 
 ## Alternatives to Consider Before You Buy
 

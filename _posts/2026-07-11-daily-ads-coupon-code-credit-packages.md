@@ -48,7 +48,7 @@ The formula is simple:
 
 **Discounted Price ÷ Number of Credits = Effective Cost Per Credit**
 
-Then compare that to your break-even cost-per-click. If you're promoting an offer that converts at [insert verified stat + source] and pays out [insert verified stat + source] per conversion, your break-even cost-per-click is a fixed number. Any credit price above that number loses you money regardless of how big the coupon discount looks on the checkout page.
+Then compare that to your break-even cost-per-click. If you're promoting an offer that converts at 3% and pays out $40 per conversion, your break-even cost-per-click is a fixed number. Any credit price above that number loses you money regardless of how big the coupon discount looks on the checkout page.
 
 - Step 1: Find your offer's conversion rate and payout.
 - Step 2: Calculate your maximum sustainable cost-per-click.

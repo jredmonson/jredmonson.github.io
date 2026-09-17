@@ -144,7 +144,7 @@ The output isn't perfect every time, but it's good enough to publish — and pub
 
 ## Common Mistakes to Avoid
 
-**Publishing raw AI output without review.** AI tools hallucinate facts. Always check statistics, product claims, and URLs before publishing. Replace [insert verified stat + source] placeholders with real data.
+**Publishing raw AI output without review.** AI tools hallucinate facts. Always check statistics, product claims, and URLs before publishing. Replace unverified placeholders with real data.
 
 **Chasing every new tool.** The AI tools space moves fast. Pick two or three tools that cover your workflow and stick with them long enough to get good at them.
 

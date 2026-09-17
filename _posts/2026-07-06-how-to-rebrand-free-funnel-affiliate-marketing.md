@@ -13,7 +13,7 @@ excerpt: "Most marketers grab a free funnel, slap in their affiliate link, and w
 
 - A rebranded free funnel outperforms a stock funnel because it reads as original content, not a duplicate of thousands of other affiliate pages.
 - The three highest-leverage edits are: headline, personal story block, and testimonial section — these are what visitors actually read before clicking.
-- Duplicate content from unedited free funnels can suppress organic reach; changing at least 30-40% of on-page text is a practical minimum [insert verified stat + source].
+- Duplicate content from unedited free funnels can suppress organic reach; changing at least 30-40% of on-page text is a practical minimum many practitioners use.
 - Adding your own opt-in incentive (a bonus, checklist, or blueprint) separates your version from every other affiliate using the same funnel.
 - Rebranding takes under an hour per funnel once you have a repeatable checklist — it's not a redesign, it's a targeted edit pass.
 
@@ -104,7 +104,7 @@ This is also where cross-promoting other resources works naturally — for examp
 Beyond the on-page copy, there are a few structural things worth doing so your rebranded funnel doesn't get treated as a duplicate by search engines:
 
 - Change page titles and meta descriptions — don't leave the vendor's default text
-- Rewrite at least 30-40% of visible text on the page in your own words [insert verified stat + source]
+- Rewrite at least 30-40% of visible text on the page in your own words so it reads as genuinely yours
 - Add a unique image or screenshot not used elsewhere
 - Host the funnel on your own domain or subdomain when the platform allows it
 - Link internally from existing blog content to the rebranded funnel page

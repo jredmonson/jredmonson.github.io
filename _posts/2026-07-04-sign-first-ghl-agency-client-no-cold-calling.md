@@ -11,7 +11,7 @@ excerpt: "You don't need a call script or a list of 200 dead-end leads to sign y
 
 ## Key Takeaways
 
-- Cold calling has a documented low close rate for local service pitches and burns solo operator time that could go toward building assets [insert verified stat + source].
+- Cold calling has a documented low close rate for local service pitches and burns solo operator time that could go toward building assets instead of chasing them one call at a time.
 - One well-written case study article does more selling than 100 cold calls because the prospect self-qualifies before contacting you.
 - A Google Business Profile with the right category, service area, and reviews turns local searches into inbound leads without ad spend.
 - HighLevel's white-label and snapshot features let you productize the same case study offer for multiple niches without rebuilding from scratch.
@@ -128,7 +128,7 @@ A: No. You can build the case study using a friend's business, a past employer, 
 A: Avoid the generic "Marketing Agency" category if possible. Choose a more specific category aligned with the niche in your case study, since narrower categories tend to face less local competition and match search intent more precisely.
 
 **Q: How long does inbound take to produce a first client compared to cold calling?**
-A: It varies by niche and local search volume, so there's no fixed timeline [insert verified stat + source]. What's consistent is that once the case study and profile are live, they keep working without additional daily effort, unlike cold calling which requires constant new outreach.
+A: It varies by niche and local search volume, so there's no fixed timeline to point to. What's consistent is that once the case study and profile are live, they keep working without additional daily effort, unlike cold calling which requires constant new outreach.
 
 <script type="application/ld+json">
 {

@@ -139,7 +139,7 @@ Once editing and posting cadence are handled reliably, most businesses look at e
 ## FAQ
 
 **Q: How much does professional video editing for YouTube and TikTok typically cost?**
-A: Pricing varies widely by scope, but most services charge per video, per package, or a monthly retainer for a set volume of content. [insert verified stat + source] on average per-video pricing would need to come from a current market survey, since rates vary significantly by editor experience and turnaround speed.
+A: Pricing varies widely by scope, but most services charge per video, per package, or a monthly retainer for a set volume of content. A precise number on average per-video pricing would need to come from a current market survey, since rates vary significantly by editor experience and turnaround speed.
 
 **Q: Can one video be edited once and used on both YouTube and TikTok?**
  A: Not effectively without adjustments. The aspect ratio, pacing, and hook timing needs differ enough between platforms that a direct repost usually underperforms compared to a version re-edited and resized for each platform's viewing behavior.

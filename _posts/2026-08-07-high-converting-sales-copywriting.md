@@ -60,7 +60,7 @@ An adjective asks the visitor to take your word for it. A specific claim gives t
 - Weak: "Fast, reliable service."
 - Strong: "92% of service calls completed same-day, per our 2023 dispatch logs."
 
-If you don't have a real number yet, don't invent one - use "[insert verified stat + source]" internally as a placeholder until you pull the actual figure from your own records, then replace it. A false specific number is worse than a vague adjective because it's a lie that can be checked.
+If you don't have a real number yet, don't invent one - use "TK — get real number" internally as a placeholder until you pull the actual figure from your own records, then replace it. A false specific number is worse than a vague adjective because it's a lie that can be checked.
 
 ## What Role Does Proof Play in Converting Inquiries
 

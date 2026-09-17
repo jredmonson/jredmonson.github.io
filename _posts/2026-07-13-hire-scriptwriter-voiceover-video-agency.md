@@ -32,7 +32,7 @@ When you don't yet know if an offer, angle, or hook works, DIY scripts and AI-ge
 A few reasons DIY makes sense at this stage:
 
 - **Speed.** You can write, record, and publish a test video in a day. An agency turnaround is measured in days or weeks.
-- **Cost per test.** AI voice tools run [insert verified stat + source] per minute of audio compared to agency rates. When you're running 10 angle tests, that difference matters.
+- **Cost per test.** AI voice tools run a fraction of the cost per minute of audio compared to agency rates. When you're running 10 angle tests, that difference matters.
 - **Iteration.** You'll rewrite the script three or four times based on early performance. Paying an agency for each revision is expensive and slow.
 - **No sunk cost pressure.** If the offer flops, you haven't spent agency money defending a bad idea.
 

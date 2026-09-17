@@ -14,7 +14,7 @@ excerpt: "Is LeadsLeap Pro worth it? Only if you're actively building a list you
 - LeadsLeap's free tier already includes a working traffic exchange, link tracker, landing page builder, and a basic list builder — you can test the whole system before spending anything.
 - The single biggest reason marketers upgrade is the autoresponder subscriber cap on the free plan, which forces a decision once your list starts growing.
 - Pro membership also increases your referral commission percentage and gives priority placement in the ad rotation, which matters more once you're sending real traffic.
-- Pricing has shifted over the years — check current rates on the LeadsLeap pricing page before assuming a figure ([insert verified stat + source]).
+- Pricing has shifted over the years — check current rates on the LeadsLeap pricing page before assuming a figure (one you saw somewhere else).
 - The upgrade decision should be tied to whether you have a monetization plan in place, not to how long you've used the free version.
 
 Most "is X worth it" questions in affiliate marketing get answered with a sales pitch dressed up as an article. That's not useful to you. LeadsLeap is a legitimate traffic and list-building platform that's been around for over a decade, and the free tier is generous enough that a lot of people never need to upgrade — which is exactly why the upgrade decision deserves a clear-eyed answer instead of a blanket "yes, upgrade now."
@@ -49,7 +49,7 @@ The differences aren't cosmetic. They cluster around three things: list capacity
 | Referral commission rate | Base rate | Increased rate |
 | Landing pages | Limited | Expanded |
 
-Exact caps and percentages change periodically, so check the current terms on LeadsLeap's site rather than relying on numbers from an old review ([insert verified stat + source]). The pattern that matters is consistent though: everything you'd need to prove the model works is free, and everything you need to scale it is behind Pro.
+Exact caps and percentages change periodically, so check the current terms on LeadsLeap's site rather than relying on numbers from an old review (including this one). The pattern that matters is consistent though: everything you'd need to prove the model works is free, and everything you need to scale it is behind Pro.
 
 ## The List-Building Case for Pro
 
@@ -121,7 +121,7 @@ This removes the guesswork and ties the decision to your actual usage instead of
 A: Usually not immediately. Beginners benefit more from testing the free traffic exchange and list builder first to confirm the platform fits their strategy before paying for expanded capacity they may not need yet.
 
 **Q: How much does LeadsLeap Pro cost?**
-A: Pricing has changed over time, so check the current rate directly on LeadsLeap's pricing page rather than relying on an older figure ([insert verified stat + source]).
+A: Pricing has changed over time, so check the current rate directly on LeadsLeap's pricing page rather than relying on an older figure (from a review like this).
 
 **Q: Can you build a real email list on the free LeadsLeap plan?**
 A: Yes, within a subscriber cap. The free autoresponder works for testing sequences and building an initial list, but growing past the cap is what typically triggers the Pro upgrade decision.

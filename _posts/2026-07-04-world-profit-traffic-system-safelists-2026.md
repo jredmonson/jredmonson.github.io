@@ -43,7 +43,7 @@ The practical difference between World Profit's system and a random free safelis
 
 Anyone selling you a fixed conversion rate on safelist traffic is guessing. Response rates depend entirely on your subject line, your offer, and how many times your name has already crossed a reader's inbox. What's consistent across this channel: it's a repetition game, not a one-shot game.
 
-[insert verified stat + source] on average safelist click-through rates would help frame expectations here, but until that's sourced, treat any specific percentage you see online as unverified marketing copy.
+No independently verified figure on average safelist click-through rates would help frame expectations here, but until that's sourced, treat any specific percentage you see online as unverified marketing copy.
 
 What does hold up under practitioner experience:
 

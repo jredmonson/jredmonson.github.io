@@ -74,7 +74,7 @@ Service-area businesses without a public storefront face extra scrutiny here - b
 
 ## How long reinstatement actually takes
 
-Reinstatement review timelines typically run two to six weeks from submission, though soft suspensions resolved through simple edits can clear in a matter of days. Hard suspensions requiring manual human review consistently take longer, and there's no verified official SLA from Google - [insert verified stat + source] if a specific average processing time is needed for a claim.
+Reinstatement review timelines typically run two to six weeks from submission, though soft suspensions resolved through simple edits can clear in a matter of days. Hard suspensions requiring manual human review consistently take longer, and there's no verified official SLA from Google - check the Business Profile help community for recent reports if a specific average processing time is needed for a claim.
 
 What you can control in that window:
 

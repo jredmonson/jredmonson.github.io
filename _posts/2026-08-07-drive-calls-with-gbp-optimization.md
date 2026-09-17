@@ -59,7 +59,7 @@ Fields worth auditing quarterly:
 
 ## Do Photos Actually Increase Call Volume or Just Views
 
-Photos primarily increase profile views and time-on-profile, which are prerequisite engagement signals - there's no verified public data showing a direct, quantified photo-to-call conversion rate, but businesses that upload weekly tend to maintain stronger map pack visibility than those with stale photo sets. [insert verified stat + source]
+Photos primarily increase profile views and time-on-profile, which are prerequisite engagement signals - there's no verified public data showing a direct, quantified photo-to-call conversion rate, but businesses that upload weekly tend to maintain stronger map pack visibility than those with stale photo sets. That pattern holds across the accounts we track.
 
 What we know from practitioner observation: profiles with recent, real (not stock) photos of the team, the location, and completed work get more clicks in the map pack carousel. More clicks means more people reaching the point where they can see your call button.
 

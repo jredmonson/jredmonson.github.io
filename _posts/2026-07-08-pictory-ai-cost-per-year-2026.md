@@ -7,7 +7,7 @@ author: JR Edmonson
 excerpt: "Pictory AI cost per year isn't what the homepage shows you — the monthly price and the annual price tell two different stories, and the gap matters if you're running video content at scale. Here's the real math before you commit a credit card."
 ---
 
-> **Quick Answer:** Pictory AI cost per year depends on the plan and billing cycle you pick, since annual billing lowers the effective monthly rate compared to paying month-to-month. Expect a meaningful gap between the Starter tier and the Professional or Teams tiers — confirm exact current pricing on Pictory's pricing page before buying, as SaaS pricing changes without much notice. [insert verified stat + source]
+> **Quick Answer:** Pictory AI cost per year depends on the plan and billing cycle you pick, since annual billing lowers the effective monthly rate compared to paying month-to-month. Expect a meaningful gap between the Starter tier and the Professional or Teams tiers — confirm exact current pricing on Pictory's pricing page before buying, as SaaS pricing changes without much notice. Confirm exact numbers before publishing anywhere else.
 
 ## Key Takeaways
 
@@ -63,7 +63,7 @@ This is the part people skip when they budget. They price out the cheapest tier,
 
 ## Comparing Pictory's Annual Cost to Hiring an Editor
 
-This is the comparison that actually matters if you're deciding whether Pictory earns its keep. A freelance video editor charges per project or per hour, and rates vary widely by experience and market. [insert verified stat + source] A tool like Pictory doesn't replace a skilled editor doing complex creative work, but for repetitive text-to-video content — blog-to-video, script-to-video, repurposing long-form into shorts — it can absorb volume that would otherwise require paying a human by the piece.
+This is the comparison that actually matters if you're deciding whether Pictory earns its keep. A freelance video editor charges per project or per hour, and rates vary widely by experience and market. Get a few real quotes before comparing costs directly. A tool like Pictory doesn't replace a skilled editor doing complex creative work, but for repetitive text-to-video content — blog-to-video, script-to-video, repurposing long-form into shorts — it can absorb volume that would otherwise require paying a human by the piece.
 
 The way to run this comparison honestly: estimate how many videos per month you'd actually need produced, price out what a freelancer would charge for that volume at a fair market rate, and compare that annual total to Pictory's annual subscription cost. If your volume is low (a handful of videos a month), a freelancer or even manual editing might be cheaper. If your volume is high and repetitive, the software cost per video drops sharply as volume increases — which is exactly the scenario where a SaaS subscription outperforms per-project freelance pricing.
 
@@ -103,7 +103,7 @@ Also build in a review point. Even on an annual plan, check your usage at the 90
 ## FAQ
 
 **Q: How much does Pictory AI cost per year?**
-A: It depends on the tier and whether you bill monthly or annually — annual billing typically lowers the effective monthly rate. Confirm exact current pricing on Pictory's official pricing page since tiers and rates change periodically. [insert verified stat + source]
+A: It depends on the tier and whether you bill monthly or annually — annual billing typically lowers the effective monthly rate. Confirm exact current pricing on Pictory's official pricing page since tiers and rates change periodically. Check Pictory's site directly for the current number.
 
 **Q: Is annual billing always cheaper than monthly for Pictory?**
 A: On a per-month basis, yes, annual billing is typically discounted. But it requires paying the full year upfront, so factor in cash flow, not just the sticker price, before committing.

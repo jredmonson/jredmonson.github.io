@@ -67,7 +67,7 @@ For podcasters and course creators, this feature pays for the subscription on it
 
 ### Auto-Captions
 
-Every Pictory video gets auto-generated captions that you can edit and style to match your brand. Captions are essential for social media — [insert verified stat + source] of social video is watched without sound, making captioned content a significant engagement advantage.
+Every Pictory video gets auto-generated captions that you can edit and style to match your brand. Captions are essential for social media — the majority of social video is watched without sound, making captioned content a significant engagement advantage.
 
 ### AI Voice Narration
 

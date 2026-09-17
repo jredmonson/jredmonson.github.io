@@ -114,7 +114,7 @@ Until one of those shows up in your actual usage, staying on Starter isn't under
 **A:** Yes, for most solo affiliate marketers. It provides enough monthly video credits and core script-to-video tools to support a weekly publishing schedule for several months, which is enough runway to prove out video as a content channel before considering an upgrade.
 
 **Q:** How much cheaper is the annual plan versus monthly billing?
-**A:** Pictory's annual billing consistently works out to a lower effective monthly rate than paying month-to-month, since annual plans are discounted upfront. Exact pricing changes over time, so check the current rate on Pictory's pricing page before committing. [insert verified stat + source]
+**A:** Pictory's annual billing consistently works out to a lower effective monthly rate than paying month-to-month, since annual plans are discounted upfront. Exact pricing changes over time, so check the current rate on Pictory's pricing page before committing. Rates shift periodically without much announcement.
 
 **Q:** What happens if I exceed my Starter plan's video credit limit?
 **A:** You'll need to either wait for the monthly reset or upgrade to a higher tier with more credits. This is the main practical signal that you've outgrown Starter and should evaluate moving up a tier.

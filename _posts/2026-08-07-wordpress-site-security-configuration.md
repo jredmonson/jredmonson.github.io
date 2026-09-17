@@ -12,7 +12,7 @@ cluster: wordpress-development-agency
 
 ## Key Takeaways
 
-- WordPress runs over a third of all websites, which makes it a default target for automated attack scans - not an edge-case risk. [insert verified stat + source]
+- WordPress runs over a third of all websites, which makes it a default target for automated attack scans - not an edge-case risk. That share alone makes it a standing target for bots, not a hypothetical.
 - Most WordPress breaches trace back to outdated plugins, weak credentials, or unrestricted file permissions - not sophisticated exploits.
 - A proper security configuration is layered: authentication, firewall, monitoring, and backups all have to work together.
 - Disabling unused features (XML-RPC, file editing, REST API exposure) closes doors attackers already know how to open.

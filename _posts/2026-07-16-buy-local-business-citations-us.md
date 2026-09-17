@@ -115,7 +115,7 @@ This order matters. Building new citations on top of unresolved inconsistencies 
 
 ## What You Should Actually Pay
 
-Pricing varies widely, and there's no universally "correct" number — [insert verified stat + source] would help pin this down further. What matters more than the exact price is what's included: audit, manual submission, verification, and a corrections process if something goes wrong.
+Pricing varies widely, and there's no universally "correct" number — getting a few quotes would help pin this down further. What matters more than the exact price is what's included: audit, manual submission, verification, and a corrections process if something goes wrong.
 
 | Service Tier | What's Typically Included |
 |---|---|

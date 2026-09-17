@@ -37,7 +37,7 @@ The exact dollar figures shift periodically as Pictory adjusts feature sets, so 
 | Premium | Monthly or Annual | Marketers publishing weekly or more |
 | Teams/Custom | Annual (typically) | Agencies managing multiple brands |
 
-Source: [insert verified stat + source] — confirm current tier pricing directly on Pictory's pricing page.
+Source: Not independently verified — confirm current tier pricing directly on Pictory's pricing page.
 
 ## Monthly vs Annual: The Real Cost Breakdown
 

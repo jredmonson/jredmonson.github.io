@@ -74,7 +74,7 @@ If you don't have a tracking system in place, this is the point to build one bef
 
 Relying on a single paid traffic source is a fragile strategy. Platforms change algorithms, policies, and costs without warning, and an income stream built entirely on one source can disappear overnight through no fault of your own.
 
-[insert verified stat + source] on how often major ad platforms change policy in ways that affect affiliate campaigns — but anecdotally, every affiliate marketer I know who has been doing this for more than two years has a story about a platform shift that wiped out a campaign that had been working fine the week before.
+There's no single reliable figure on how often major ad platforms change policy in ways that affect affiliate campaigns — but anecdotally, every affiliate marketer I know who has been doing this for more than two years has a story about a platform shift that wiped out a campaign that had been working fine the week before.
 
 Build toward at least two or three traffic sources feeding the same proven funnel: one paid source, one organic source (Pinterest, YouTube, or blog content), and one owned-audience source (email list). This way, a disruption in one channel doesn't take your entire income with it.
 

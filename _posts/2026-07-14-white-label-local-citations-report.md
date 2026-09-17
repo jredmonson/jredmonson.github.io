@@ -47,7 +47,7 @@ The economics here are straightforward once you see them laid out. Wholesale cit
 | 50 citations | Low-Mid | Mid-High | Meaningful |
 | 100 citations | Mid | High | Highest |
 
-*[insert verified stat + source] for current wholesale-to-retail pricing benchmarks in your niche/region.*
+*Check your specific provider's rate card for current wholesale-to-retail pricing benchmarks in your niche/region.*
 
 The pattern holds regardless of exact pricing: larger packages compress your per-unit wholesale cost while client pricing scales closer to linear (clients think in terms of "how much bigger is 100 vs 25," not "what's the marginal cost"). That gap is your margin, and it's the entire reason citation building is worth offering as a packaged service rather than a pass-through.
 
@@ -111,7 +111,7 @@ Agencies that price citation building as a standalone commodity service tend to 
 A: Yes. Most established citation building providers offer white label PDF or dashboard reports that agencies can rebrand with their own logo and client information. Verify the specific provider allows full branding removal, not just a "powered by" tag, before building a service tier around it.
 
 **Q: How much markup is standard on a white label citation package?**
-A: There's no universal standard — it depends on package size, provider pricing, and your market. [insert verified stat + source] for benchmark margin data. Generally, larger packages compress wholesale cost per unit while client pricing scales closer to linear, widening the margin as package size increases.
+A: There's no universal standard — it depends on package size, provider pricing, and your market. Ask your provider directly for benchmark margin data. Generally, larger packages compress wholesale cost per unit while client pricing scales closer to linear, widening the margin as package size increases.
 
 **Q: Do white label citation reports actually help SEO, or are they just for show?**
 A: The report itself doesn't affect rankings — it's documentation. The underlying citations (consistent NAP data across directories) do contribute to local SEO signals. The report's value is proving the work happened and giving clients a tangible deliverable for their spend.

@@ -111,7 +111,7 @@ A lead magnet isn't a one-time build - it's a hypothesis you test. Track opt-in 
 A practical testing sequence:
 
 1. Launch with your best-guess title and format.
-2. Track opt-in rate for at least [insert verified stat + source] visitors before judging results.
+2. Track opt-in rate for at least a few hundred visitors before judging results.
 3. If opt-in rate underperforms your baseline, test a new title first - not new design.
 4. Once the title stabilizes, test format (checklist vs. video vs. template) against the same title concept.
 5. Retire lead magnets that consistently underperform rather than trying to "fix" them with cosmetic changes.
