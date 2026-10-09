@@ -5,14 +5,16 @@
 
 <!-- Primary SEO -->
 <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+{% capture meta_desc %}{% if page.description %}{{ page.description }}{% elsif page.layout == 'post' and page.excerpt %}{{ page.excerpt }}{% elsif page.layout == 'post' and page.quick_answer %}{{ page.quick_answer }}{% else %}{{ site.description }}{% endif %}{% endcapture %}{% assign meta_desc = meta_desc | strip_html | strip_newlines | strip | truncate: 160 %}
+<meta name="description" content="{{ meta_desc | escape }}">
+<meta name="robots" content="index, follow, max-image-preview:large">
 <meta name="author" content="{{ site.author }}">
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 <!-- Open Graph (Facebook, LinkedIn) -->
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:description" content="{{ meta_desc | escape }}">
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
 {% if page.image %}<meta property="og:image" content="{{ page.image | prepend: site.url }}">{% endif %}
@@ -20,7 +22,7 @@
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="twitter:description" content="{{ meta_desc | escape }}">
 
 <!-- Schema.org Structured Data -->
 {% if page.layout == 'post' %}
@@ -28,13 +30,13 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "{{ page.title }}",
-  "description": "{{ page.description }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ site.author }}"
-  },
+  "headline": {{ page.title | jsonify }},
+  "description": {{ meta_desc | jsonify }},
+  "author": {"@type": "Person", "name": {{ site.author | jsonify }}},
+  "publisher": {"@type": "Organization", "name": {{ site.title | jsonify }}, "url": {{ site.url | jsonify }}},
   "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }}{% else %}{{ page.date | date_to_xmlschema }}{% endif %}",
+  "mainEntityOfPage": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
   "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}"
 }
 </script>
