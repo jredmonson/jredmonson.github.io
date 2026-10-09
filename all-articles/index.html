@@ -1,0 +1,20 @@
+---
+layout: default
+title: "All Articles"
+description: "Every ProAffiliateVault article in one place: affiliate marketing, local business marketing, agency services, and prepaid legal guides."
+---
+<section class="blog-section">
+  <div class="container">
+    <h1>All Articles</h1>
+    <p>Every article on the site, newest first ({{ site.posts | size }} total).</p>
+    {% assign by_month = site.posts | group_by_exp: "p", "p.date | date: '%B %Y'" %}
+    {% for group in by_month %}
+    <h2>{{ group.name }}</h2>
+    <ul class="all-articles-list">
+      {% for post in group.items %}
+      <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+  </div>
+</section>
